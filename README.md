@@ -1,0 +1,2 @@
+<h2><code><a href='https://pashastrayt.github.io/learn-with-tests/' target='_blank'>Current deployment link</a></code></h2>
+<img width='245px' src='https://github.com/PashaStrayt/learn-with-tests/actions/workflows/pipeline.yml/badge.svg?branch=main' />

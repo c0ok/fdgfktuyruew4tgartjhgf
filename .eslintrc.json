@@ -1,0 +1,113 @@
+{
+  "env": {
+      "browser": true,
+      "es2021": true
+  },
+  "globals": {
+      "HeadersInit": "readonly"
+  },
+  "extends": ["airbnb-base"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+      "ecmaFeatures": {
+          "jsx": true
+      },
+      "ecmaVersion": "latest",
+      "sourceType": "module"
+  },
+  "plugins": ["react", "react-hooks", "@typescript-eslint", "unused-imports"],
+  "rules": {
+      "no-continue": 0,
+      "no-param-reassign": 0,
+      "no-useless-constructor": 0,
+      "arrow-body-style": 0,
+      "import/order": [
+          "error",
+          {
+              "newlines-between": "always",
+              "groups": [
+                  "builtin",
+                  "external",
+                  "internal",
+                  "parent",
+                  "sibling",
+                  "index",
+                  "object",
+                  "type"
+              ]
+          }
+      ],
+      "lines-between-class-members": [
+          "error",
+          "always",
+          {
+              "exceptAfterSingleLine": true
+          }
+      ],
+      "consistent-return": 0,
+      "no-mixed-operators": 0,
+      "unused-imports/no-unused-vars": [
+          "error",
+          {
+              "vars": "all",
+              "varsIgnorePattern": "^_",
+              "args": "after-used",
+              "argsIgnorePattern": "^_"
+          }
+      ],
+      "linebreak-style": 0,
+      "import/prefer-default-export": 0,
+      "max-len": [
+          "error",
+          {
+              "code": 120
+          }
+      ],
+      "eol-last": ["error", "never"],
+      "comma-dangle": ["error", "never"],
+      "no-return-assign": 0,
+      "no-restricted-syntax": 0,
+      "no-new": 0,
+      "class-methods-use-this": 0,
+      "no-unused-expressions": 0,
+      "object-curly-newline": [
+          "error",
+          {
+              "ObjectExpression": {
+                  "multiline": true,
+                  "consistent": true
+              },
+              "ObjectPattern": {
+                  "multiline": true,
+                  "consistent": true
+              },
+              "ImportDeclaration": {
+                  "multiline": true,
+                  "consistent": true
+              },
+              "ExportDeclaration": {
+                  "multiline": true,
+                  "consistent": true
+              }
+          }
+      ],
+      "import/extensions": 0,
+      "import/no-unresolved": 0,
+      "quotes": ["error", "single"],
+      "no-console": 0,
+      "semi": "error",
+      "semi-style": ["error", "last"],
+      "@typescript-eslint/semi": "error",
+      "@typescript-eslint/member-delimiter-style": [
+          "error",
+          {
+              "multiline": {
+                  "delimiter": "semi",
+                  "requireLast": true
+              }
+          }
+      ],
+      "no-shadow": 0,
+      "no-plusplus": 0
+  }
+}

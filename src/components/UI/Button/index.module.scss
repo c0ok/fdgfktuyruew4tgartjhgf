@@ -1,0 +1,32 @@
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 13px 24px;
+  border-radius: 6px;
+
+  color: var(--white-0);
+  background: var(--blue-1);
+
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.27px;
+  text-transform: uppercase;
+
+  cursor: pointer;
+
+  &:active {
+    background: var(--blue-3);
+  }
+  
+  @media (max-width: 576px) {
+    padding-inline: 16px;
+  }
+
+  @media not all and (hover: none) {
+    &:hover {
+      background: var(--blue-3);
+    }
+  }
+}

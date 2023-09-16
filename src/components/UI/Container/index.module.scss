@@ -1,0 +1,9 @@
+.container {
+  width: 100%;
+  padding-inline: calc((100% - 1024px) / 2 + 20px);
+  box-sizing: border-box;
+
+  @media (max-width: 1024px) {
+    padding-inline: 20px;
+  }
+}

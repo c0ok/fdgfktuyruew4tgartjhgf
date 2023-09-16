@@ -1,0 +1,20 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  @media (max-width: 576px) {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 16px;
+  }
+}
+
+.container {
+  padding-block: 26px;
+  border-bottom: 2px solid var(--blue-3);
+  box-sizing: border-box;
+
+  background: var(--black-0);
+}

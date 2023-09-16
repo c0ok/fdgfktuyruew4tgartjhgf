@@ -1,0 +1,21 @@
+.text {
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+
+  font-size: 21px;
+  letter-spacing: 0.24px;
+}
+
+html {
+  &[style*="color-scheme: light"] {
+    .text {
+      color: var(--white-1);
+    }
+  }
+  &[style*="color-scheme: dark"] {
+    .text {
+      color: var(--blue-4);
+    }
+  }
+}

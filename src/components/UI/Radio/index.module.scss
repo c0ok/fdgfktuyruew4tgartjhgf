@@ -1,0 +1,262 @@
+html {
+  &[style*="color-scheme: light"] {
+    .input {
+      background: var(--blue-1);
+
+      &__circle {
+        background: var(--blue-1);
+        box-shadow:
+          0 0 0 3px var(--blue-1),
+          0 0 0 5px #000;
+      }
+
+      @media not all and (hover: none) {
+        &:hover {
+          background: #b6b6b6;
+
+          div {
+            background: #b6b6b6;
+            box-shadow:
+              0 0 0 3px #b6b6b6,
+              0 0 0 5px #000;
+          }
+        }
+      }
+
+      &--checked {
+        div {
+          background: #000;
+        }
+
+        @media not all and (hover: none) {
+          &:hover {
+            background: #b6b6b6;
+  
+            div {
+              background: #000;
+              box-shadow:
+                0 0 0 3px #b6b6b6,
+                0 0 0 5px #000;
+            }
+          }
+        }
+      }
+
+      &:active,
+      &--checked {
+        background: #b6b6b6;
+
+        div {
+          background: #000;
+          box-shadow:
+            0 0 0 3px #b6b6b6,
+            0 0 0 5px #000;
+        }
+      }
+
+      &--correct {
+        background: #66df66;
+
+        div {
+          box-shadow:
+            0 0 0 3px #66df66,
+            0 0 0 5px #000;
+        }
+
+        @media not all and (hover: none) {
+          &:hover {
+            background: #66df66;
+
+            div {
+              box-shadow:
+                0 0 0 3px #66df66,
+                0 0 0 5px #000;
+            }
+          }
+        }
+      }
+
+      &--incorrect {
+        color: #FFF;
+        background: #f04646;
+
+        div {
+          background: #FFF;
+          box-shadow:
+            0 0 0 3px #f04646,
+            0 0 0 5px #FFF;
+        }
+
+        @media not all and (hover: none) {
+          &:hover {
+            background: #f04646;
+
+            div {
+              background: #FFF;
+              box-shadow:
+                0 0 0 3px #f04646,
+                0 0 0 5px #FFF;
+            }
+          }
+        }
+      }
+
+      &--not-checked {
+        color: #000;
+        background: #d1d157;
+
+        div {
+          background: #d1d157;
+          box-shadow:
+            0 0 0 3px #d1d157,
+            0 0 0 5px #000;
+        }
+
+        @media not all and (hover: none) {
+          &:hover {
+            background: #d1d157;
+
+            div {
+              background: #d1d157;
+              box-shadow:
+                0 0 0 3px #d1d157,
+                0 0 0 5px #000;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &[style*="color-scheme: dark"] {
+    .input {
+      background: var(--blue-2);
+
+      &__circle {
+        background: var(--blue-2);
+        box-shadow:
+          0 0 0 3px var(--blue-2),
+          0 0 0 5px #FFF;
+      }
+
+      @media not all and (hover: none) {
+        &:hover {
+          background: var(--blue-3);
+
+          div {
+            background: var(--blue-3);
+          }
+        }
+      }
+
+      &:active,
+      &--checked {
+        background: var(--blue-3);
+
+        div {
+          background: var(--blue-3);
+        }
+      }
+
+      &--checked {
+        div {
+          background: #FFF;
+        }
+
+        @media not all and (hover: none) {
+          div {
+            background: #FFF!important;
+          }
+        }
+      }
+
+      &--correct {
+        background: #296729;
+
+        @media not all and (hover: none) {
+          &:hover {
+            background: #296729;
+
+            div {
+              background: #FFF;
+            }
+          }
+        }
+      }
+
+      &--incorrect {
+        background: #712a2a;
+
+        @media not all and (hover: none) {
+          &:hover {
+            background: #712a2a;
+            
+            div {
+              background: #FFF;
+            }
+          }
+        }
+      }
+
+      &--not-checked {
+        color: #000;
+        background: #d1d157;
+
+        @media not all and (hover: none) {
+          &:hover {
+            background: #d1d157;
+            
+            div {
+              background: #d1d157;
+            }
+          }
+        }
+
+        div {
+          background: #d1d157;
+          box-shadow:
+            0 0 0 3px #d1d157,
+            0 0 0 5px #000;
+        }
+      }
+    }
+  }
+}
+
+.input {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 15px;
+
+  padding: 9.6px 18px;
+  border-radius: 6px;
+
+  color: var(--white-0);
+
+
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.27px;
+
+  cursor: pointer;
+
+  transition: .15s ease-in-out;
+
+  &__circle {
+    min-width: 7px;
+    min-height: 7px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    margin-top: 7.5px;
+
+    transition: .15s ease-in-out;
+  }
+
+  &--disabled {
+    opacity: 0.85;
+
+    pointer-events: none;
+  }
+}

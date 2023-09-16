@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+html {
+  &[style*="color-scheme: light"] {
+    &:root {
+      --white-0: #393939;
+      --white-1: #595959;
+      --blue-0: #E9E9E9;
+      --blue-1: #D0D0D0;
+      --blue-2: #E9E9E9;
+      --blue-3: #D8DEE4;
+      --blue-4: #6291D4;
+      --black-0: #F6F8FA;
+      --black-1: #FBFBFB;
+      --black-2: #F2F2F2;
+      --black-3: #D7D7D7;
+    }
+  }
+
+  &[style*="color-scheme: dark"] {
+    &:root {
+      --white-0: #E2E2E2;
+      --white-1: #C3C3C3;
+      --blue-0: #111D2F;
+      --blue-1: #111D2F;
+      --blue-2: #27364E;
+      --blue-3: #204980;
+      --blue-4: #6291D4;
+      --black-0: #010409;
+      --black-1: #0D1117;
+      --black-2: #1E1E1E;
+      --black-3: #444444;
+    }
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+  font-family: 'Open Sans';
+}
+
+body {
+  background: var(--black-1);
+}
+
+*:not(input):not(textarea),
+::after,
+::before {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+button {
+  border: 0;
+  outline: 0;
+
+  transition: 0.3s ease-in-out;
+}
+
+input, textarea {
+  border: 0;
+  outline: 0;
+  transition: border 0.3s ease-in-out;
+}
+
+span.yellow {
+  color: black;
+  background-color: rgb(255, 255, 0);
+}

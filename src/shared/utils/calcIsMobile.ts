@@ -1,0 +1,1 @@
+export const calcIsMobile = () => window.innerWidth <= 768;

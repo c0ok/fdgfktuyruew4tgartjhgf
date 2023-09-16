@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    // ES and modules settings
+    "target": "ES6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    // Files settings
+    "lib": ["ES2021", "DOM"],
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "isolatedModules": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    // Strict settings
+    "forceConsistentCasingInFileNames": true,
+    "declaration": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": false,
+    "strictFunctionTypes": true,
+    "noImplicitThis": true,
+    "strictBindCallApply": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowUnreachableCode": false
+  },
+  "include": ["src", "vite.build.config.ts"]
+}
