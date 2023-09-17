@@ -25,22 +25,22 @@ export const QuestionCard: FC<QuestionCardProps> = ({ isPassed, number, question
       {answers.map(({ text, isCorrect, isChecked }, index) => {
         return chooseMode === 'single'
           ? <Radio
-          className={style.input}
+            className={style.input}
             isChecked={isChecked || false}
             isCorrect={isPassed ? isCorrect : undefined}
             isDisabled={isPassed}
             onClick={() => onChooseAnswer(index)}
-            key={number + text}
+            key={number + text + index}
           >
             {`${letters[index]}. ${text}`}
           </Radio>
           : <Checkbox
-          className={style.input}
+            className={style.input}
             isChecked={isChecked || false}
             isCorrect={isPassed ? isCorrect : undefined}
             isDisabled={isPassed}
             onClick={() => onChooseAnswer(index)}
-            key={number + text}
+            key={number + text + index}
           >
             {`${letters[index]}. ${text}`}
           </Checkbox>;
