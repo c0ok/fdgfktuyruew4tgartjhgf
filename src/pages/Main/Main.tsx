@@ -4,11 +4,28 @@ import { calcChooseMode } from 'shared/utils';
 import { shuffleArray } from 'shared/utils/shuffleArray';
 import { QuestionCard } from 'components';
 
-import questions from '../../../public/questions.json';
+import some from '../../../public/some.json';
+import neurology from '../../../public/neurology.json';
+import neurosurgery from '../../../public/neurosurgery.json';
 
 import style from './index.module.scss';
 
 import type { Question } from 'shared/types';
+
+const getQuestion = () => {
+  switch (window.location.hash.slice(2)) {
+    case 'some':
+      return some;
+
+    case 'neurosurgery':
+      return neurosurgery;
+
+    case 'neurology':
+    default:
+      return neurology;
+  }
+};
+const questions = getQuestion();
 
 export const Main = () => {
   const [renderingQuestion, setRenderingQuestion] = useState<Question | null>(null);

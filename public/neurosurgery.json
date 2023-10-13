@@ -1,0 +1,7062 @@
+[
+  {
+    "number": 1,
+    "question": "Din punct de vedere al topografiei obstacolului in calea scurgerii normale a LCS, hidrocefalia poate fi univentriculară:",
+    "answers": [
+      {
+        "text": "când este blocat numai un orificiu Monro",
+        "isCorrect": true
+      },
+      {
+        "text": "cind ambele orificii monro sunt obstruate",
+        "isCorrect": false
+      },
+      {
+        "text": "in stenoza de apeduct Sylvius",
+        "isCorrect": false
+      },
+      {
+        "text": "in procese patologice situate in fosa posterioară si care blocheză foramenul Magendie",
+        "isCorrect": false
+      },
+      {
+        "text": "cind este blocat numai un orificiu Monro si stenoza de apeduct Sylvius",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "question": "Din punct de vedere al topografiei obstacolului in calea scurgerii normale a LCS, hidrocefalia poate fi biventriculară:",
+    "answers": [
+      {
+        "text": "cind este blocat numai un orificiu Monro",
+        "isCorrect": false
+      },
+      {
+        "text": "cind ambele orificii Monro sunt obstruate",
+        "isCorrect": true
+      },
+      {
+        "text": "in stenoza de apeduct Sylvius",
+        "isCorrect": false
+      },
+      {
+        "text": "in procese patologice situate in fosa posterioară si care blocheză foramenul Magendie",
+        "isCorrect": false
+      },
+      {
+        "text": "in stenoza de apeduct Sylvius si atrezia găurilor Magendie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "question": "Din punct de vedere al topografiei obstacolului in calea scurgerii normale a LCS, hidrocefalia poate fi triventriculară:",
+    "answers": [
+      {
+        "text": "cind este blocat numai un orificiu Monro",
+        "isCorrect": false
+      },
+      {
+        "text": "cind ambele orificii Monro sunt obstruate",
+        "isCorrect": false
+      },
+      {
+        "text": "in stenoza de apeduct Sylvius",
+        "isCorrect": true
+      },
+      {
+        "text": "in procese patologice situate in fosa posterioară si care blocheză foramenul Magendie",
+        "isCorrect": false
+      },
+      {
+        "text": "cind este blocat numai un orificiu Monro si atrezia găurilor Magendie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "question": "Din punct de vedere al topografiei obstacolului in calea scurgerii normale a LCS, hidrocefalia poate fi tetraventriculară:",
+    "answers": [
+      {
+        "text": "cind este blocat numai un orificiu Monro",
+        "isCorrect": false
+      },
+      {
+        "text": "cind ambele orificii Monro sunt obstruate",
+        "isCorrect": false
+      },
+      {
+        "text": "in stenoza de apeduct Sylvius",
+        "isCorrect": false
+      },
+      {
+        "text": "din procese patologice situate in fosa posterioară si care blocheză foramenul Magendie",
+        "isCorrect": true
+      },
+      {
+        "text": "cind ambele orificii Monro sunt obstruate si stenoza de apeduct Sylvius",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "question": "Din punct de vedere al sediului acumularii lichidiene, hidrocefalia poate fi externă:",
+    "answers": [
+      {
+        "text": "lichidul se află in spaţiile lichidiene perecerebrale",
+        "isCorrect": true
+      },
+      {
+        "text": "numai sistemul ventricular este dilatat",
+        "isCorrect": false
+      },
+      {
+        "text": "lichidul se află in spaţiile lichidiene perecerebrale şi sistemul ventricular este dilatat",
+        "isCorrect": false
+      },
+      {
+        "text": "compartimentele lichidiene nu sunt dilatate",
+        "isCorrect": false
+      },
+      {
+        "text": "este dilatată cisterna Magna",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "question": "Din punct de vedere al sediului acumularii lichidiene, hidrocefalia poate fi internă:",
+    "answers": [
+      {
+        "text": "lichidul se află in spaţiile lichidiene perecerebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "numai sistemul ventricular este dilatat",
+        "isCorrect": true
+      },
+      {
+        "text": "lichidul se află in spaţiile lichidiene perecerebrale şi sistemul ventricular este dilatat",
+        "isCorrect": false
+      },
+      {
+        "text": "compartimentele lichidiene nu sunt dilatate",
+        "isCorrect": false
+      },
+      {
+        "text": "este dilatată cisterna Magna",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "question": "Din punct de vedere al sediului acumularii lichidiene, hidrocefalia poate fi mixtă:",
+    "answers": [
+      {
+        "text": "lichidul se află in spaţiile lichidiene perecerebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "numai sistemul ventricular este dilatat",
+        "isCorrect": false
+      },
+      {
+        "text": "lichidul se află in spaţiile lichidiene perecerebrale şi sistemul ventricular este dilatat",
+        "isCorrect": true
+      },
+      {
+        "text": "compartimentele lichidiene nu sunt dilatate",
+        "isCorrect": false
+      },
+      {
+        "text": "este dilatată cisterna Magna",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "question": "Hidrocefalia comunicantă este provocată de:",
+    "answers": [
+      {
+        "text": "un blocaj al resorbţiei LCS",
+        "isCorrect": true
+      },
+      {
+        "text": "hipersecreţie a plexurilor coroide",
+        "isCorrect": true
+      },
+      {
+        "text": "in stenoza de apeduct Sylvius",
+        "isCorrect": false
+      },
+      {
+        "text": "cind ambele orificii Monro sunt obstruate",
+        "isCorrect": false
+      },
+      {
+        "text": "când este blocat numai un orificiu Monro",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "question": "Simptomele hidrocefaliei sunt reprezentate de:",
+    "answers": [
+      {
+        "text": "creşterea rapidă in dimensiuni a neurocraniului",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări oftalmologice",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburari neuropsihice",
+        "isCorrect": true
+      },
+      {
+        "text": "sindromul de hipertensiune intracraniană",
+        "isCorrect": true
+      },
+      {
+        "text": "dismorfia craniofacială, fruntea forma triunghiulară",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "question": "Procedeele de drenaj intracranian sunt:",
+    "answers": [
+      {
+        "text": "derivaţia ventriculo-cisternală Torkildsen",
+        "isCorrect": true
+      },
+      {
+        "text": "drenajul ventriculo-peritonial",
+        "isCorrect": false
+      },
+      {
+        "text": "ventriculocisternostomia",
+        "isCorrect": true
+      },
+      {
+        "text": "drenajul ventriculo-cardiac",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "question": "Dolicocefalia reprezintă osificarea prematură a unei sau a mai multor suturi craniene, cu excepţia:",
+    "answers": [
+      {
+        "text": "sinostoza suturii sagitale",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza suturii lambdoide",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza bilaterală a suturii coronare",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii metopice",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza tuturor suturilor",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "question": "Acrobrahicefalia reprezintă osificarea prematură a unei sau a mai multor suturi craniene:",
+    "answers": [
+      {
+        "text": "sinostoza suturii sagitale",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza suturii lambdoide",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza bilaterală a suturii coronare",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii metopice",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza tuturor suturilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "question": "Pahicefalia reprezintă osificarea prematură a unei sau a mai multor suturi craniene:",
+    "answers": [
+      {
+        "text": "sinostoza suturii sagitale",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza suturii lambdoide",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza bilaterală a suturii coronare",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza suturii metopice",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza tuturor suturilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "question": "Turicefalia reprezintă osificarea prematură a unei sau a mai multor suturi craniene:",
+    "answers": [
+      {
+        "text": "sinostoza suturii sagitale",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii lambdoide",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza bilaterală a suturii coronare",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii metopice",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza tuturor suturilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "question": "Plagiocefalia reprezintă osificarea prematură a unei sau a mai multor suturi craniene:",
+    "answers": [
+      {
+        "text": "sinostoza suturii sagitale",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza suturii lambdoide",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza unilaterală a suturii coronare",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii metopice",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza tuturor suturilor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "question": "Oxicefalia reprezintă osificarea prematură a unei sau a mai multor suturi craniene:",
+    "answers": [
+      {
+        "text": "sinostoza suturii sagitale",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza suturii lambdoide",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza bilaterală a suturii coronare",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza tuturor suturilor",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii metopice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "question": "Semnele cardinale ale craniostenozelor sunt:",
+    "answers": [
+      {
+        "text": "dismorfia craniofacială",
+        "isCorrect": true
+      },
+      {
+        "text": "sindromul oftalmologic",
+        "isCorrect": true
+      },
+      {
+        "text": "sindromul neuropsihic",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări endocrine",
+        "isCorrect": true
+      },
+      {
+        "text": "microcefalia",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "question": "Alegerea momentului optim pentru tratament chirurgical al craniostenozelor:",
+    "answers": [
+      {
+        "text": "după 12 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "nu mai tîrziu de vîrsta de 6 luni",
+        "isCorrect": true
+      },
+      {
+        "text": "virsta de 2 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "virsta de 3 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "virsta de 5 ani",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "question": "În encefalocele herniază:",
+    "answers": [
+      {
+        "text": "ţesut cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "meninge",
+        "isCorrect": false
+      },
+      {
+        "text": "LCS",
+        "isCorrect": false
+      },
+      {
+        "text": "ventricul",
+        "isCorrect": false
+      },
+      {
+        "text": "ţesut osos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "question": "În meningocele herniază:",
+    "answers": [
+      {
+        "text": "meninge",
+        "isCorrect": true
+      },
+      {
+        "text": "ţesut cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "LCS",
+        "isCorrect": true
+      },
+      {
+        "text": "ventricul",
+        "isCorrect": false
+      },
+      {
+        "text": "ţesut osos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "question": "În meningoencefalocele herniază:",
+    "answers": [
+      {
+        "text": "ţesut cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "meninge",
+        "isCorrect": true
+      },
+      {
+        "text": "LCS",
+        "isCorrect": true
+      },
+      {
+        "text": "ventricul",
+        "isCorrect": false
+      },
+      {
+        "text": "ţesut osos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "question": "În encefaloventriculocele herniază:",
+    "answers": [
+      {
+        "text": "ţesut cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "meninge",
+        "isCorrect": false
+      },
+      {
+        "text": "LCS",
+        "isCorrect": false
+      },
+      {
+        "text": "ventricul",
+        "isCorrect": true
+      },
+      {
+        "text": "ţesut osos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "question": "În meningoencefaloventriculocele herniază:",
+    "answers": [
+      {
+        "text": "ţesut cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "meninge",
+        "isCorrect": true
+      },
+      {
+        "text": "ţesut osos",
+        "isCorrect": false
+      },
+      {
+        "text": "ventricul",
+        "isCorrect": true
+      },
+      {
+        "text": "LCS",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "question": "Meningoencefalocelele (ME) de convexitate cuprind:",
+    "answers": [
+      {
+        "text": "ME occipitale",
+        "isCorrect": true
+      },
+      {
+        "text": "ME parietale",
+        "isCorrect": true
+      },
+      {
+        "text": "ME frontale",
+        "isCorrect": true
+      },
+      {
+        "text": "Sfenoorbitare",
+        "isCorrect": false
+      },
+      {
+        "text": "ME laterale (de pterion)",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "question": "Meningoencefalocelele (ME) bazale vizibile cuprind:",
+    "answers": [
+      {
+        "text": "Frontoetmoidale",
+        "isCorrect": false
+      },
+      {
+        "text": "Nazofrontale",
+        "isCorrect": true
+      },
+      {
+        "text": "Sfenoetmoidale",
+        "isCorrect": false
+      },
+      {
+        "text": "Nazoorbitare",
+        "isCorrect": true
+      },
+      {
+        "text": "Nazoetmoidale",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "question": "Meningoencefalocelele (ME) bazale nevizibile cuprind:",
+    "answers": [
+      {
+        "text": "ME sfenoorbitare",
+        "isCorrect": true
+      },
+      {
+        "text": "ME sfenomaxilare",
+        "isCorrect": true
+      },
+      {
+        "text": "ME sfenofaringiene",
+        "isCorrect": true
+      },
+      {
+        "text": "Nazoetmoidale",
+        "isCorrect": false
+      },
+      {
+        "text": "Nazofrontale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "question": "În meningocele herniază:",
+    "answers": [
+      {
+        "text": "acumularea de lichid în spaţiul subarahnoidian",
+        "isCorrect": true
+      },
+      {
+        "text": "măduva",
+        "isCorrect": false
+      },
+      {
+        "text": "canalul central",
+        "isCorrect": false
+      },
+      {
+        "text": "ţesut adipos",
+        "isCorrect": false
+      },
+      {
+        "text": "nu există participare medulară",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "question": "În mielocistocel herniază:",
+    "answers": [
+      {
+        "text": "nu există participare medulară",
+        "isCorrect": false
+      },
+      {
+        "text": "măduva",
+        "isCorrect": true
+      },
+      {
+        "text": "canalul central dilatat şi împlut cu lichid",
+        "isCorrect": true
+      },
+      {
+        "text": "acumularea de lichid în spaţiul subarahnoidian",
+        "isCorrect": false
+      },
+      {
+        "text": "ţesut adipos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "question": "În mielocistomeningocel herniază:",
+    "answers": [
+      {
+        "text": "acumularea de lichid în canalul central şi în spaţiul subarahnoidian",
+        "isCorrect": true
+      },
+      {
+        "text": "măduva",
+        "isCorrect": true
+      },
+      {
+        "text": "nu există participare medulară",
+        "isCorrect": false
+      },
+      {
+        "text": "acumularea de lichid în spaţiul subarahnoidian",
+        "isCorrect": false
+      },
+      {
+        "text": "ţesut adipos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "question": "Simptomalogia clinica a meningomielocelelor cuprinde:",
+    "answers": [
+      {
+        "text": "semnele neurologice",
+        "isCorrect": true
+      },
+      {
+        "text": "semnele locale",
+        "isCorrect": true
+      },
+      {
+        "text": "malformaţii însoţitoare",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări endocrine",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "question": "Procedeele de drenaj extracranian sunt:",
+    "answers": [
+      {
+        "text": "derivaţia ventriculo-cisternală Torkildsen",
+        "isCorrect": false
+      },
+      {
+        "text": "drenajul ventriculo-peritonial",
+        "isCorrect": true
+      },
+      {
+        "text": "ventriculocisternostomia",
+        "isCorrect": false
+      },
+      {
+        "text": "drenajul ventriculo-cardiac",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "question": "Trigonocefalia reprezintă osificarea prematură a unei sau a mai multor suturi craniene, cu excepţia:",
+    "answers": [
+      {
+        "text": "sinostoza suturii sagitale",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii lambdoide",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza bilaterală a suturii coronare",
+        "isCorrect": true
+      },
+      {
+        "text": "sinostoza suturii metopice",
+        "isCorrect": false
+      },
+      {
+        "text": "sinostoza unilaterală a suturii coronare",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "question": "Ce este un anevrism cerebral?",
+    "answers": [
+      {
+        "text": "tumoare benignă",
+        "isCorrect": false
+      },
+      {
+        "text": "defect vascular sacular",
+        "isCorrect": true
+      },
+      {
+        "text": "hernie cerebrală",
+        "isCorrect": false
+      },
+      {
+        "text": "tumoare vasculară",
+        "isCorrect": false
+      },
+      {
+        "text": "proces rudimentar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "question": "Locul unde se dezvoltă anevrismul:",
+    "answers": [
+      {
+        "text": "peretele vascular",
+        "isCorrect": true
+      },
+      {
+        "text": "substanța cenușie a creierului",
+        "isCorrect": false
+      },
+      {
+        "text": "meningele cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "substanța albă",
+        "isCorrect": false
+      },
+      {
+        "text": "defect pia-mater",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "question": "Cauza primordială a apariției anevrismului cerebral:",
+    "answers": [
+      {
+        "text": "congenital",
+        "isCorrect": false
+      },
+      {
+        "text": "kinking-ul arterelor cerebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "dobândit",
+        "isCorrect": true
+      },
+      {
+        "text": "post-traumatic",
+        "isCorrect": false
+      },
+      {
+        "text": "vasospam-ul arterelor intracraniene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "question": "Anevrismele dobândite apar pe fundal de:",
+    "answers": [
+      {
+        "text": "hipotensiunea arterială",
+        "isCorrect": false
+      },
+      {
+        "text": "infecţia",
+        "isCorrect": false
+      },
+      {
+        "text": "traumatismul cranio-cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "efortul fizic intens",
+        "isCorrect": false
+      },
+      {
+        "text": "fumat și hipertensiunea arterială",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "question": "Metodele de elecție de diagnostic a anevrismului:",
+    "answers": [
+      {
+        "text": "radiografia craniană",
+        "isCorrect": false
+      },
+      {
+        "text": "angiografia selectivă după Seldinger",
+        "isCorrect": true
+      },
+      {
+        "text": "angiografia prin CT",
+        "isCorrect": false
+      },
+      {
+        "text": "RMN, secvență TOF",
+        "isCorrect": false
+      },
+      {
+        "text": "puncţia lombară",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "question": "Manifestările clinice evidente ale anevrismului cerebral erupt pot apărea la:",
+    "answers": [
+      {
+        "text": "copii până la 5 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "copii între 5 și 12 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "adolescenți",
+        "isCorrect": false
+      },
+      {
+        "text": "adulți",
+        "isCorrect": false
+      },
+      {
+        "text": "toate vârstele",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "question": "Cea mai frecventă complicație a hemoragiei subarahnoidiene anevrismale:",
+    "answers": [
+      {
+        "text": "meningita reactivă",
+        "isCorrect": false
+      },
+      {
+        "text": "edem cerebral malign",
+        "isCorrect": false
+      },
+      {
+        "text": "vasospasm-ul",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări sfincteriene",
+        "isCorrect": false
+      },
+      {
+        "text": "toate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "question": "Ce reprezintă o fistulă carotido-cavernoasă",
+    "answers": [
+      {
+        "text": "comunicarea dintre sinusul sagital şi artera carotidă externă",
+        "isCorrect": false
+      },
+      {
+        "text": "comunicarea între peretele arterei carotide interne și sinusul cavernos",
+        "isCorrect": true
+      },
+      {
+        "text": "ruptura peretelui arterei carotide externe în sinusul cavernos",
+        "isCorrect": false
+      },
+      {
+        "text": "comunicarea dintre un vas arterial şi o malformaţie arterio-venoasă",
+        "isCorrect": false
+      },
+      {
+        "text": "niciuna",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "question": "Diagnostica de elecție a fistulei carotido-cavernoase:",
+    "answers": [
+      {
+        "text": "rezonanță magnetică nucleară",
+        "isCorrect": false
+      },
+      {
+        "text": "tomografie computerizată",
+        "isCorrect": false
+      },
+      {
+        "text": "angiografia clasică cerebrală",
+        "isCorrect": true
+      },
+      {
+        "text": "dopplerografia transcraniană",
+        "isCorrect": false
+      },
+      {
+        "text": "oftalmoscopia",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "question": "Ce procentaj de pacienți supravietuiesc primele 24 de ore după eruperea unui anevrism cerebral:",
+    "answers": [
+      {
+        "text": "1%",
+        "isCorrect": false
+      },
+      {
+        "text": "5%",
+        "isCorrect": false
+      },
+      {
+        "text": "10%",
+        "isCorrect": false
+      },
+      {
+        "text": "50%",
+        "isCorrect": true
+      },
+      {
+        "text": "80%",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "question": "Care examen paraclinic permite reconstrucția 3D, post-procesarea dimensiunilor și analiza fluxului laminar:",
+    "answers": [
+      {
+        "text": "angiografia prin computer tomografie",
+        "isCorrect": false
+      },
+      {
+        "text": "radiografia craniană",
+        "isCorrect": false
+      },
+      {
+        "text": "rezonanța magnetică nucleară",
+        "isCorrect": true
+      },
+      {
+        "text": "angiografia clasică",
+        "isCorrect": false
+      },
+      {
+        "text": "nici una",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "question": "Scălile folosite în diagnosticul anevrismului cerebral erupt:",
+    "answers": [
+      {
+        "text": "Fisher",
+        "isCorrect": true
+      },
+      {
+        "text": "Karnofsky",
+        "isCorrect": false
+      },
+      {
+        "text": "WFNS",
+        "isCorrect": true
+      },
+      {
+        "text": "Hunt Hess",
+        "isCorrect": true
+      },
+      {
+        "text": "Jefferson",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "question": "Tabloul clinic al hemoragiei subarahnoidiene:",
+    "answers": [
+      {
+        "text": "cefalee de pumnal",
+        "isCorrect": true
+      },
+      {
+        "text": "greţuri",
+        "isCorrect": true
+      },
+      {
+        "text": "semne meningiene pozitive",
+        "isCorrect": true
+      },
+      {
+        "text": "parapareză inferioară",
+        "isCorrect": false
+      },
+      {
+        "text": "amauroza bilaterală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "question": "Clasificarea generală (constituție) a anevrismelor cerebrale:",
+    "answers": [
+      {
+        "text": "sacular",
+        "isCorrect": true
+      },
+      {
+        "text": "pseudosacular",
+        "isCorrect": false
+      },
+      {
+        "text": "micotic",
+        "isCorrect": false
+      },
+      {
+        "text": "asimptomatic",
+        "isCorrect": false
+      },
+      {
+        "text": "fusiform",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "question": "Elementele scălii WFNS în aprecierea stării pacientului cu anevrism sacular erupt:",
+    "answers": [
+      {
+        "text": "scala Karnofsky",
+        "isCorrect": false
+      },
+      {
+        "text": "GCS",
+        "isCorrect": true
+      },
+      {
+        "text": "deficitul motor",
+        "isCorrect": true
+      },
+      {
+        "text": "dimensiunile pupilei",
+        "isCorrect": false
+      },
+      {
+        "text": "tulburările sfincteriene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "question": "Tratamentul vasospasmului datorat hemoragiei subarahnoidene NU se tratează cu:",
+    "answers": [
+      {
+        "text": "anticoagulante",
+        "isCorrect": true
+      },
+      {
+        "text": "antihipotensive",
+        "isCorrect": true
+      },
+      {
+        "text": "vasodilatatoare",
+        "isCorrect": false
+      },
+      {
+        "text": "anticonvulsivante",
+        "isCorrect": false
+      },
+      {
+        "text": "vasoconstrictoare",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "question": "Clinic, diagnosticul diferenţial a anevrismului erupt se face cu:",
+    "answers": [
+      {
+        "text": "tumoră cerebrală cu hemoragie",
+        "isCorrect": true
+      },
+      {
+        "text": "meningita",
+        "isCorrect": false
+      },
+      {
+        "text": "boală autoimună",
+        "isCorrect": false
+      },
+      {
+        "text": "ictus ischemic",
+        "isCorrect": false
+      },
+      {
+        "text": "hemoragie subarahnoidiană spontană",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "question": "Ce investigații paraclinice se efectuează la pacienți cu hemoragie subarahnoidiană:",
+    "answers": [
+      {
+        "text": "examenul LCR",
+        "isCorrect": true
+      },
+      {
+        "text": "angiografia convențională",
+        "isCorrect": true
+      },
+      {
+        "text": "tractografie",
+        "isCorrect": false
+      },
+      {
+        "text": "spectroscopie prin RMN",
+        "isCorrect": false
+      },
+      {
+        "text": "angiografia prin CT",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "question": "Forme clinice a malformaţiilor vasculare:",
+    "answers": [
+      {
+        "text": "forma apoplectică",
+        "isCorrect": true
+      },
+      {
+        "text": "forma epileptică",
+        "isCorrect": true
+      },
+      {
+        "text": "forma pseudotumorală",
+        "isCorrect": true
+      },
+      {
+        "text": "forma ischemică",
+        "isCorrect": false
+      },
+      {
+        "text": "forma idiopatică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "question": "Semnele primare (directe) a fistulei carotido-cavernoase:",
+    "answers": [
+      {
+        "text": "exoftalm pulsatil",
+        "isCorrect": true
+      },
+      {
+        "text": "suflu pulsatil",
+        "isCorrect": false
+      },
+      {
+        "text": "hemipareză ipsilaterală",
+        "isCorrect": false
+      },
+      {
+        "text": "oftalmoplegie",
+        "isCorrect": true
+      },
+      {
+        "text": "diplopie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "question": "Semne indirecte (secundare) ale fistulei carotido-cavernoase:",
+    "answers": [
+      {
+        "text": "tromboflebita venelor orbitei",
+        "isCorrect": true
+      },
+      {
+        "text": "panoftalmie",
+        "isCorrect": true
+      },
+      {
+        "text": "atrofia nervului optic",
+        "isCorrect": true
+      },
+      {
+        "text": "staza hemoragică a venelor nasului",
+        "isCorrect": false
+      },
+      {
+        "text": "ptoza",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "question": "Tratamentul fistulei carotido-cavernoase:",
+    "answers": [
+      {
+        "text": "tratament microchirurgical",
+        "isCorrect": true
+      },
+      {
+        "text": "aplicarea ligaturii pe artera carotidă de interes",
+        "isCorrect": false
+      },
+      {
+        "text": "învelirea fistulei cu muşchi (wrapping)",
+        "isCorrect": false
+      },
+      {
+        "text": "embolizare endovasculară",
+        "isCorrect": true
+      },
+      {
+        "text": "constricţia temporară a arterei carotide comune ori interne cu „mangeta”",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "question": "Etiologia malformațiilor arterio-venoase NU este:",
+    "answers": [
+      {
+        "text": "traumatismul cranio-cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "anomalii de dezvoltare a vaselor",
+        "isCorrect": false
+      },
+      {
+        "text": "efortul fizic şi psihoemoţional",
+        "isCorrect": true
+      },
+      {
+        "text": "infecţiile suportate",
+        "isCorrect": true
+      },
+      {
+        "text": "bolile autoimune",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "question": "Metoda de tratament a malformațiilor arterio-venoase în zone elocvente:",
+    "answers": [
+      {
+        "text": "excizia microchirurgicală",
+        "isCorrect": true
+      },
+      {
+        "text": "radioterapia",
+        "isCorrect": true
+      },
+      {
+        "text": "doar cliparea venei emergente",
+        "isCorrect": false
+      },
+      {
+        "text": "tratament endovascular prin embolizare",
+        "isCorrect": true
+      },
+      {
+        "text": "conservator",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "question": "Criteriile care apreciază indicaţiile către diverse metode chirurgicale a malformațiilor arterio-venoase:",
+    "answers": [
+      {
+        "text": "debutul clinic",
+        "isCorrect": true
+      },
+      {
+        "text": "starea pacientului",
+        "isCorrect": true
+      },
+      {
+        "text": "dimensiunile şi localizarea",
+        "isCorrect": true
+      },
+      {
+        "text": "vascularizarea şi drenarea",
+        "isCorrect": true
+      },
+      {
+        "text": "colateralele arteriale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "question": "Asigurarea circulaţiei arteriale cerebrale:",
+    "answers": [
+      {
+        "text": "arterele carotide",
+        "isCorrect": true
+      },
+      {
+        "text": "arterele jugulare",
+        "isCorrect": false
+      },
+      {
+        "text": "arterele femurale",
+        "isCorrect": false
+      },
+      {
+        "text": "arterele vertebrale",
+        "isCorrect": true
+      },
+      {
+        "text": "arterele subclave",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "question": "Factorii de risc a ictusului ischemic la adulți:",
+    "answers": [
+      {
+        "text": "boala coronariană",
+        "isCorrect": true
+      },
+      {
+        "text": "hipertensiune arterială",
+        "isCorrect": true
+      },
+      {
+        "text": "diabetul zaharat",
+        "isCorrect": true
+      },
+      {
+        "text": "fibrilația atrială",
+        "isCorrect": true
+      },
+      {
+        "text": "traumatism în timpul nașterii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "question": "Hematomul intracerebral spontan se manifestă de obicei prin:",
+    "answers": [
+      {
+        "text": "tulburări de conștiență",
+        "isCorrect": true
+      },
+      {
+        "text": "semne meningiene",
+        "isCorrect": false
+      },
+      {
+        "text": "hemipareză controlaterală",
+        "isCorrect": true
+      },
+      {
+        "text": "polineuropatie periferică",
+        "isCorrect": false
+      },
+      {
+        "text": "migrenă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "question": "Etiologia hematoamelor intracerebrale non-traumatice:",
+    "answers": [
+      {
+        "text": "cavernomul intracerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "anevrismele saculare",
+        "isCorrect": true
+      },
+      {
+        "text": "meningita aseptică",
+        "isCorrect": false
+      },
+      {
+        "text": "boala autoimună",
+        "isCorrect": false
+      },
+      {
+        "text": "hidrocefalia",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "question": "Tratamentul chirurgical al infarctului cerebral:",
+    "answers": [
+      {
+        "text": "trombectomie mecanică",
+        "isCorrect": true
+      },
+      {
+        "text": "anastomoza Bonnet",
+        "isCorrect": false
+      },
+      {
+        "text": "anastomoze prin by-pass low-flow",
+        "isCorrect": false
+      },
+      {
+        "text": "radioterapia fracționată",
+        "isCorrect": false
+      },
+      {
+        "text": "hemicraniectomia decompresivă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "question": "În caz de crize adversive, globii oculari şi capul, se deplasează:",
+    "answers": [
+      {
+        "text": "în direcţie opusă focarului",
+        "isCorrect": true
+      },
+      {
+        "text": "spre focar",
+        "isCorrect": false
+      },
+      {
+        "text": "nu depinde de lateralizarea focarului",
+        "isCorrect": false
+      },
+      {
+        "text": "mişcarea este limitată în plan vertical",
+        "isCorrect": false
+      },
+      {
+        "text": "mişcarea este limitată în plan orizontal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "question": "Cel mai frecvent la copii se întâlnesc:",
+    "answers": [
+      {
+        "text": "craniofaringioame",
+        "isCorrect": true
+      },
+      {
+        "text": "glioame de chiasmă",
+        "isCorrect": false
+      },
+      {
+        "text": "tumori neuroectodermale",
+        "isCorrect": true
+      },
+      {
+        "text": "tumori hipofizare",
+        "isCorrect": false
+      },
+      {
+        "text": "tumori metastatice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "question": "Sindromul convulsiv in cadrul afectării lobului parietal include:",
+    "answers": [
+      {
+        "text": "crize adversive",
+        "isCorrect": false
+      },
+      {
+        "text": "paroxisme viscero-vegetative",
+        "isCorrect": false
+      },
+      {
+        "text": "paroxisme operculare",
+        "isCorrect": false
+      },
+      {
+        "text": "crize sensitivo-motorii",
+        "isCorrect": true
+      },
+      {
+        "text": "halucinații gustative",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "question": "Motomorfopsia poate fi calificată drept:",
+    "answers": [
+      {
+        "text": "variantă a hemianopsiei",
+        "isCorrect": false
+      },
+      {
+        "text": "variantă a agnosiei vizuale",
+        "isCorrect": false
+      },
+      {
+        "text": "variantă a dereglării vederii cromatice",
+        "isCorrect": true
+      },
+      {
+        "text": "halucinaţii vizuale",
+        "isCorrect": false
+      },
+      {
+        "text": "afectarea globului ocular",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "question": "Tumori neuroepiteliale sunt toate, cu excepţia:",
+    "answers": [
+      {
+        "text": "neurinoamelor",
+        "isCorrect": true
+      },
+      {
+        "text": "astrocitoamelor",
+        "isCorrect": false
+      },
+      {
+        "text": "osteoamelor",
+        "isCorrect": true
+      },
+      {
+        "text": "oligodendroglioamelor",
+        "isCorrect": false
+      },
+      {
+        "text": "meningioame",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "question": "Noţiunea “sindrom optico-chiasmal” încadrează următoarele simptome:",
+    "answers": [
+      {
+        "text": "hemianopsie binasală",
+        "isCorrect": false
+      },
+      {
+        "text": "stază papilară",
+        "isCorrect": false
+      },
+      {
+        "text": "hemianopsie bitemporală",
+        "isCorrect": true
+      },
+      {
+        "text": "atrofie optică primară",
+        "isCorrect": true
+      },
+      {
+        "text": "atrofie optică secundară",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "question": "Majorarea dimensiunilor şeii turceşti pe radiografie craniană sugerează:",
+    "answers": [
+      {
+        "text": "hipertensiune intracraniană",
+        "isCorrect": true
+      },
+      {
+        "text": "craniofaringiom",
+        "isCorrect": true
+      },
+      {
+        "text": "tumoare hipofizară",
+        "isCorrect": true
+      },
+      {
+        "text": "tumoare de lob temporal",
+        "isCorrect": false
+      },
+      {
+        "text": "tumoare de lob frontal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "question": "În caz de tumoare de trunchi cerebral dereglările de motilitate sunt:",
+    "answers": [
+      {
+        "text": "mai frecvent prezentate printr-o hemipareză profundă",
+        "isCorrect": false
+      },
+      {
+        "text": "mai frecvent prezentate printr-o hemipareză superficială",
+        "isCorrect": false
+      },
+      {
+        "text": "mai frecvent prezentate printr-o tetrapareză polimorfă",
+        "isCorrect": true
+      },
+      {
+        "text": "mai frecvent prezentate printr-o tetrapareză omogenă",
+        "isCorrect": false
+      },
+      {
+        "text": "parapareză superioară",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "question": "Cel mai frecvent craniofaringioamele se manifestă prin:",
+    "answers": [
+      {
+        "text": "dereglări de vedere",
+        "isCorrect": true
+      },
+      {
+        "text": "sindrom adipozo-genital",
+        "isCorrect": true
+      },
+      {
+        "text": "hidrocefalie tetraventriculară",
+        "isCorrect": false
+      },
+      {
+        "text": "hidrocefalie biventriculară",
+        "isCorrect": false
+      },
+      {
+        "text": "panhipopituitarism",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "question": "Simptomele cele mai frecvente în caz de adenom hipofizar sunt:",
+    "answers": [
+      {
+        "text": "acromegalie, cefalee",
+        "isCorrect": true
+      },
+      {
+        "text": "cefalee, dereglări de vedere, acromegalie, slăbiciuni",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări sexuale, obezitate, diabet insipid, amenoree",
+        "isCorrect": true
+      },
+      {
+        "text": "gigantism, dereglări sexuale",
+        "isCorrect": false
+      },
+      {
+        "text": "nanism hipofizar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "question": "Modificări oftalmoscopice în cadrul adenomului hipofizar sunt:",
+    "answers": [
+      {
+        "text": "stază papilară",
+        "isCorrect": false
+      },
+      {
+        "text": "atrofie primară a nervilor optici",
+        "isCorrect": true
+      },
+      {
+        "text": "atrofie secundară a nervilor optici",
+        "isCorrect": false
+      },
+      {
+        "text": "tablou oftalmoscopic normal",
+        "isCorrect": false
+      },
+      {
+        "text": "hemianopsie bitemporală",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "question": "Tabloul clinic al unei tumori intramedulare de intumiscenţă cervicală se începe cu:",
+    "answers": [
+      {
+        "text": "dureri cervicale",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări segmentare",
+        "isCorrect": false
+      },
+      {
+        "text": "hipertonus în muşchii braţului",
+        "isCorrect": false
+      },
+      {
+        "text": "simptomul Horner",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări sfincteriene",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "question": "Tumori provenite din adenohipofiză sunt toate, cu excepţia:",
+    "answers": [
+      {
+        "text": "adenoamelor eozinofile",
+        "isCorrect": false
+      },
+      {
+        "text": "adenoamelor bazofile",
+        "isCorrect": false
+      },
+      {
+        "text": "ganglioamelor",
+        "isCorrect": true
+      },
+      {
+        "text": "adenoamelor cromofobe",
+        "isCorrect": false
+      },
+      {
+        "text": "neurocitoamelor",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "question": "În caz de tumori hipofizare, craniografia determină:",
+    "answers": [
+      {
+        "text": "hiperostoza apofizelor clinoidale",
+        "isCorrect": false
+      },
+      {
+        "text": "mărirea dimensiunilor şeii tuceşti",
+        "isCorrect": true
+      },
+      {
+        "text": "erodarea apofizelor clinoidale anterioare",
+        "isCorrect": true
+      },
+      {
+        "text": "mărirea dimensiunilor orbitei",
+        "isCorrect": false
+      },
+      {
+        "text": "dilatarea miatului acustic intern",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "question": "Voma în cazul tumorilor de fosă posterioară este cauzată de următoarele:",
+    "answers": [
+      {
+        "text": "creşterea tensiunii intracraniene",
+        "isCorrect": true
+      },
+      {
+        "text": "scăderea tensiunii intracraniene",
+        "isCorrect": false
+      },
+      {
+        "text": "excitarea planșeului fosei romboide",
+        "isCorrect": true
+      },
+      {
+        "text": "alterarea circulaţiei lichidiene",
+        "isCorrect": true
+      },
+      {
+        "text": "scăderii acuității auditive",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "question": "În cazul tumorilor intraventriculare, la copii de vîrsta pînă 1 an, cel mai frecvent se constată:",
+    "answers": [
+      {
+        "text": "creştere progresivă a dimensiunilor craniului",
+        "isCorrect": true
+      },
+      {
+        "text": "exoftalm",
+        "isCorrect": false
+      },
+      {
+        "text": "enoftalm",
+        "isCorrect": false
+      },
+      {
+        "text": "simptomul Kernig",
+        "isCorrect": false
+      },
+      {
+        "text": "excitație psihomotorie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "question": "Metode contemporane de depistare a tumorilor intracerebrale sunt:",
+    "answers": [
+      {
+        "text": "angiografia cerebrală",
+        "isCorrect": false
+      },
+      {
+        "text": "metoda radiologică",
+        "isCorrect": false
+      },
+      {
+        "text": "CT, RMN",
+        "isCorrect": true
+      },
+      {
+        "text": "EchoEG",
+        "isCorrect": false
+      },
+      {
+        "text": "EEG",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "question": "Tumori primare ale coloanei vertebrale sunt:",
+    "answers": [
+      {
+        "text": "meningioame",
+        "isCorrect": false
+      },
+      {
+        "text": "osteoame",
+        "isCorrect": true
+      },
+      {
+        "text": "neurinoame",
+        "isCorrect": false
+      },
+      {
+        "text": "colesteatoame",
+        "isCorrect": false
+      },
+      {
+        "text": "ependimoame mixopapilare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "question": "Indicaţie pentru ablaţia tumorilor extramedulare este:",
+    "answers": [
+      {
+        "text": "prezenţa tumorii propriu-zisă",
+        "isCorrect": true
+      },
+      {
+        "text": "sindromul Brown-Sequard",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom algic radicular",
+        "isCorrect": false
+      },
+      {
+        "text": "atrofia muşchilor membrelor inferioare",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglările sfincteriene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "question": "Indicaţia de bază pentru tratamentul chirurgical urgent al tumorilor intramedulare este:",
+    "answers": [
+      {
+        "text": "sindrom dolor progresiv",
+        "isCorrect": false
+      },
+      {
+        "text": "prezenţa atrofiei muşchilor membrelor",
+        "isCorrect": false
+      },
+      {
+        "text": "progresarea dereglărilor sfincteriene",
+        "isCorrect": true
+      },
+      {
+        "text": "progresarea dereglărilor de motilitate",
+        "isCorrect": true
+      },
+      {
+        "text": "insistența pacientului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "question": "În stadiul iniţial al tumorilor de ventricol IV la copii cel mai frecvent se constată:",
+    "answers": [
+      {
+        "text": "dureri abdominale, vome izolate",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări de somn",
+        "isCorrect": false
+      },
+      {
+        "text": "manifestări disurice",
+        "isCorrect": false
+      },
+      {
+        "text": "anemii",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări psihice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "question": "Simptomul „undei lichidiene” este:",
+    "answers": [
+      {
+        "text": "durere locală în coloana vertebrală",
+        "isCorrect": false
+      },
+      {
+        "text": "accentuarea durerilor la tuse",
+        "isCorrect": true
+      },
+      {
+        "text": "accentuarea simptomelor tip conductor la efectuarea probelor licvorodinamice",
+        "isCorrect": false
+      },
+      {
+        "text": "accentuarea durerilor spinale la suprasolicitarea fizică a coloanei vertebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "dureri la percusia coloanei vertebrale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "question": "Simptomul cel mai informativ licvorodinamic de compresie a medulei spinale la diverse nivele este:",
+    "answers": [
+      {
+        "text": "simptomul sacral",
+        "isCorrect": false
+      },
+      {
+        "text": "simptomul de angajare",
+        "isCorrect": false
+      },
+      {
+        "text": "simptomul undei licvoriene",
+        "isCorrect": true
+      },
+      {
+        "text": "simptomul apofizei spinoase",
+        "isCorrect": false
+      },
+      {
+        "text": "simptomul compresiei venelor jugulare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "question": "Tumori de tip „clepsidra” sunt prezentate de:",
+    "answers": [
+      {
+        "text": "colesteatoame",
+        "isCorrect": false
+      },
+      {
+        "text": "meningioame",
+        "isCorrect": false
+      },
+      {
+        "text": "sarcoame",
+        "isCorrect": false
+      },
+      {
+        "text": "neurinoame",
+        "isCorrect": true
+      },
+      {
+        "text": "metastatice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "question": "Primul simptom în caz de şvanom de vestibular este:",
+    "answers": [
+      {
+        "text": "anacuzie unilaterală",
+        "isCorrect": false
+      },
+      {
+        "text": "anacuzie bilaterală",
+        "isCorrect": false
+      },
+      {
+        "text": "sensaţia de zgomot în craniu",
+        "isCorrect": false
+      },
+      {
+        "text": "tinitus unilateral",
+        "isCorrect": true
+      },
+      {
+        "text": "accese de vertij",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "question": "Metodele de tratament ale echinococozei cerebrale sunt:",
+    "answers": [
+      {
+        "text": "puncţia chistului",
+        "isCorrect": false
+      },
+      {
+        "text": "medicamentoasă",
+        "isCorrect": true
+      },
+      {
+        "text": "chirurgicală",
+        "isCorrect": true
+      },
+      {
+        "text": "radiochirurgicală",
+        "isCorrect": false
+      },
+      {
+        "text": "depinde deforma echinococozei",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "question": "Sindromul Parinau include următoarele, cu excepţia:",
+    "answers": [
+      {
+        "text": "nistagmus vertical",
+        "isCorrect": false
+      },
+      {
+        "text": "pareza vederii pe verticală",
+        "isCorrect": false
+      },
+      {
+        "text": "pareza vederii pe orizontală",
+        "isCorrect": true
+      },
+      {
+        "text": "alterarea acomodaţiei",
+        "isCorrect": false
+      },
+      {
+        "text": "alterarea convergenței",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "question": "În caz de afectare a polului lobului frontal se denotă:",
+    "answers": [
+      {
+        "text": "pareză izolată de nerv facial",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări de comportament",
+        "isCorrect": true
+      },
+      {
+        "text": "bradichinezie",
+        "isCorrect": false
+      },
+      {
+        "text": "astazie – abazie",
+        "isCorrect": false
+      },
+      {
+        "text": "anosmie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "question": "În caz de afectare a lobului occipital dereglările vizuale au caracter de:",
+    "answers": [
+      {
+        "text": "hemianopsie de cvadrant",
+        "isCorrect": false
+      },
+      {
+        "text": "agnosie vizuală",
+        "isCorrect": true
+      },
+      {
+        "text": "hemianopsie binasală",
+        "isCorrect": false
+      },
+      {
+        "text": "hemianopsie bitemporală",
+        "isCorrect": false
+      },
+      {
+        "text": "fotopsii",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "question": "Pînă la apariţia semnelor clinice tipice, tumoarea de emisferă cerebelară se caracterizează prin:",
+    "answers": [
+      {
+        "text": "sindrom HIC pronunţat",
+        "isCorrect": false
+      },
+      {
+        "text": "ataxie",
+        "isCorrect": true
+      },
+      {
+        "text": "dureri cervicale",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări sfincteriene",
+        "isCorrect": false
+      },
+      {
+        "text": "insomnie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "question": "Semiologia specifică a tumorilor lobului frontal:",
+    "answers": [
+      {
+        "text": "dereglări auditive",
+        "isCorrect": false
+      },
+      {
+        "text": "afazie motorică",
+        "isCorrect": true
+      },
+      {
+        "text": "crize Jaksoniene motorii",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări psihice",
+        "isCorrect": true
+      },
+      {
+        "text": "hemipareză spastică",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "question": "Semiologia specifică a tumorilor lobului temporal:",
+    "answers": [
+      {
+        "text": "halucinaţii auditive, olfactive",
+        "isCorrect": true
+      },
+      {
+        "text": "afazia motorică",
+        "isCorrect": false
+      },
+      {
+        "text": "hemianopsia contralaterală omonimă sau cvadranopsia omonimă superioară",
+        "isCorrect": true
+      },
+      {
+        "text": "afazia senzorială",
+        "isCorrect": true
+      },
+      {
+        "text": "afazia amnestetică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "question": "Simptoamele specifice pentru adenoame hipofizare:",
+    "answers": [
+      {
+        "text": "acromegalia",
+        "isCorrect": true
+      },
+      {
+        "text": "deficite de câmp vizual",
+        "isCorrect": true
+      },
+      {
+        "text": "hemipareze",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări auditive",
+        "isCorrect": false
+      },
+      {
+        "text": "dismenoree",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 96,
+    "question": "Semiologia specifiă tumorilor cerebelului:",
+    "answers": [
+      {
+        "text": "hipotonia musculară în muşchii membrelor ipsilaterale",
+        "isCorrect": true
+      },
+      {
+        "text": "ataxia cerebeloasă",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări olfactive",
+        "isCorrect": false
+      },
+      {
+        "text": "edemul papilar",
+        "isCorrect": true
+      },
+      {
+        "text": "cefalee nocturnă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "question": "Semiologia specifică pentru neurinomul de acustic:",
+    "answers": [
+      {
+        "text": "tinitus unilateral",
+        "isCorrect": true
+      },
+      {
+        "text": "hipoacuzia",
+        "isCorrect": true
+      },
+      {
+        "text": "hemipareză",
+        "isCorrect": false
+      },
+      {
+        "text": "hemihiperestezia",
+        "isCorrect": false
+      },
+      {
+        "text": "sindromul bulbar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "question": "Semiologia specifică a tumorilor lobului parietal:",
+    "answers": [
+      {
+        "text": "tulburări de sensibilitate",
+        "isCorrect": true
+      },
+      {
+        "text": "crize Jaksoniene senzitive",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări somato-gnozice",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări auditive",
+        "isCorrect": false
+      },
+      {
+        "text": "halucinații olfactive",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "question": "Abces - este o colecție purulentă în:",
+    "answers": [
+      {
+        "text": "parenhim cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "spațiu epidural",
+        "isCorrect": false
+      },
+      {
+        "text": "spațiu subdural",
+        "isCorrect": false
+      },
+      {
+        "text": "țesut osos",
+        "isCorrect": false
+      },
+      {
+        "text": "a, c",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "question": "Empiem - este o colecție purulentă în:",
+    "answers": [
+      {
+        "text": "parenhim cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "spațiu epidural",
+        "isCorrect": false
+      },
+      {
+        "text": "spațiu subdural",
+        "isCorrect": false
+      },
+      {
+        "text": "țesut osos",
+        "isCorrect": false
+      },
+      {
+        "text": "b, c",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "question": "Care din nozologiile indicate mai jos pot fi incluse în categoria supuraţiile chirurgicale: endocraniene (SCE):",
+    "answers": [
+      {
+        "text": "abces",
+        "isCorrect": true
+      },
+      {
+        "text": "parotită",
+        "isCorrect": false
+      },
+      {
+        "text": "empiem",
+        "isCorrect": true
+      },
+      {
+        "text": "bursită",
+        "isCorrect": false
+      },
+      {
+        "text": "carbuncul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "question": "Abcese primare sânt următoare:",
+    "answers": [
+      {
+        "text": "adiacente",
+        "isCorrect": false
+      },
+      {
+        "text": "metastatice",
+        "isCorrect": false
+      },
+      {
+        "text": "posttraumatice",
+        "isCorrect": true
+      },
+      {
+        "text": "neindeficate",
+        "isCorrect": false
+      },
+      {
+        "text": "toate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "question": "Abcese secundare sânt următoare:",
+    "answers": [
+      {
+        "text": "adiacente",
+        "isCorrect": false
+      },
+      {
+        "text": "metastatice",
+        "isCorrect": false
+      },
+      {
+        "text": "posttraumatice",
+        "isCorrect": false
+      },
+      {
+        "text": "neindeficate",
+        "isCorrect": false
+      },
+      {
+        "text": "a, b, d",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "question": "Cel mai mare grup din abcese adiacente la copii este:",
+    "answers": [
+      {
+        "text": "rinogene",
+        "isCorrect": true
+      },
+      {
+        "text": "otogene",
+        "isCorrect": false
+      },
+      {
+        "text": "oftalmogene",
+        "isCorrect": false
+      },
+      {
+        "text": "sinusogene",
+        "isCorrect": true
+      },
+      {
+        "text": "odontogene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "question": "Cel mai mare grup din abcese adiacente la maturi este:",
+    "answers": [
+      {
+        "text": "rinogene",
+        "isCorrect": false
+      },
+      {
+        "text": "otogene",
+        "isCorrect": true
+      },
+      {
+        "text": "oftalmogene",
+        "isCorrect": false
+      },
+      {
+        "text": "sinusogene",
+        "isCorrect": false
+      },
+      {
+        "text": "odontogene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "question": "Care din nozologiile indicate mai jos pot fi surse de SCE:",
+    "answers": [
+      {
+        "text": "pansinusita purulentă",
+        "isCorrect": true
+      },
+      {
+        "text": "ulcerul cronic gastroduodenal",
+        "isCorrect": false
+      },
+      {
+        "text": "otita medie purulentă",
+        "isCorrect": true
+      },
+      {
+        "text": "erizipeloidul",
+        "isCorrect": false
+      },
+      {
+        "text": "pleurita purulentă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "question": "Care sunt căile de propagare a infecţiei pentru formarea unei SCE:",
+    "answers": [
+      {
+        "text": "prin continuitate",
+        "isCorrect": false
+      },
+      {
+        "text": "pe cale sanguină",
+        "isCorrect": false
+      },
+      {
+        "text": "infectarea directă a parenchimului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "prin continuitate şi pe cale sanguinâ",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "question": "Care sunt căile de propagare a infecţiei pentru formarea abcesului adiacent:",
+    "answers": [
+      {
+        "text": "prin continuitate",
+        "isCorrect": true
+      },
+      {
+        "text": "pe cale sanguină",
+        "isCorrect": false
+      },
+      {
+        "text": "infectarea directă a parenchimului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "prin continuitate şi pe cale sanguinâ",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "question": "Care sunt căile de propagare a infecţiei pentru formarea abcesului metastatic:",
+    "answers": [
+      {
+        "text": "prin continuitate",
+        "isCorrect": false
+      },
+      {
+        "text": "pe cale sanguină",
+        "isCorrect": true
+      },
+      {
+        "text": "infectarea directă a parenchimului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "prin continuitate şi pe cale sanguinâ",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "question": "Care sunt căile de propagare a infecţiei pentru formarea abcesului neidentificat:",
+    "answers": [
+      {
+        "text": "prin continuitate",
+        "isCorrect": false
+      },
+      {
+        "text": "pe cale sanguinâ",
+        "isCorrect": false
+      },
+      {
+        "text": "infectarea directă a parenchimului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "prin continuitate şi pe cale sanguină",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "question": "Morfopatologic sunt descrise IV stadii de evoluţie a abcesului cerebral, cu excepţia:",
+    "answers": [
+      {
+        "text": "abces extradural",
+        "isCorrect": true
+      },
+      {
+        "text": "encefalită presupurativă",
+        "isCorrect": false
+      },
+      {
+        "text": "abces colectat (confluent)",
+        "isCorrect": false
+      },
+      {
+        "text": "encefalită supurativă (abces necolectat)",
+        "isCorrect": false
+      },
+      {
+        "text": "abces incapsulat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "question": "Care din nozologiile indicate mai jos pot fi surse de SCE posttraumatice:",
+    "answers": [
+      {
+        "text": "pansinusita purulentă",
+        "isCorrect": false
+      },
+      {
+        "text": "infectarea directă a parenchimului cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "otita medie purulentă",
+        "isCorrect": false
+      },
+      {
+        "text": "blefarită",
+        "isCorrect": false
+      },
+      {
+        "text": "pleurita purulentă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "question": "Durata formării capsulei abcesului este de:",
+    "answers": [
+      {
+        "text": "1.5-2.5 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "2 săptămâni",
+        "isCorrect": false
+      },
+      {
+        "text": "7 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "3 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "3-4 săptămâni",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "question": "Care din nozologiile indicate mai jos pot fi surse de SCE adiacente:",
+    "answers": [
+      {
+        "text": "pansinusita purulentă",
+        "isCorrect": true
+      },
+      {
+        "text": "infectarea directă a parenchimului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "otita medie purulentă",
+        "isCorrect": true
+      },
+      {
+        "text": "blefarită",
+        "isCorrect": true
+      },
+      {
+        "text": "pleurita purulentă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "question": "Care din nozologiile indicate mai jos pot fi surse de SCE metastatice:",
+    "answers": [
+      {
+        "text": "vicii cardiace cu șunt dreapta-stânga",
+        "isCorrect": true
+      },
+      {
+        "text": "infectarea directă a parenchimului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "otita medie purulentă",
+        "isCorrect": false
+      },
+      {
+        "text": "flegmon femoral",
+        "isCorrect": true
+      },
+      {
+        "text": "pleurita purulentă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "question": "Care din SCE pot fi numite adiacente:",
+    "answers": [
+      {
+        "text": "abces intracerebral parietal parasagital",
+        "isCorrect": false
+      },
+      {
+        "text": "abces temporal bazal intracerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "osteomielită craniană posttraumatică",
+        "isCorrect": false
+      },
+      {
+        "text": "abces de unghi pontocerebelos",
+        "isCorrect": false
+      },
+      {
+        "text": "abces intracerebral frontal bazal",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "question": "Care din abcesele indicate mai jos se includ în abcese cerebrale metastatice:",
+    "answers": [
+      {
+        "text": "abces de emisferă cerebeloasă",
+        "isCorrect": false
+      },
+      {
+        "text": "abces de unghi pontocerebelos",
+        "isCorrect": false
+      },
+      {
+        "text": "abces parietal parasagital",
+        "isCorrect": true
+      },
+      {
+        "text": "abces temporal bazal",
+        "isCorrect": false
+      },
+      {
+        "text": "abces occipito-parietal parasagital",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "question": "Patognomic pentru clinica abcesului intracerebral este „triada Bergman „:",
+    "answers": [
+      {
+        "text": "sindrom de hipotensiune intracraniană",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom de hipertensiune intracraniană",
+        "isCorrect": true
+      },
+      {
+        "text": "sindrom infecţios",
+        "isCorrect": true
+      },
+      {
+        "text": "sindrom alternant Weber",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom neurologic de focar",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "question": "Care metode de diagnostic au o valoare informativă majoră in evidenţierea abceselor cerebrale:",
+    "answers": [
+      {
+        "text": "craniografia",
+        "isCorrect": false
+      },
+      {
+        "text": "examenul oftalmologic",
+        "isCorrect": false
+      },
+      {
+        "text": "echoencefalografia",
+        "isCorrect": false
+      },
+      {
+        "text": "CT-scan craniocerebrală",
+        "isCorrect": true
+      },
+      {
+        "text": "RMN cerebrală",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 120,
+    "question": "La CT cerebral abscesul prezintă o formațiune:",
+    "answers": [
+      {
+        "text": "hipodensă",
+        "isCorrect": false
+      },
+      {
+        "text": "hiperdensă",
+        "isCorrect": false
+      },
+      {
+        "text": "bine delimitată hipodensă",
+        "isCorrect": true
+      },
+      {
+        "text": "în mijloc hipodensă, înconjurată cu zona hiperdensă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "question": "Examinarea prin RMN permite a depista abcesul la:",
+    "answers": [
+      {
+        "text": "baza craniului",
+        "isCorrect": false
+      },
+      {
+        "text": "nuclee subcorticale",
+        "isCorrect": false
+      },
+      {
+        "text": "truchiul cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "diferencia de neoplazme",
+        "isCorrect": false
+      },
+      {
+        "text": "toate",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "question": "Metodele chirurgicale de tratament al abcesului cerebral:",
+    "answers": [
+      {
+        "text": "trepanarea osteoclastică decompresivă",
+        "isCorrect": false
+      },
+      {
+        "text": "puncţia abcesului urmată de aspirare",
+        "isCorrect": true
+      },
+      {
+        "text": "drenajul abcesului",
+        "isCorrect": true
+      },
+      {
+        "text": "ablaţia abcesului (cu exereza capsulei)",
+        "isCorrect": true
+      },
+      {
+        "text": "ventriculodrenare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 123,
+    "question": "Complicaţiile postoperatorii ale SCE sunt:",
+    "answers": [
+      {
+        "text": "meningoencefalita postoperatorie",
+        "isCorrect": true
+      },
+      {
+        "text": "edemul cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "hipoacuzia bilaterală",
+        "isCorrect": false
+      },
+      {
+        "text": "recidivă de SCE",
+        "isCorrect": true
+      },
+      {
+        "text": "tuberculoamele",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 124,
+    "question": "Care abcese se situează pe primul loc după distribuţia intre aceste grupe:",
+    "answers": [
+      {
+        "text": "abcese cu germeni neidentificaţi",
+        "isCorrect": false
+      },
+      {
+        "text": "abcese provocate de Echerihia Coli",
+        "isCorrect": false
+      },
+      {
+        "text": "abcese monomicrobiene",
+        "isCorrect": true
+      },
+      {
+        "text": "abcese polimicrobiene",
+        "isCorrect": false
+      },
+      {
+        "text": "abcese cu culturi sterile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 125,
+    "question": "Agenţii etiologici microbieni principali în provocarea abceselor cerebrale sunt:",
+    "answers": [
+      {
+        "text": "stafilococul",
+        "isCorrect": true
+      },
+      {
+        "text": "streptococul",
+        "isCorrect": true
+      },
+      {
+        "text": "B.Koch",
+        "isCorrect": false
+      },
+      {
+        "text": "B.proteus",
+        "isCorrect": false
+      },
+      {
+        "text": "pneumococul",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "question": "Aspectul LCR în contuzia cerebrală gravă este:",
+    "answers": [
+      {
+        "text": "LCR clar, microscopic cu hematii",
+        "isCorrect": false
+      },
+      {
+        "text": "LCR intens sanguinolent",
+        "isCorrect": true
+      },
+      {
+        "text": "LCR rozat",
+        "isCorrect": false
+      },
+      {
+        "text": "LCR normal",
+        "isCorrect": false
+      },
+      {
+        "text": "LCR purulent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 127,
+    "question": "Traumatismele cranio-cerebrale moderate:",
+    "answers": [
+      {
+        "text": "corespund unui scor GCS de 9-12 la internare sau în primele 6 ore după aceasta",
+        "isCorrect": true
+      },
+      {
+        "text": "cuprind bolnavii care „vorbesc si mor”",
+        "isCorrect": true
+      },
+      {
+        "text": "starea generală se deteriorează lent",
+        "isCorrect": false
+      },
+      {
+        "text": "includ hematoame intracraniene subacute și cronice",
+        "isCorrect": true
+      },
+      {
+        "text": "frecvenţa este crescută",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 128,
+    "question": "Hygroma subdural subarahnoidian este:",
+    "answers": [
+      {
+        "text": "dacă este delimitată de o nouă membrană, conţine un lichid clar",
+        "isCorrect": true
+      },
+      {
+        "text": "dacă este fară membrană, conţine un lichid clar",
+        "isCorrect": true
+      },
+      {
+        "text": "pe CT apare ca o zonă hiperdensă avasculară, intracerebrală",
+        "isCorrect": false
+      },
+      {
+        "text": "evoluţia este întotdeauna gravă",
+        "isCorrect": false
+      },
+      {
+        "text": "poate dezvolta sindrom de HIC",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "question": "Leziunile osoase:",
+    "answers": [
+      {
+        "text": "pot realiza o comunicare între spaţiile lichidiene şi exterior",
+        "isCorrect": true
+      },
+      {
+        "text": "interesarea structurilor meningeale, în dreptul fracturilor bazei craniului determină apariţia de fistule de LCR",
+        "isCorrect": true
+      },
+      {
+        "text": "la copil fracturile de masiv facial au potenţial septic mai agresiv ca la adult",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturile craniului neural sunt rare şi lipsite de gravitate",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturile craniene se grupează in fracturi ale bazei şi ale calotei",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "question": "Indicaţiile operatorii ale fracturilor craniene sunt:",
+    "answers": [
+      {
+        "text": "fracturi multieschiloase înfundate în endocraniu",
+        "isCorrect": true
+      },
+      {
+        "text": "în prezenţa unui hematom intervenţia chirurgicală trebuie amânată",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi craniene însoţite de fistule",
+        "isCorrect": true
+      },
+      {
+        "text": "fracturi progresive întîlnite la copii (0-3 ani)",
+        "isCorrect": true
+      },
+      {
+        "text": "fractura depresivă simplă la adult",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "question": "Scara Glasgow se bazează pe testarea următoarelor elemente:",
+    "answers": [
+      {
+        "text": "activitate cardiovasculară",
+        "isCorrect": false
+      },
+      {
+        "text": "deschiderea ochilor",
+        "isCorrect": true
+      },
+      {
+        "text": "funcţie respiratorie",
+        "isCorrect": false
+      },
+      {
+        "text": "răspunsuri verbale",
+        "isCorrect": true
+      },
+      {
+        "text": "activitate motorie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 132,
+    "question": "Hematoamele intraventriculare:",
+    "answers": [
+      {
+        "text": "sunt reprezentate de hemoragii intraventriculare şi hematoame in cavitatea ventriculara",
+        "isCorrect": true
+      },
+      {
+        "text": "apar tardiv posttraumatic",
+        "isCorrect": false
+      },
+      {
+        "text": "inundaţia ventriculară determină stare de comă profundă",
+        "isCorrect": true
+      },
+      {
+        "text": "hemoragia intraventriculară acută se însoţeste de LCR normal",
+        "isCorrect": false
+      },
+      {
+        "text": "tulburările vegetative sunt mult diminuate în comparaţie cu cele din cazul hematoamelor intraparenchimatoase",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 133,
+    "question": "Efectele traumatice imediate primare asupra structurilor endocraniene sunt următoarele, cu exceptia:",
+    "answers": [
+      {
+        "text": "comoţia",
+        "isCorrect": false
+      },
+      {
+        "text": "contuzia",
+        "isCorrect": false
+      },
+      {
+        "text": "meningita seroasă",
+        "isCorrect": true
+      },
+      {
+        "text": "dilacerarea",
+        "isCorrect": false
+      },
+      {
+        "text": "fistulele de LCR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "question": "Comoţia cerebrala:",
+    "answers": [
+      {
+        "text": "se manifestă clinic printr-o scurtă abolire a stării de conştienţă",
+        "isCorrect": true
+      },
+      {
+        "text": "are subsrtat lezional anatomic cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "se produce datorită depolarizării bruşte a membranei neuronilor din formaţia reticulată a trunchiului cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "efectul este de durată lungă, parţial reversibil",
+        "isCorrect": false
+      },
+      {
+        "text": "dupa comoţie pacientul işi revine complet",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 135,
+    "question": "Traumatismele cranio-cerebrale pot fi produse prin următoarele mecanisme directe:",
+    "answers": [
+      {
+        "text": "impact direct asupra scalpului si oaselor craniene",
+        "isCorrect": true
+      },
+      {
+        "text": "capului i se imprimă o mişcare de acceleraţie prin lovirea sa cu un corp în mişcare",
+        "isCorrect": true
+      },
+      {
+        "text": "excursia craniului este oprita brusc prin lovirea capului de un corp rezistent",
+        "isCorrect": true
+      },
+      {
+        "text": "penetrarea endocraniană a unor corpi străini",
+        "isCorrect": false
+      },
+      {
+        "text": "aplicarea simultană a două planuri dure asupra craniului",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 136,
+    "question": "Investigaţiile paraclinice specifice pentru contuzia cerebrală sunt:",
+    "answers": [
+      {
+        "text": "EEG",
+        "isCorrect": false
+      },
+      {
+        "text": "ECO",
+        "isCorrect": false
+      },
+      {
+        "text": "examenul LCR",
+        "isCorrect": true
+      },
+      {
+        "text": "CT",
+        "isCorrect": true
+      },
+      {
+        "text": "angiografia cerebrală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 137,
+    "question": "Despre tratamentul contuziilor cerebrale se poate afirma:",
+    "answers": [
+      {
+        "text": "în contuzia cerebrală medie tratamentul este chirurgical",
+        "isCorrect": false
+      },
+      {
+        "text": "în contuzia cerebrală minoră tratamentul este antiedematos, antiemetic, antitermic, sedativ",
+        "isCorrect": true
+      },
+      {
+        "text": "aplicarea de antibiotice este justificată în cazul plăgilor scalpului",
+        "isCorrect": true
+      },
+      {
+        "text": "contuzia cerebrală propriu-zisă necesită obligatoriu antibioticoterapie",
+        "isCorrect": false
+      },
+      {
+        "text": "tratamentul chirurgical este rezervat numai efectelor traumatice secundare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 138,
+    "question": "Hematoamele traumatice intracerebrale:",
+    "answers": [
+      {
+        "text": "se dezvoltă în substanţa cerebrală intr-un focar de contuzie",
+        "isCorrect": true
+      },
+      {
+        "text": "nu constitutie o urgenţă chirurgicală",
+        "isCorrect": false
+      },
+      {
+        "text": "incidenţa este de 15-18%",
+        "isCorrect": true
+      },
+      {
+        "text": "volumul este de 30 ml",
+        "isCorrect": true
+      },
+      {
+        "text": "cea mai frecventă localizare este cea occipitală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 139,
+    "question": "Următoarele afirmaţii despre punctajul la scara Glasgow sunt false:",
+    "answers": [
+      {
+        "text": "punctaj 4-5 reprezintă coma de grad II",
+        "isCorrect": true
+      },
+      {
+        "text": "punctaj 4-5 reprezintă coma de grad III",
+        "isCorrect": false
+      },
+      {
+        "text": "punctaj 5-7 reprezintă coma de grad II",
+        "isCorrect": false
+      },
+      {
+        "text": "punctaj 9-12 corespunde unor tulburari de conştienţa",
+        "isCorrect": false
+      },
+      {
+        "text": "punctaj 8 reprezintă coma de grad III",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 140,
+    "question": "Următoarele afirmaţii despre contuzia cerebrală sunt false:",
+    "answers": [
+      {
+        "text": "are un efect traumatic imediat cu implicaţie directă, primară asupra encefalului",
+        "isCorrect": false
+      },
+      {
+        "text": "este elementul major din patologia cranio-cerebrala traumatică",
+        "isCorrect": false
+      },
+      {
+        "text": "efectul lezional este indus de perturbări vasculare directe sau reflexe vasomotorii la distanţă",
+        "isCorrect": false
+      },
+      {
+        "text": "în contuzia cerebrală minoră pacientul prezintă o alterare a stării de conştienţă de 1-2 ore",
+        "isCorrect": true
+      },
+      {
+        "text": "în contuzia cerebrală gravă pacientul nu-şi pierde starea de conştienţă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 141,
+    "question": "Hematoamele intracraniene traumatice:",
+    "answers": [
+      {
+        "text": "au efect compresiv asupra parenchimului",
+        "isCorrect": true
+      },
+      {
+        "text": "hematoamele extradurale se dezvolta între dura mater si arahnoidă",
+        "isCorrect": false
+      },
+      {
+        "text": "hematoamele extradurale apar mai ales la pacienţii de sex masculin",
+        "isCorrect": true
+      },
+      {
+        "text": "hematoamele subdurale nu au efect compresiv asupra encefalului",
+        "isCorrect": false
+      },
+      {
+        "text": "hematoamele subdurale sunt de obicei unilaterale, mai frecvent pe partea stângă",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 142,
+    "question": "Sunt adevărate următoarele afirmaţii despre traumatismele cranio-cerebrale severe:",
+    "answers": [
+      {
+        "text": "include pacienţii cu GCS peste 8",
+        "isCorrect": false
+      },
+      {
+        "text": "pacienţii sunt in stare de comă",
+        "isCorrect": true
+      },
+      {
+        "text": "pacienţii cu scor GCS 8 sunt in comă de gradul I",
+        "isCorrect": true
+      },
+      {
+        "text": "pacienţii cu scor GCS 7-6 sunt in comă de gradul III",
+        "isCorrect": false
+      },
+      {
+        "text": "pacienţii cu scor GCS 3 sunt in comă de gradul II",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 143,
+    "question": "Hematoamele subdurale cronice:",
+    "answers": [
+      {
+        "text": "afectează preponderant copiii",
+        "isCorrect": false
+      },
+      {
+        "text": "incidenţa este de aproximativ 2-3%",
+        "isCorrect": true
+      },
+      {
+        "text": "etiologia este exclusiv traumatică",
+        "isCorrect": true
+      },
+      {
+        "text": "volumul este 300-500 ml",
+        "isCorrect": false
+      },
+      {
+        "text": "este dispus într-o capsulă cu membrană parietală şi viscerală",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 144,
+    "question": "După aspectul radiologic fracturile craniene se împart în:",
+    "answers": [
+      {
+        "text": "cominutive",
+        "isCorrect": true
+      },
+      {
+        "text": "închise",
+        "isCorrect": false
+      },
+      {
+        "text": "impresive",
+        "isCorrect": true
+      },
+      {
+        "text": "liniare",
+        "isCorrect": true
+      },
+      {
+        "text": "depresive",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 145,
+    "question": "Hematoamele extradurale:",
+    "answers": [
+      {
+        "text": "se dezvoltă între arahnoidă şi dura mater",
+        "isCorrect": false
+      },
+      {
+        "text": "se dezvoltă între endocraniu şi dura mater",
+        "isCorrect": true
+      },
+      {
+        "text": "sunt circumscrise",
+        "isCorrect": true
+      },
+      {
+        "text": "sunt difuze",
+        "isCorrect": false
+      },
+      {
+        "text": "la CT forma lentilei biconvexe",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 146,
+    "question": "Prognosticul hematoamelor extradurale depinde de:",
+    "answers": [
+      {
+        "text": "precocitatea diagnosticului şi intervenţiei chirurgicale",
+        "isCorrect": true
+      },
+      {
+        "text": "sursa sîngerării",
+        "isCorrect": true
+      },
+      {
+        "text": "obiectul cauzator",
+        "isCorrect": false
+      },
+      {
+        "text": "leziuni cerebrale asociate",
+        "isCorrect": true
+      },
+      {
+        "text": "nici una din variante",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 147,
+    "question": "Prin TCC deschis se subînţelege:",
+    "answers": [
+      {
+        "text": "orice TCC",
+        "isCorrect": false
+      },
+      {
+        "text": "contuzie a ţesuturilor moi epicraniene",
+        "isCorrect": false
+      },
+      {
+        "text": "fractură liniară parietală",
+        "isCorrect": false
+      },
+      {
+        "text": "plagă prin scalpare",
+        "isCorrect": true
+      },
+      {
+        "text": "plagă cu lezarea aponeurozei epicraniene",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 148,
+    "question": "Prin TCC penetrant se subînţelege:",
+    "answers": [
+      {
+        "text": "plagă cu lizarea aponeurozei epicraniene",
+        "isCorrect": false
+      },
+      {
+        "text": "fractură liniară parietală",
+        "isCorrect": false
+      },
+      {
+        "text": "fractura oaselor craniene cu lezarea durei mater",
+        "isCorrect": true
+      },
+      {
+        "text": "licvoree nasală",
+        "isCorrect": true
+      },
+      {
+        "text": "contuzie a ţesuturilor moi epicraniene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 149,
+    "question": "Comoţia cerebrală face parte din:",
+    "answers": [
+      {
+        "text": "TCC uşoare",
+        "isCorrect": true
+      },
+      {
+        "text": "TCC de gravitate medie",
+        "isCorrect": false
+      },
+      {
+        "text": "TCC grave",
+        "isCorrect": false
+      },
+      {
+        "text": "TCC asociate de fracturi al ebolţii craniene",
+        "isCorrect": false
+      },
+      {
+        "text": "TCC asociate de fracturi ale batei craniului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 150,
+    "question": "În caz de contuzie cerebrală de gravitate medie pot fi constatate:",
+    "answers": [
+      {
+        "text": "pierdere de conştienţă cu o durată de peste 1 oră",
+        "isCorrect": true
+      },
+      {
+        "text": "pierdere de conştienţă cu o durată de peste 3 ore",
+        "isCorrect": false
+      },
+      {
+        "text": "prezenţa hemoragiei subarahnoidiene",
+        "isCorrect": true
+      },
+      {
+        "text": "prezenţa fracturilor craniene",
+        "isCorrect": true
+      },
+      {
+        "text": "predomină semne generale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 151,
+    "question": "Contuzia cerebrală gravă se manifestă prin:",
+    "answers": [
+      {
+        "text": "pierdere de conştienţă cu o durată de pînă la 1 oră",
+        "isCorrect": false
+      },
+      {
+        "text": "pierdere de conştienţă cu o durată de cîteva zile",
+        "isCorrect": true
+      },
+      {
+        "text": "semne primare de afectare a trunchiului cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "semne de focar",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 152,
+    "question": "Compresia cerebrală se manifestă prin:",
+    "answers": [
+      {
+        "text": "pierdere de conştienţă din momentul traumei",
+        "isCorrect": false
+      },
+      {
+        "text": "pierdere de conştienţă după o perioadă lucidă",
+        "isCorrect": true
+      },
+      {
+        "text": "semne de afectare primară a trunchiului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "progresarea semnelor de afectare a trunchiului cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 153,
+    "question": "Plaga scalpată se caracterizează prin:",
+    "answers": [
+      {
+        "text": "lambou cutaneo-aponeurotic",
+        "isCorrect": true
+      },
+      {
+        "text": "margini drepte",
+        "isCorrect": false
+      },
+      {
+        "text": "margini neregulate",
+        "isCorrect": false
+      },
+      {
+        "text": "orificiu punctiform de intrare",
+        "isCorrect": false
+      },
+      {
+        "text": "cîteva orificii de intrare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 154,
+    "question": "Plaga împuşcată se caracterizează prin:",
+    "answers": [
+      {
+        "text": "margini rotund-ovoide, regulate",
+        "isCorrect": true
+      },
+      {
+        "text": "magini neregulate, necrotic modificate",
+        "isCorrect": false
+      },
+      {
+        "text": "combustie a marginilor",
+        "isCorrect": true
+      },
+      {
+        "text": "margini drepte",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 155,
+    "question": "În caz de comoţie cerebrală durata pierderii de conştienţă constitue:",
+    "answers": [
+      {
+        "text": "pînă la 1/2 de oră",
+        "isCorrect": false
+      },
+      {
+        "text": "pînă la 6 ore",
+        "isCorrect": false
+      },
+      {
+        "text": "pînă la 12 ore",
+        "isCorrect": false
+      },
+      {
+        "text": "pînă la 24 ore",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 156,
+    "question": "Durata perioadei tardive a traumatismului cranio-cerebral constituie:",
+    "answers": [
+      {
+        "text": "3 săptămîni",
+        "isCorrect": false
+      },
+      {
+        "text": "4 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "6 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "9 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "1 an",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 157,
+    "question": "Un traumatism cranio-cerebral deschis subînţelege:",
+    "answers": [
+      {
+        "text": "orice lezare a ţesuturilor moi epicraniene",
+        "isCorrect": false
+      },
+      {
+        "text": "plagă cu lezarea aponeurozei",
+        "isCorrect": true
+      },
+      {
+        "text": "contuzia ţesuturilor moi epicraniene",
+        "isCorrect": false
+      },
+      {
+        "text": "fractura oaselor craniene",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 158,
+    "question": "Prin contuzia cerebrală se subînţelege:",
+    "answers": [
+      {
+        "text": "pierdere de cunoştinţă pe mai mult de 1 oră",
+        "isCorrect": true
+      },
+      {
+        "text": "pierdere de cunoştinţă pe cîteva secunde",
+        "isCorrect": false
+      },
+      {
+        "text": "prezenţa hemoragiei subarahnoidiene",
+        "isCorrect": true
+      },
+      {
+        "text": "prezenţa fracturilor oaselor craniene",
+        "isCorrect": true
+      },
+      {
+        "text": "corecte toate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 159,
+    "question": "Compresia cerebrală se caracterizează prin:",
+    "answers": [
+      {
+        "text": "pierderea cunoştinţei din momentul traumatismului",
+        "isCorrect": false
+      },
+      {
+        "text": "pierderea cunoştinţei după o perioadă lucidă",
+        "isCorrect": true
+      },
+      {
+        "text": "simptome primare de afectare a trunchiului cerebral",
+        "isCorrect": false
+      },
+      {
+        "text": "progresarea simptomelor de afectare a trunchiului cerebral",
+        "isCorrect": true
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 160,
+    "question": "Pentru hematomul intracranial este caracteristic:",
+    "answers": [
+      {
+        "text": "pierdere de cunoştinţă după suportarea traumatismului fără o perioadă lucidă",
+        "isCorrect": false
+      },
+      {
+        "text": "pierdere de cunoştinţă, perioadă lucidă, ulterior pierdere de cunoştinţă repetată",
+        "isCorrect": false
+      },
+      {
+        "text": "pierdere de cunoştinţă peste un anumit interval de timp după suportarea traumatismului",
+        "isCorrect": false
+      },
+      {
+        "text": "lipsa pierderii de cunoştinţă",
+        "isCorrect": false
+      },
+      {
+        "text": "posibilă orice variantă de evoluţie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 161,
+    "question": "LCS în caz de hematom intracerebral acut este:",
+    "answers": [
+      {
+        "text": "transparent",
+        "isCorrect": false
+      },
+      {
+        "text": "intens sanguinolent",
+        "isCorrect": false
+      },
+      {
+        "text": "xantocrom",
+        "isCorrect": false
+      },
+      {
+        "text": "moderat sanguinolent",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 162,
+    "question": "La CT-scan focarele de contuzie cerebrală gravă au densitatea:",
+    "answers": [
+      {
+        "text": "18-25 UH",
+        "isCorrect": false
+      },
+      {
+        "text": "25-45 UH",
+        "isCorrect": false
+      },
+      {
+        "text": "64-70 UH",
+        "isCorrect": true
+      },
+      {
+        "text": "70-90 UH",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 163,
+    "question": "Pentru hematomul subdural acut este caracteristic:",
+    "answers": [
+      {
+        "text": "pierdere de cunoştinţă după suportarea traumatismului fără o perioadă lucidă",
+        "isCorrect": false
+      },
+      {
+        "text": "pierdere de cunoştinţă, perioadă lucidă, ulterior pierdere de cunoştinţă repetată",
+        "isCorrect": true
+      },
+      {
+        "text": "pierdere de cunoştinţă peste un anumit interval de timp după suportarea traumatismului",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      },
+      {
+        "text": "lipsa pierderii de cunoştinţă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 164,
+    "question": "Licvorea primară se poate dezvolta în caz de:",
+    "answers": [
+      {
+        "text": "fractura oaselor nasale",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi de calotă craniană",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi de bază craniană",
+        "isCorrect": true
+      },
+      {
+        "text": "fracturi parabazale",
+        "isCorrect": false
+      },
+      {
+        "text": "fractura maxilei după Lefort II",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 165,
+    "question": "Pentru meningita şi meningoencefalita acută traumatică este specific:",
+    "answers": [
+      {
+        "text": "hipertermie",
+        "isCorrect": true
+      },
+      {
+        "text": "citoză în LCS",
+        "isCorrect": true
+      },
+      {
+        "text": "sindrom HIC",
+        "isCorrect": false
+      },
+      {
+        "text": "semne meningiene",
+        "isCorrect": true
+      },
+      {
+        "text": "semne de focar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 166,
+    "question": "Apariţia anizocoriei în cadrul traumatismului cranio-cerebral indică:",
+    "answers": [
+      {
+        "text": "prezenţa comoţiei cerebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "progresarea compresiei intracraniene pe partea midriazei",
+        "isCorrect": true
+      },
+      {
+        "text": "progresarea compresiei intracraniene pe partea opusă midriazei",
+        "isCorrect": false
+      },
+      {
+        "text": "prezenţa fracturii de bază craniană",
+        "isCorrect": false
+      },
+      {
+        "text": "corect B şi D",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 167,
+    "question": "Un pacient cu traumatism asociat cranio-cerebral şi vertebro-medular cervical se va transporta în poziţia:",
+    "answers": [
+      {
+        "text": "in decubit ventral cu capul rotit lateral",
+        "isCorrect": false
+      },
+      {
+        "text": "pe o parte",
+        "isCorrect": false
+      },
+      {
+        "text": "pe spate, fixat pe un plan dur, capul fixat cu saci de nisip",
+        "isCorrect": false
+      },
+      {
+        "text": "în decubit dorsal, fixat pe un plan dur, aplicarea cervicostatului",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 168,
+    "question": "Fractura liniară a calotei craniene se caracterizează prin:",
+    "answers": [
+      {
+        "text": "contur liniar al fracturii",
+        "isCorrect": false
+      },
+      {
+        "text": "frecventa implicare a osului temporal",
+        "isCorrect": false
+      },
+      {
+        "text": "lipsa semnelor de impresie a marginilor fracturii",
+        "isCorrect": false
+      },
+      {
+        "text": "posibila prezenţă a câtorva linii de fractură cu acelaşi punct de plecare",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 169,
+    "question": "Simptome de focar, caracteristice pentru hematoamele epidurale, sunt:",
+    "answers": [
+      {
+        "text": "pareză facială centrală",
+        "isCorrect": true
+      },
+      {
+        "text": "scăderea acuităţii vizuale",
+        "isCorrect": false
+      },
+      {
+        "text": "hemipareză cotralaterală",
+        "isCorrect": true
+      },
+      {
+        "text": "midriază ipsilaterală",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 170,
+    "question": "LCS în caz de hematom intraventricular este:",
+    "answers": [
+      {
+        "text": "transparent",
+        "isCorrect": false
+      },
+      {
+        "text": "intens sanguinolent",
+        "isCorrect": true
+      },
+      {
+        "text": "xantocrom",
+        "isCorrect": false
+      },
+      {
+        "text": "moderat sanguinolent",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 171,
+    "question": "Hemipareza în cadrul traumatismului cranio-cerebral poate apărea în caz de:",
+    "answers": [
+      {
+        "text": "comoţie cerebrală",
+        "isCorrect": false
+      },
+      {
+        "text": "hematom intracranian",
+        "isCorrect": true
+      },
+      {
+        "text": "contuzie cerebrală uşoară",
+        "isCorrect": false
+      },
+      {
+        "text": "fractură a bazei craniului",
+        "isCorrect": false
+      },
+      {
+        "text": "hemoragie subarahnoidienă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 172,
+    "question": "Fractura compresivă se caracterizează prin:",
+    "answers": [
+      {
+        "text": "contur liniar",
+        "isCorrect": false
+      },
+      {
+        "text": "prezenţa mai multor fragmente în regiunea fracturii",
+        "isCorrect": false
+      },
+      {
+        "text": "prezenţa mai multor fragmente ce se află mai jos de regiunea fracturii",
+        "isCorrect": true
+      },
+      {
+        "text": "prezenţa mai multor fragmente ce se află mai sus de regiunea fracturii",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 173,
+    "question": "Fractura de bază craniană:",
+    "answers": [
+      {
+        "text": "are traiect orizontal",
+        "isCorrect": false
+      },
+      {
+        "text": "are traiect vertical",
+        "isCorrect": true
+      },
+      {
+        "text": "este izolată",
+        "isCorrect": false
+      },
+      {
+        "text": "este de obicei continuarea unei fracturi de calotă",
+        "isCorrect": true
+      },
+      {
+        "text": "face parte din TCC închise",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 174,
+    "question": "În caz de fractură a piramidei osului temporal apar:",
+    "answers": [
+      {
+        "text": "licvoree",
+        "isCorrect": true
+      },
+      {
+        "text": "pareza centrală a nervului facial",
+        "isCorrect": false
+      },
+      {
+        "text": "anacuzie",
+        "isCorrect": true
+      },
+      {
+        "text": "lezarea aparatului vestibular",
+        "isCorrect": true
+      },
+      {
+        "text": "pareza periferică a nervului facial",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 175,
+    "question": "Hematoamele subdurale de geneză arterială pot evolua:",
+    "answers": [
+      {
+        "text": "acut",
+        "isCorrect": true
+      },
+      {
+        "text": "subacut",
+        "isCorrect": true
+      },
+      {
+        "text": "cronic",
+        "isCorrect": true
+      },
+      {
+        "text": "trenant",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 176,
+    "question": "Hematoamele subdurale de geneză venoasă pot evolua:",
+    "answers": [
+      {
+        "text": "acut",
+        "isCorrect": true
+      },
+      {
+        "text": "subacut",
+        "isCorrect": true
+      },
+      {
+        "text": "cronic",
+        "isCorrect": true
+      },
+      {
+        "text": "trenant",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 177,
+    "question": "Pierderea de conştienţă în caz de hematom intracerebral traumatic este:",
+    "answers": [
+      {
+        "text": "peste un anumit interval de la momentul traumei",
+        "isCorrect": false
+      },
+      {
+        "text": "repetată, cu perioadă lucidă",
+        "isCorrect": false
+      },
+      {
+        "text": "din momentul traumei fără perioadă lucidă",
+        "isCorrect": true
+      },
+      {
+        "text": "absentă",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 178,
+    "question": "În caz de fractură de FCA care nerv cranian poate fi afectat:",
+    "answers": [
+      {
+        "text": "trigemin",
+        "isCorrect": false
+      },
+      {
+        "text": "optic",
+        "isCorrect": true
+      },
+      {
+        "text": "ocolomator",
+        "isCorrect": true
+      },
+      {
+        "text": "trohlear",
+        "isCorrect": true
+      },
+      {
+        "text": "abducens",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 179,
+    "question": "Semnul tipic de erupere a unui hematom intracerebral în sistemul ventricular este:",
+    "answers": [
+      {
+        "text": "instalarea stării comatoase",
+        "isCorrect": false
+      },
+      {
+        "text": "hipertermia",
+        "isCorrect": false
+      },
+      {
+        "text": "hormeotonia",
+        "isCorrect": true
+      },
+      {
+        "text": "semne patologice bilaterale",
+        "isCorrect": false
+      },
+      {
+        "text": "tetrapareza",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 180,
+    "question": "Licvorea posttraumatică poate fi:",
+    "answers": [
+      {
+        "text": "primară",
+        "isCorrect": false
+      },
+      {
+        "text": "secundară",
+        "isCorrect": false
+      },
+      {
+        "text": "otoree",
+        "isCorrect": false
+      },
+      {
+        "text": "nasoree",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 181,
+    "question": "Otolicvorea se stabileşte în baza:",
+    "answers": [
+      {
+        "text": "hemoragiei din ureche",
+        "isCorrect": false
+      },
+      {
+        "text": "eliminaării din ureche a unui lichid sanguinolent",
+        "isCorrect": true
+      },
+      {
+        "text": "urmelor de sînge în conductul auditiv extern",
+        "isCorrect": false
+      },
+      {
+        "text": "echimozelor din regiunea mastoidiană",
+        "isCorrect": false
+      },
+      {
+        "text": "probei de tifon",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 182,
+    "question": "Licvorea va fi diferenciată de o rinită în baza:",
+    "answers": [
+      {
+        "text": "datelor anamnestice",
+        "isCorrect": false
+      },
+      {
+        "text": "datelor radiografiei",
+        "isCorrect": false
+      },
+      {
+        "text": "testelor LCR la conţinutul de cloruri",
+        "isCorrect": true
+      },
+      {
+        "text": "testelor LCR la conţinutul de glucide",
+        "isCorrect": true
+      },
+      {
+        "text": "examenului otorinolaringologic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 183,
+    "question": "Metode de stopare a hemoragiei din ţesuturile epicraniene sunt toate, cu excepţia:",
+    "answers": [
+      {
+        "text": "aplicarea clamelor hemostatice",
+        "isCorrect": false
+      },
+      {
+        "text": "aplicarea garoului",
+        "isCorrect": true
+      },
+      {
+        "text": "ligaturarea arterei temporale superficiale",
+        "isCorrect": false
+      },
+      {
+        "text": "compresiunea digitală",
+        "isCorrect": false
+      },
+      {
+        "text": "aplicarea pansamentului compresiv",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 184,
+    "question": "Apariţia midriazei la un pacient traumat sugerează:",
+    "answers": [
+      {
+        "text": "comoţie cerebrală",
+        "isCorrect": false
+      },
+      {
+        "text": "compresie cerebrală pe partea midriazei",
+        "isCorrect": true
+      },
+      {
+        "text": "compresie cerebrală pe partea opusă midriazei",
+        "isCorrect": false
+      },
+      {
+        "text": "hemoragie subarahnoidiană",
+        "isCorrect": false
+      },
+      {
+        "text": "compresie la nivelul FCP",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 185,
+    "question": "Aspectul LCR în contuzia medulară gravă este:",
+    "answers": [
+      {
+        "text": "LCR clar, microscopic cu hematii",
+        "isCorrect": false
+      },
+      {
+        "text": "LCR intens sanguinolent",
+        "isCorrect": true
+      },
+      {
+        "text": "LCR rozat",
+        "isCorrect": false
+      },
+      {
+        "text": "LCR normal",
+        "isCorrect": false
+      },
+      {
+        "text": "LCR purulent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 186,
+    "question": "Traumatisme fără afectarea funcţiei medulei spinale sunt următoarele, cu excepţia:",
+    "answers": [
+      {
+        "text": "contuzia coloanei vertebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "luxaţii vertebrale",
+        "isCorrect": true
+      },
+      {
+        "text": "fracturi de apofize spinoase",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi mielice de corp vertebral",
+        "isCorrect": true
+      },
+      {
+        "text": "contuzia medulei spinale",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 187,
+    "question": "Complicaţii precoce ale lezunilor vertebro-medulare sunt:",
+    "answers": [
+      {
+        "text": "epidurita purulentă",
+        "isCorrect": true
+      },
+      {
+        "text": "hematomielia",
+        "isCorrect": false
+      },
+      {
+        "text": "meningomielita purulentă",
+        "isCorrect": true
+      },
+      {
+        "text": "abces al medulei spinale",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 188,
+    "question": "Sindromul dereglărilor de sensibilitate în cazul afectării caudei equina include:",
+    "answers": [
+      {
+        "text": "hipestezie conductorie",
+        "isCorrect": false
+      },
+      {
+        "text": "hipestezie radiculară în extremităţile inferioare",
+        "isCorrect": true
+      },
+      {
+        "text": "hipestezie anogenitală &quot;în şa&quot;",
+        "isCorrect": false
+      },
+      {
+        "text": "hipestezii segmentare tip disociat",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 189,
+    "question": "Pentru afectarea segmentelor lombare superioare (L I- L III) este caracteristic:",
+    "answers": [
+      {
+        "text": "pareză periferică a m. ilio-psoas, quadriceps",
+        "isCorrect": true
+      },
+      {
+        "text": "lipsa reflexului cremasterian",
+        "isCorrect": true
+      },
+      {
+        "text": "pareză centrală a m. ilio-psoas, quadriceps",
+        "isCorrect": false
+      },
+      {
+        "text": "pareză centrală a muşchilor gambei",
+        "isCorrect": true
+      },
+      {
+        "text": "pareză periferică a muşchilor gambei",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 190,
+    "question": "Despre întreruperea anatomică a medulei spinale vorbesc:",
+    "answers": [
+      {
+        "text": "lipsa sensibilităţii profunde în articulaţiile proximale ale membrelor",
+        "isCorrect": true
+      },
+      {
+        "text": "apariţia precoce a dereglărilor trofice",
+        "isCorrect": true
+      },
+      {
+        "text": "erecţie, poluţie",
+        "isCorrect": true
+      },
+      {
+        "text": "senzaţii neplăcute în timpul cateterizării vezicii urinare",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 191,
+    "question": "Caractere spondilografice ale unei leziuni vertebro-medulare stabile sunt:",
+    "answers": [
+      {
+        "text": "fracturi izolate a apofizelor spinoase",
+        "isCorrect": true
+      },
+      {
+        "text": "luxaţii vertebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi-luxaţii",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi izolate a arcurilor",
+        "isCorrect": true
+      },
+      {
+        "text": "subluxaţii",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 192,
+    "question": "Traumatisme vertebro-medulare deschise sunt leziuni cu afectarea:",
+    "answers": [
+      {
+        "text": "integrităţii tegumentelor",
+        "isCorrect": true
+      },
+      {
+        "text": "ligamentului galben",
+        "isCorrect": false
+      },
+      {
+        "text": "durei mater",
+        "isCorrect": false
+      },
+      {
+        "text": "conductibilităţii medulei spinale",
+        "isCorrect": false
+      },
+      {
+        "text": "aponeurozei spinale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 193,
+    "question": "În caz de hematomielie apar:",
+    "answers": [
+      {
+        "text": "dereglări de sensibilitate caracter disociat",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări de sensibilitate tip segmentar",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări de sensibilitate tip conductor",
+        "isCorrect": false
+      },
+      {
+        "text": "pareze, paralizii",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 194,
+    "question": "Complicaţii infecţioase tardive ale lezunilor vertebro-medulare sunt:",
+    "answers": [
+      {
+        "text": "epidurita purulentă",
+        "isCorrect": false
+      },
+      {
+        "text": "epidurita cronică",
+        "isCorrect": true
+      },
+      {
+        "text": "meningomielita purulentă",
+        "isCorrect": false
+      },
+      {
+        "text": "arahnoidita",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 195,
+    "question": "Un pacient cu traumatism asociat cranio-cerebral şi vertebro-medular cervical se va transporta în poziţia:",
+    "answers": [
+      {
+        "text": "pe burtă",
+        "isCorrect": false
+      },
+      {
+        "text": "pe o parte",
+        "isCorrect": false
+      },
+      {
+        "text": "pe spate cu capul rotit lateral",
+        "isCorrect": false
+      },
+      {
+        "text": "pe spate cu capul fixat cu saci de nisip",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 196,
+    "question": "În caz de afectare traumatică a intumiscenţei cervicale apar următoarele semne, cu excepţia:",
+    "answers": [
+      {
+        "text": "tetrapareză spastică",
+        "isCorrect": true
+      },
+      {
+        "text": "parapareză flască superioară",
+        "isCorrect": false
+      },
+      {
+        "text": "parapareză spastică inferioară",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom Horner",
+        "isCorrect": false
+      },
+      {
+        "text": "tetrapareză",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 197,
+    "question": "Afectarea traumatică a segmentelor cervicale superioare este sugerată de prezenţa la pacient a:",
+    "answers": [
+      {
+        "text": "tetraplegiei spastice",
+        "isCorrect": false
+      },
+      {
+        "text": "tetraanesteziei",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglărilor de respiraţie",
+        "isCorrect": false
+      },
+      {
+        "text": "hipestezie pe zonele Zelder",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 198,
+    "question": "În caz de comoţie medulară apar urmăroarele semne, cu excepţia:",
+    "answers": [
+      {
+        "text": "pareză tranzitorie",
+        "isCorrect": false
+      },
+      {
+        "text": "hipestezie tranzitorie",
+        "isCorrect": false
+      },
+      {
+        "text": "sînge în LCR",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări tranzitorii de control sfincterian",
+        "isCorrect": false
+      },
+      {
+        "text": "dureri în regiunea afectată",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 199,
+    "question": "Diagnosticul de contuzie medulară va fi stabilit dacă la pacient se determină:",
+    "answers": [
+      {
+        "text": "pareză tranzitorie",
+        "isCorrect": false
+      },
+      {
+        "text": "hipestezie tranzitorie",
+        "isCorrect": false
+      },
+      {
+        "text": "sînge în LCR",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări tranzitorii de control sfincterian",
+        "isCorrect": false
+      },
+      {
+        "text": "teste licvoro-dinamice pozitive",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 200,
+    "question": "În caz de hematomielie se pot determina:",
+    "answers": [
+      {
+        "text": "dereglări de sensibilitate de tip disociat",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări de sensibilitate de tip segmentar",
+        "isCorrect": false
+      },
+      {
+        "text": "areflexie",
+        "isCorrect": false
+      },
+      {
+        "text": "pareze şi paralizii",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 201,
+    "question": "Dereglările de respiraţie sunt mai pronunţate în caz de afectare la nivelul:",
+    "answers": [
+      {
+        "text": "C4",
+        "isCorrect": true
+      },
+      {
+        "text": "C5",
+        "isCorrect": false
+      },
+      {
+        "text": "C8",
+        "isCorrect": false
+      },
+      {
+        "text": "D1",
+        "isCorrect": false
+      },
+      {
+        "text": "D3",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 202,
+    "question": "Dereglările cardiovasculare sunt mai pronunţate în caz de afectare la nivelul:",
+    "answers": [
+      {
+        "text": "C5",
+        "isCorrect": false
+      },
+      {
+        "text": "D1",
+        "isCorrect": false
+      },
+      {
+        "text": "D4",
+        "isCorrect": true
+      },
+      {
+        "text": "D5",
+        "isCorrect": false
+      },
+      {
+        "text": "D12",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 203,
+    "question": "În caz de afectare unilaterală a măduvei spinării la nivelul D11 se denotă:",
+    "answers": [
+      {
+        "text": "dereglarea sensibilităţii algice şi termice în piciorul omolateral",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglarea sensibilităţii musculo-articulare pe partea afectată",
+        "isCorrect": true
+      },
+      {
+        "text": "reguine de hipestezie în formă de panglică de partea afectată",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglarea sensibilităţii algice şi termice în piciorul contralateral",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 204,
+    "question": "În caz de afectare a măduvei spinării la nivelul cervical superior de denotă:",
+    "answers": [
+      {
+        "text": "tetraplegie spastică",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări de respiraţie",
+        "isCorrect": false
+      },
+      {
+        "text": "anetezie facială tip disociat",
+        "isCorrect": false
+      },
+      {
+        "text": "tetrahipestezie",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 205,
+    "question": "În caz de afectare a măduvei spinării la nivelul toracic NU se de denotă:",
+    "answers": [
+      {
+        "text": "paraplegie inferioară spastică",
+        "isCorrect": false
+      },
+      {
+        "text": "paraplegie inferioară flască",
+        "isCorrect": true
+      },
+      {
+        "text": "diminuarea reflexelor abdominale",
+        "isCorrect": false
+      },
+      {
+        "text": "apariţia reflexelor de apărare",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări sfincteriene",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 206,
+    "question": "Hematomielia traumatică apare cel mai frecvent la nivelul:",
+    "answers": [
+      {
+        "text": "cervcal",
+        "isCorrect": false
+      },
+      {
+        "text": "intumiscenţelor cervicală şi lombară",
+        "isCorrect": true
+      },
+      {
+        "text": "toracic",
+        "isCorrect": false
+      },
+      {
+        "text": "lombar",
+        "isCorrect": false
+      },
+      {
+        "text": "sacral",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 207,
+    "question": "Hemoragia subarahnoidiană la nivel spinal va fi sabilită în baza:",
+    "answers": [
+      {
+        "text": "parezei",
+        "isCorrect": false
+      },
+      {
+        "text": "hipotoniei musculare",
+        "isCorrect": false
+      },
+      {
+        "text": "singelui în LCR",
+        "isCorrect": true
+      },
+      {
+        "text": "semnelor de dereglare a permeabilităţii spaţiuluiu subarahnoidian",
+        "isCorrect": false
+      },
+      {
+        "text": "proteinelor în LCR",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 208,
+    "question": "TVM prin flexie NU subînţelege:",
+    "answers": [
+      {
+        "text": "fracturi compresive de corp vertebral",
+        "isCorrect": false
+      },
+      {
+        "text": "lezarea LLP",
+        "isCorrect": false
+      },
+      {
+        "text": "lezarea LLA",
+        "isCorrect": true
+      },
+      {
+        "text": "dislocarea vertebrelor",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi multiple de corpuri vertebrale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 209,
+    "question": "TVM prin extensie NU subînţelege:",
+    "answers": [
+      {
+        "text": "fracturi compresive de corp vertebral",
+        "isCorrect": false
+      },
+      {
+        "text": "lezarea LLP",
+        "isCorrect": false
+      },
+      {
+        "text": "lezarea LLA",
+        "isCorrect": true
+      },
+      {
+        "text": "dislocarea vertebrelor",
+        "isCorrect": false
+      },
+      {
+        "text": "fracturi multiple de corpuri vertebrale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 210,
+    "question": "Imobilizarea unui pacient cu TVM cervical NU subînţelege:",
+    "answers": [
+      {
+        "text": "utilizarea atelelor",
+        "isCorrect": false
+      },
+      {
+        "text": "poziţie ventrală",
+        "isCorrect": true
+      },
+      {
+        "text": "poziţie dorsală",
+        "isCorrect": false
+      },
+      {
+        "text": "utilzarea pungilor cu nisip C utilizarea cervicostatului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 211,
+    "question": "Care radiculi formează plexul brahial:",
+    "answers": [
+      {
+        "text": "C3-C5",
+        "isCorrect": false
+      },
+      {
+        "text": "C5-Th1",
+        "isCorrect": true
+      },
+      {
+        "text": "C7-Th1",
+        "isCorrect": false
+      },
+      {
+        "text": "C8-Th2",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 212,
+    "question": "Care nervi pornesc de la fasciculul secundar lateral:",
+    "answers": [
+      {
+        "text": "radial",
+        "isCorrect": false
+      },
+      {
+        "text": "median",
+        "isCorrect": true
+      },
+      {
+        "text": "ulnar",
+        "isCorrect": false
+      },
+      {
+        "text": "musculo-cutaneu",
+        "isCorrect": true
+      },
+      {
+        "text": "toţi cei enumăraţi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 213,
+    "question": "Care nervi pornesc de la fasciculul secundar medial:",
+    "answers": [
+      {
+        "text": "ulnar",
+        "isCorrect": true
+      },
+      {
+        "text": "radial",
+        "isCorrect": false
+      },
+      {
+        "text": "median",
+        "isCorrect": true
+      },
+      {
+        "text": "axilar",
+        "isCorrect": false
+      },
+      {
+        "text": "femoral",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 214,
+    "question": "Care nervi pornesc de la fasciculul secundar posterior:",
+    "answers": [
+      {
+        "text": "radial",
+        "isCorrect": true
+      },
+      {
+        "text": "axilar",
+        "isCorrect": true
+      },
+      {
+        "text": "median",
+        "isCorrect": false
+      },
+      {
+        "text": "subscapular",
+        "isCorrect": false
+      },
+      {
+        "text": "intercostal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 215,
+    "question": "Ce structuri nervoase suferă în caz de plexopatie brahială Duchene-Erb:",
+    "answers": [
+      {
+        "text": "radiculele C5-C6",
+        "isCorrect": true
+      },
+      {
+        "text": "radiculele C8-Th2",
+        "isCorrect": false
+      },
+      {
+        "text": "fasciculele primare",
+        "isCorrect": false
+      },
+      {
+        "text": "fasciculele secundare",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 216,
+    "question": "Plexopatia de tip Dejerine-Klumpke se dezvoltă la lezarea:",
+    "answers": [
+      {
+        "text": "radiculelor C6-C8",
+        "isCorrect": false
+      },
+      {
+        "text": "radiculelor C8-Th1",
+        "isCorrect": true
+      },
+      {
+        "text": "fasciculelor primare",
+        "isCorrect": false
+      },
+      {
+        "text": "fasciculelor secundare",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 217,
+    "question": "Sursele de irigare arterială a plexului brahial:",
+    "answers": [
+      {
+        "text": "a. subclaviculară",
+        "isCorrect": false
+      },
+      {
+        "text": "a. vertebrală",
+        "isCorrect": false
+      },
+      {
+        "text": "a. cervicală transversă",
+        "isCorrect": true
+      },
+      {
+        "text": "trunchiul tireo-cervical",
+        "isCorrect": false
+      },
+      {
+        "text": "a. femorală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 218,
+    "question": "Simptomele majore de afectare prin mecanism de tracţie a plexului brahial:",
+    "answers": [
+      {
+        "text": "sindromul algic",
+        "isCorrect": false
+      },
+      {
+        "text": "atrofia musculară considerabilă",
+        "isCorrect": false
+      },
+      {
+        "text": "sindromul Claude-Bernar-Horner",
+        "isCorrect": false
+      },
+      {
+        "text": "tulburările trofice ale membrului superior",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 219,
+    "question": "Metodele optime de investigare a pacienţilor cu lezarea traumatică a plexului brahial sunt:",
+    "answers": [
+      {
+        "text": "studiul electrofiziologic",
+        "isCorrect": true
+      },
+      {
+        "text": "electromiografia",
+        "isCorrect": true
+      },
+      {
+        "text": "angiografia",
+        "isCorrect": false
+      },
+      {
+        "text": "mielografia",
+        "isCorrect": false
+      },
+      {
+        "text": "examen cu izotopi",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 220,
+    "question": "Lezarea căror structuri osoase poate cauza plexopatie brahială:",
+    "answers": [
+      {
+        "text": "omoplat",
+        "isCorrect": false
+      },
+      {
+        "text": "stern",
+        "isCorrect": false
+      },
+      {
+        "text": "colona cervicală",
+        "isCorrect": false
+      },
+      {
+        "text": "clavicula",
+        "isCorrect": true
+      },
+      {
+        "text": "vertebre C1, C2",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 221,
+    "question": "În chirurgia plexului brahial sunt posibile următoarele complicaţii postoperatorii:",
+    "answers": [
+      {
+        "text": "lezarea maduvei spinării",
+        "isCorrect": false
+      },
+      {
+        "text": "hemoragie arterială",
+        "isCorrect": true
+      },
+      {
+        "text": "limforee",
+        "isCorrect": true
+      },
+      {
+        "text": "pneumotorace",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 222,
+    "question": "Care din funcţiile trunchiurilor nervoase lezate se restabileşte în primul rînd:",
+    "answers": [
+      {
+        "text": "motorie",
+        "isCorrect": true
+      },
+      {
+        "text": "secretorie",
+        "isCorrect": false
+      },
+      {
+        "text": "sensitiv-sensorială",
+        "isCorrect": false
+      },
+      {
+        "text": "trofică",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 223,
+    "question": "Paralizia Dejerine-Klumpke se manifestă prin:",
+    "answers": [
+      {
+        "text": "sindromul Claude-Bernard-Horner",
+        "isCorrect": false
+      },
+      {
+        "text": "sindromul dolor",
+        "isCorrect": false
+      },
+      {
+        "text": "deficit motor proximal",
+        "isCorrect": false
+      },
+      {
+        "text": "deficit motor distal",
+        "isCorrect": true
+      },
+      {
+        "text": "plegie totală brahială",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 224,
+    "question": "Leziuni deschise a nervilor periferici sunt: A lezare tracţională a plexului brahial",
+    "answers": [
+      {
+        "text": "lezarea nervului radial prin fractură de os radial",
+        "isCorrect": false
+      },
+      {
+        "text": "lezarea nervului median cu fragment de sticlă",
+        "isCorrect": true
+      },
+      {
+        "text": "lezarea nervulului intercostal în timpul toracotomiei",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 225,
+    "question": "Poziţa mîinii tip “labă de maimuţă” este specifică pentru afectarea:",
+    "answers": [
+      {
+        "text": "plexului brahial primar inferior",
+        "isCorrect": false
+      },
+      {
+        "text": "nervului ulnar",
+        "isCorrect": false
+      },
+      {
+        "text": "nervului median",
+        "isCorrect": false
+      },
+      {
+        "text": "nervului radial",
+        "isCorrect": false
+      },
+      {
+        "text": "corect A şi C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 226,
+    "question": "Paralizia Duchene-Erb se manifestă prin:",
+    "answers": [
+      {
+        "text": "sindromul Claude Bernard-Horner",
+        "isCorrect": false
+      },
+      {
+        "text": "sindromul dolor",
+        "isCorrect": false
+      },
+      {
+        "text": "deficit motor proximal",
+        "isCorrect": true
+      },
+      {
+        "text": "deficit motor distal",
+        "isCorrect": false
+      },
+      {
+        "text": "plegie totală brahială",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 227,
+    "question": "Leziuni închise a nervilor periferici sunt:",
+    "answers": [
+      {
+        "text": "lezarea tracţională a plexului brahial în accident rutier",
+        "isCorrect": true
+      },
+      {
+        "text": "lezarea nervului radial prin fractură de os radial",
+        "isCorrect": true
+      },
+      {
+        "text": "lezarea nervului median cu fragment de sticlă",
+        "isCorrect": false
+      },
+      {
+        "text": "lezarea nervulului intercostal în timpul toracotomiei",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 228,
+    "question": "Endoneuroliza subînţelege:",
+    "answers": [
+      {
+        "text": "delimitarea trunchiului nervos de cicatricii adiacente",
+        "isCorrect": false
+      },
+      {
+        "text": "delimitarea fibrelor nervoase de cicatricii",
+        "isCorrect": false
+      },
+      {
+        "text": "delimitarea fibrilelor de cicatricii",
+        "isCorrect": false
+      },
+      {
+        "text": "înlăturarea epinervului cicatricial modificat",
+        "isCorrect": false
+      },
+      {
+        "text": "corect C şi D",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 229,
+    "question": "Abordul infraclavicular permite accesarea:",
+    "answers": [
+      {
+        "text": "tuturor fascicolelor secundare a plexului brahial",
+        "isCorrect": true
+      },
+      {
+        "text": "trunchiului primar inferior",
+        "isCorrect": false
+      },
+      {
+        "text": "trunchiului primar mediu",
+        "isCorrect": false
+      },
+      {
+        "text": "trunchiului primar superior",
+        "isCorrect": false
+      },
+      {
+        "text": "muţchilor scaleni",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 230,
+    "question": "Abordul transaxilar permite acccesarea:",
+    "answers": [
+      {
+        "text": "fascicolelor secundare ale plexului brahial",
+        "isCorrect": true
+      },
+      {
+        "text": "trunchiului primar inferior şi radicolilor C8, D1",
+        "isCorrect": false
+      },
+      {
+        "text": "trunchiului primar mediu",
+        "isCorrect": false
+      },
+      {
+        "text": "trunchiului primar superior",
+        "isCorrect": false
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 231,
+    "question": "Nervul ulnar este format din radicolele:",
+    "answers": [
+      {
+        "text": "C5",
+        "isCorrect": false
+      },
+      {
+        "text": "C5-C6",
+        "isCorrect": false
+      },
+      {
+        "text": "C7-C8",
+        "isCorrect": false
+      },
+      {
+        "text": "C8-D1",
+        "isCorrect": true
+      },
+      {
+        "text": "D1",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 232,
+    "question": "După secţionarea nervului procesele de degenerare debutează peste:",
+    "answers": [
+      {
+        "text": "cîteva ore",
+        "isCorrect": true
+      },
+      {
+        "text": "cîteva zile",
+        "isCorrect": false
+      },
+      {
+        "text": "10 zile",
+        "isCorrect": false
+      },
+      {
+        "text": "1 lună",
+        "isCorrect": false
+      },
+      {
+        "text": "1 an",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 233,
+    "question": "În caz de lezare a unui nerv periferic se denotă:",
+    "answers": [
+      {
+        "text": "pareză cu hipertonus muscular",
+        "isCorrect": false
+      },
+      {
+        "text": "pareză cu hipotonus muscular",
+        "isCorrect": true
+      },
+      {
+        "text": "pareză cu reflexe exagerate",
+        "isCorrect": false
+      },
+      {
+        "text": "pareză cu reflexe diminuate",
+        "isCorrect": true
+      },
+      {
+        "text": "nici un răspuns corect",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 234,
+    "question": "Abordul supraclavicular permite accesarea:",
+    "answers": [
+      {
+        "text": "fascicolelor secundare a plexului brahial",
+        "isCorrect": true
+      },
+      {
+        "text": "trunchiului primar inferior",
+        "isCorrect": false
+      },
+      {
+        "text": "trunchiului primar superior",
+        "isCorrect": false
+      },
+      {
+        "text": "trunchiului primar mediu",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 235,
+    "question": "În neurochirurgie se efectuiază următoarele tipuri de operaţii:",
+    "answers": [
+      {
+        "text": "endo- şi exoneuroliza",
+        "isCorrect": false
+      },
+      {
+        "text": "plastia nervului cu autogrefon",
+        "isCorrect": false
+      },
+      {
+        "text": "sutură epineurală",
+        "isCorrect": false
+      },
+      {
+        "text": "sutură endoneurală",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 236,
+    "question": "Endoneuroliza subînţelege:",
+    "answers": [
+      {
+        "text": "separarea nervului de cicatricii",
+        "isCorrect": false
+      },
+      {
+        "text": "separarea fascicolelor nervoase de cicatricii",
+        "isCorrect": false
+      },
+      {
+        "text": "separarea fibrelor nervoase de cicatricii",
+        "isCorrect": true
+      },
+      {
+        "text": "extirparea epinervului cicatricial modificat",
+        "isCorrect": true
+      },
+      {
+        "text": "extirparea sectorului de nerv implicat în procesul cicatricial",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 237,
+    "question": "Neuroliza subînţelege:",
+    "answers": [
+      {
+        "text": "separarea nervului de cicatricii",
+        "isCorrect": true
+      },
+      {
+        "text": "separarea fascicolelor nervoase de cicatricii",
+        "isCorrect": true
+      },
+      {
+        "text": "separarea fibrelor nervoase de cicatricii",
+        "isCorrect": false
+      },
+      {
+        "text": "extirparea epinevrului cicatricial modificat",
+        "isCorrect": false
+      },
+      {
+        "text": "extirparea sectorului de nerv implicat în procesul cicatricial",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 238,
+    "question": "Pentru sutura interfasciculară se utilizează fire:",
+    "answers": [
+      {
+        "text": "3/0, nylon",
+        "isCorrect": false
+      },
+      {
+        "text": "4/0, nylon",
+        "isCorrect": false
+      },
+      {
+        "text": "6/0, nylon",
+        "isCorrect": false
+      },
+      {
+        "text": "8/0, nylon",
+        "isCorrect": true
+      },
+      {
+        "text": "10/0, nylon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 239,
+    "question": "Pentru sutura epineurală se utilizează fire:",
+    "answers": [
+      {
+        "text": "3/0, nylon",
+        "isCorrect": false
+      },
+      {
+        "text": "4/0, nylon",
+        "isCorrect": false
+      },
+      {
+        "text": "6/0, nylon",
+        "isCorrect": true
+      },
+      {
+        "text": "8/0, nylon",
+        "isCorrect": false
+      },
+      {
+        "text": "10/0, nylon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 240,
+    "question": "Timpul optimal pentru operaţie pe motiv de leziune preganglionară este:",
+    "answers": [
+      {
+        "text": "primele zile",
+        "isCorrect": false
+      },
+      {
+        "text": "pînă la 3 luni",
+        "isCorrect": true
+      },
+      {
+        "text": "pînă la 1 an",
+        "isCorrect": false
+      },
+      {
+        "text": "pînă la 2 ani",
+        "isCorrect": false
+      },
+      {
+        "text": "pînă la 3 ani",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 241,
+    "question": "Tehnica microchirurgicală de secţionare a unui nerv subînţelege:",
+    "answers": [
+      {
+        "text": "secţionarea cu foarfeca microchirurgicală",
+        "isCorrect": false
+      },
+      {
+        "text": "secţionarea cu bisturiul",
+        "isCorrect": false
+      },
+      {
+        "text": "secţioanarea unimomentană perpendiculară a nervului cu lama",
+        "isCorrect": true
+      },
+      {
+        "text": "secţionare separată a fiecărui fascicol nervos după o preparare prealabilă",
+        "isCorrect": false
+      },
+      {
+        "text": "secţionare după coagulare prealabilă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 242,
+    "question": "Timpul optimal pentru operaţie pe motiv de leziune postganglionară este:",
+    "answers": [
+      {
+        "text": "primele zile",
+        "isCorrect": false
+      },
+      {
+        "text": "pînă la 3 luni",
+        "isCorrect": false
+      },
+      {
+        "text": "de la 3 la 6 luni",
+        "isCorrect": true
+      },
+      {
+        "text": "pînă la 1 an",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 243,
+    "question": "Sindromul lumbosciatic în hernia de disc e cauzat de:",
+    "answers": [
+      {
+        "text": "deplasarea ţesutului discal în afara cavităţii discale intraspongios",
+        "isCorrect": false
+      },
+      {
+        "text": "sublucsaţia în articulaţiile vertebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "deplasarea ţesutului discal lateral în afara cavităţii discale",
+        "isCorrect": false
+      },
+      {
+        "text": "deplasarea ţesutului discal în afara cavităţii discale, spre posterior",
+        "isCorrect": true
+      },
+      {
+        "text": "spondilolisteză",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 244,
+    "question": "Discul intervertebral e format din:",
+    "answers": [
+      {
+        "text": "două platouri cartilaginoase, unul superior şi altul inferior, plasate pe feţele vertebrelor învecinate cu un nucleu pulpos între ele",
+        "isCorrect": false
+      },
+      {
+        "text": "nucleul pulpos şi inelul fibros",
+        "isCorrect": false
+      },
+      {
+        "text": "două platouri cartilaginoase, unul superior altul inferior, nucleul pulpos, inelul fibros",
+        "isCorrect": true
+      },
+      {
+        "text": "nucleul pulpos, inelul fibros, porţiunile adiacente ale ligamentului longitudinal anterior",
+        "isCorrect": false
+      },
+      {
+        "text": "nucleul pulpos, inelul fibros, porţiuni ale ligamentului longitudinal anterior şi posterior",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 245,
+    "question": "Care este ultimul stadiu în formarea unei hernii de disc:",
+    "answers": [
+      {
+        "text": "nucleul pulpos nu a penetrat complet anulus fibrosis",
+        "isCorrect": false
+      },
+      {
+        "text": "nucleul pulpos e fragmentat, sechestrat şi se deplasează caudal sau cefalic sub sau în afara ligamentului longitudinal posterior (LLP)",
+        "isCorrect": true
+      },
+      {
+        "text": "nucleul pulpos a penetrat complet anulus fibrosis şi LLP fără a migra pe axa longitudinală",
+        "isCorrect": false
+      },
+      {
+        "text": "nucleul pulpos penetrează anulus fibrosis şi se deplasează (migrează) caudal sau cefalic sub ligament sau penetrează LLP",
+        "isCorrect": false
+      },
+      {
+        "text": "nucleul pulpos nu penetrează inelul fibros dar proemină evident sub LLP şi comprimă formaţiunile nervoase, imlicînd un sindrom neurologic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 246,
+    "question": "Cel mai frecvent hernia de disc apare în regiunea:",
+    "answers": [
+      {
+        "text": "toracică",
+        "isCorrect": false
+      },
+      {
+        "text": "lombară superioră",
+        "isCorrect": false
+      },
+      {
+        "text": "lombară inferioră",
+        "isCorrect": true
+      },
+      {
+        "text": "cervicală medie",
+        "isCorrect": false
+      },
+      {
+        "text": "coccigiană",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 247,
+    "question": "Hernia de disc lombară posterioară poate comprima:",
+    "answers": [
+      {
+        "text": "o rădăcină rahidiană",
+        "isCorrect": false
+      },
+      {
+        "text": "două rădăcini rahidiene",
+        "isCorrect": false
+      },
+      {
+        "text": "o jumătate din rădăcinile cozii de cal",
+        "isCorrect": true
+      },
+      {
+        "text": "rădăcinile cozii de cal în întregime",
+        "isCorrect": false
+      },
+      {
+        "text": "toate variantele sus numite",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 248,
+    "question": "Radiculopatia nu include:",
+    "answers": [
+      {
+        "text": "durerea cu iradiere în picior",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglările sfincteriene",
+        "isCorrect": true
+      },
+      {
+        "text": "slăbiciunea în picior",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglările de sensibilitate întrun dermatom anumit",
+        "isCorrect": false
+      },
+      {
+        "text": "modificarea reflexelor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 249,
+    "question": "Indicaţi semnul de elongaţie care se execută în poziţia de decubit ventral a pacientului:",
+    "answers": [
+      {
+        "text": "Lassegue",
+        "isCorrect": false
+      },
+      {
+        "text": "Bechterev",
+        "isCorrect": false
+      },
+      {
+        "text": "Neri",
+        "isCorrect": false
+      },
+      {
+        "text": "Wasserman",
+        "isCorrect": true
+      },
+      {
+        "text": "Sharle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 250,
+    "question": "Semnul Lassegue pozitiv este reprezentat de:",
+    "answers": [
+      {
+        "text": "durere în picior sau parestezii în zona de distribuţie a durerii",
+        "isCorrect": false
+      },
+      {
+        "text": "dureri lombare isolate, dar violente",
+        "isCorrect": false
+      },
+      {
+        "text": "dureri lombare cu iradiere de-a lungul coloanei vertebrale",
+        "isCorrect": true
+      },
+      {
+        "text": "dureri în partea dorsală a gambei",
+        "isCorrect": false
+      },
+      {
+        "text": "dureri lombare cu iradiere în regiunea inghinală ipsilaterală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 251,
+    "question": "Semnul de elongaţie Neri se manifestă prin:",
+    "answers": [
+      {
+        "text": "durere în partea dorsală a gambei la o extensie a labei piciorului",
+        "isCorrect": false
+      },
+      {
+        "text": "limitarea extensiei, bolnavul fiind în decubit dorsal",
+        "isCorrect": false
+      },
+      {
+        "text": "durere în regiunea lombară şi în membrul inferior la anteflexia capului",
+        "isCorrect": true
+      },
+      {
+        "text": "durere în regiunea lombară şi în membrul inferior în timpul tusei",
+        "isCorrect": false
+      },
+      {
+        "text": "durere în partea dorsală a gambei la o extensie a halucelui",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 252,
+    "question": "Dorsiflexia căputei e dificilă de obicei în cazul herniei de disc:",
+    "answers": [
+      {
+        "text": "L3-L4",
+        "isCorrect": false
+      },
+      {
+        "text": "L4-L5",
+        "isCorrect": true
+      },
+      {
+        "text": "L5-S1",
+        "isCorrect": false
+      },
+      {
+        "text": "L2-L3",
+        "isCorrect": false
+      },
+      {
+        "text": "toate nivelurile",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 253,
+    "question": "Hernia de disc intraforaminală determină:",
+    "answers": [
+      {
+        "text": "sindrom uniradicular cu sindrom vertebral mai redus",
+        "isCorrect": true
+      },
+      {
+        "text": "lumbosciatică clasică la cîteva nivele",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom biradicular unilateral",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom de coadă de cal",
+        "isCorrect": false
+      },
+      {
+        "text": "sciatică unilaterală, hemisindrom de coadă de cal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 254,
+    "question": "Hernia discului L2 produce:",
+    "answers": [
+      {
+        "text": "tulburări de sensibilitate, interesînd dermatomul respectiv, se observă paralizia muşchilor lojei posterioare a gambei",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom de con medular, fiind capabil de a determina şi un sindrom de măduvă terminală",
+        "isCorrect": false
+      },
+      {
+        "text": "lumbocruralgia: dureri pe faţa anterioară a coapsei pînă în dreptul rotulei, sau sindrom de coadă de cal",
+        "isCorrect": true
+      },
+      {
+        "text": "formele descrise mai sus în care lumbosciatica clasică e preponderentă dar şi compresiunea cozii de cal cu paraplegie distală",
+        "isCorrect": false
+      },
+      {
+        "text": "dureri în gamba piciorului, uneori prin claudicaţie intermitentă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 255,
+    "question": "Sindromul de compresiune a rădăcinii S1 (disc L5-S1) se manifestă:",
+    "answers": [
+      {
+        "text": "tulburări de sensibilitate, interesînd dermatomul respectiv; hipoestezia poate cuprinde faţa externă a plantei, alteori interesează partea dorsală a membrului întreg pînă la plica",
+        "isCorrect": true
+      },
+      {
+        "text": "inghinală; se observă paralizia muşchilor lojei posterioare a gambei, flexia degetelor este limitată, reflexele ahilian, medioplantar - abolite",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări de sensibilitate, interesînd dermatomul respectiv; hipoestezia poate cuprinde faţa medie şi internă a plantei, precum şi partea laterală a piciorului; din cauza paraliziei muşchilor antero-externi ai gambei se constată limitarea sau absenţa flexiunii dorsale a gambei (nu poate ţine planta ridicată); reflexele rotulian şi ahilian nu întotdeauna sunt diminuate",
+        "isCorrect": false
+      },
+      {
+        "text": "tulburări de sensibilitate pe partea anterioară a coapsei; reflexul rotulian abolit",
+        "isCorrect": false
+      },
+      {
+        "text": "dureri în gamba şi laba piciorului, uneori cu claudicaţie intermitentă",
+        "isCorrect": false
+      },
+      {
+        "text": "tulburări de sensibilitate în dermatomul respectiv, provocînd dureri şi reacţii reflexe",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 256,
+    "question": "Hernia de disc operată se vindecă în proporţie de circa:",
+    "answers": [
+      {
+        "text": "90%",
+        "isCorrect": true
+      },
+      {
+        "text": "100%",
+        "isCorrect": false
+      },
+      {
+        "text": "30%",
+        "isCorrect": false
+      },
+      {
+        "text": "50%",
+        "isCorrect": false
+      },
+      {
+        "text": "20%",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 257,
+    "question": "Are avantaje cosmetice, perioadă de spitalizare mai scurtă, pierderi sanguine mai mici discectomia prin:",
+    "answers": [
+      {
+        "text": "hemilaminectomie transversă",
+        "isCorrect": false
+      },
+      {
+        "text": "microdiscectomia",
+        "isCorrect": true
+      },
+      {
+        "text": "hemilaminectomie cu fasetectomie",
+        "isCorrect": false
+      },
+      {
+        "text": "fenestrare",
+        "isCorrect": false
+      },
+      {
+        "text": "interapofizar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 258,
+    "question": "Hemilaminectomia transversă presupune:",
+    "answers": [
+      {
+        "text": "rezecţia parţială a jumătăţii superioare şi inferioare a hemilaminelor adiacente spaţiului intervertebral",
+        "isCorrect": false
+      },
+      {
+        "text": "rezecţia totală a hemilamei",
+        "isCorrect": true
+      },
+      {
+        "text": "rezecţia jumătăţii inferioare a hemilamei de la baza apofizei spinoase pînă la nivelul apofizei articulare adiacente",
+        "isCorrect": false
+      },
+      {
+        "text": "incizia apofizei articulare",
+        "isCorrect": false
+      },
+      {
+        "text": "rezecţia ligamentului interapofizar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 259,
+    "question": "Indicaţi factorii predispozanţi ai herniei de disc:",
+    "answers": [
+      {
+        "text": "traumatismul coloanei vertebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "sarcina şi naşterea",
+        "isCorrect": false
+      },
+      {
+        "text": "anomalii congenitale a coloanei vertebrale (sacralizări, lombalizări, spina-bifida, spate drept)",
+        "isCorrect": true
+      },
+      {
+        "text": "anumite poziţii ocupaţionale ale individului (la frizeri, dactilografe, şoferi, etc.)",
+        "isCorrect": true
+      },
+      {
+        "text": "constituţia individului şi obezitatea",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 260,
+    "question": "Care din investigaţiile paraclinice în cazlui HDL au importanţa decisivă pentru diagnostic:",
+    "answers": [
+      {
+        "text": "mielografia",
+        "isCorrect": false
+      },
+      {
+        "text": "rezonanţa nucleo-magnetică",
+        "isCorrect": true
+      },
+      {
+        "text": "potenţiale evocate",
+        "isCorrect": true
+      },
+      {
+        "text": "computer mielografia",
+        "isCorrect": false
+      },
+      {
+        "text": "epidurografia",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 261,
+    "question": "Indicaţiile absolute pentru intervenţia chirurgicală în caz de HDL:",
+    "answers": [
+      {
+        "text": "examenul clinic evidenţiază un sindrom neurologic (sciatică paretică sau paralitică, sau una din formele sindromului de coadă de cal)",
+        "isCorrect": true
+      },
+      {
+        "text": "lumbalgia cu contractură ce nu cedă terapiei",
+        "isCorrect": false
+      },
+      {
+        "text": "sindrom algic prin intensitatea sa şi permanenţa sa imobilizează pacientul în poziţii antalgice ce nu permit mobilizarea nici ameliorarea sub tratamentul cu analgetice",
+        "isCorrect": true
+      },
+      {
+        "text": "lumbosciatica recidivantă",
+        "isCorrect": false
+      },
+      {
+        "text": "pusee dureroase, ultimul de lungă durată, fără efect terapeutic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 262,
+    "question": "Nu se operează herniile de disc cu:",
+    "answers": [
+      {
+        "text": "sindrom vascular spinal ischemic acut (Deproş-Gotteron)",
+        "isCorrect": false
+      },
+      {
+        "text": "leziuni anatomice vechi, ireversibile, cu deficit motor şi atrofie musculară",
+        "isCorrect": true
+      },
+      {
+        "text": "tulburări sfincteriene de mare durată",
+        "isCorrect": true
+      },
+      {
+        "text": "comprimarea cozii de cal",
+        "isCorrect": false
+      },
+      {
+        "text": "insuccesul tratamentului conservator soldat cu schimbări statice şi nevralgice pronunţate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 263,
+    "question": "Ce presupune tehnica microchirurgicală:",
+    "answers": [
+      {
+        "text": "ablaţia totală a discului intervertebral",
+        "isCorrect": false
+      },
+      {
+        "text": "iluminarea perfectă a cîmpului operator",
+        "isCorrect": true
+      },
+      {
+        "text": "manopera “gingaşă” cu structurile nervoase şi vasele adiacente",
+        "isCorrect": true
+      },
+      {
+        "text": "fenestrarea spaţiului intervertebral numai prin flavectomie",
+        "isCorrect": false
+      },
+      {
+        "text": "micşorarea evidentă a timpului operaţiei",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 264,
+    "question": "Complicaţiile cele mai frecvente postoperatorii în chirurgia herniei de disc:",
+    "answers": [
+      {
+        "text": "infecţii",
+        "isCorrect": true
+      },
+      {
+        "text": "durotomie",
+        "isCorrect": true
+      },
+      {
+        "text": "afectarea directă a formaţiunilor nervoase",
+        "isCorrect": false
+      },
+      {
+        "text": "lezarea structurilor anterioare corpurilor vertebrale",
+        "isCorrect": false
+      },
+      {
+        "text": "fistulă lichidiană",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 265,
+    "question": "Pentru efectuarea discectomiei microchirurgicale pacientul este poziţionat:",
+    "answers": [
+      {
+        "text": "pe o parte",
+        "isCorrect": false
+      },
+      {
+        "text": "pe burtă",
+        "isCorrect": false
+      },
+      {
+        "text": "poziţie modificată cu suport în coate şi genunchi",
+        "isCorrect": true
+      },
+      {
+        "text": "pe burtă cu pernuţe sub cristele iliace",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 266,
+    "question": "Extruzia discală se caracterizează prin:",
+    "answers": [
+      {
+        "text": "dehidratarea discului intervertebral",
+        "isCorrect": false
+      },
+      {
+        "text": "apariţia fisurilor în sectoarele externe ale inelului fibros",
+        "isCorrect": false
+      },
+      {
+        "text": "pierderea elasticităţii şi subţierea inelului fibros",
+        "isCorrect": false
+      },
+      {
+        "text": "apariţia fisurilor în sectoarele interne, ulterior - externe ale inelului fibros",
+        "isCorrect": true
+      },
+      {
+        "text": "corect B şi C",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 267,
+    "question": "Indicaţii pentru tratamentul chirurgical al herniilor discale acute sunt:",
+    "answers": [
+      {
+        "text": "sindrom algic radicular",
+        "isCorrect": false
+      },
+      {
+        "text": "progresarea dereglărilor de motilitate",
+        "isCorrect": true
+      },
+      {
+        "text": "dereglări de sensibilitate",
+        "isCorrect": false
+      },
+      {
+        "text": "dereglări sfincteriene",
+        "isCorrect": true
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 268,
+    "question": "Tabloul clinic al mielopatiei cervicale include:",
+    "answers": [
+      {
+        "text": "dificultăţi de autodeplasare",
+        "isCorrect": false
+      },
+      {
+        "text": "slăbiciuni în extremităţile toracice",
+        "isCorrect": false
+      },
+      {
+        "text": "spasticitate, slăbiciuni în extremităţile pelviene",
+        "isCorrect": false
+      },
+      {
+        "text": "atrofia muşchilor mîinilor, sindroame dolore şi sensitive",
+        "isCorrect": false
+      },
+      {
+        "text": "toate corecte",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 269,
+    "question": "Nucleoliza chimică este:",
+    "answers": [
+      {
+        "text": "metodă de tratament a tumorilor",
+        "isCorrect": false
+      },
+      {
+        "text": "metodă de tratament a herniei de disc",
+        "isCorrect": true
+      },
+      {
+        "text": "injectarea chimopainei în disc prin abord posterior",
+        "isCorrect": true
+      },
+      {
+        "text": "injectarea chimpainei în spaţiul epidural",
+        "isCorrect": false
+      },
+      {
+        "text": "metodă de tratament a abceselor parazitozelor cerebrale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 270,
+    "question": "Diskectomia transcutană este:",
+    "answers": [
+      {
+        "text": "metoda de tratament chirurgical al herniei de disc ermetice",
+        "isCorrect": true
+      },
+      {
+        "text": "extirparea discului prin ac, introdus prin abord lateroposterior",
+        "isCorrect": true
+      },
+      {
+        "text": "metoda de tratament chirurgical al herniei de disc sechestrate",
+        "isCorrect": false
+      },
+      {
+        "text": "prezenţa discului sechestrat este o contraindicaţie absolută",
+        "isCorrect": true
+      },
+      {
+        "text": "prezenţa discului sechestrat nu este o contraindicaţie absolută",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 271,
+    "question": "Pentru discectomia cu vizualizare microscopică va fi utilizată distanţa focală:",
+    "answers": [
+      {
+        "text": "200",
+        "isCorrect": false
+      },
+      {
+        "text": "250",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "isCorrect": false
+      },
+      {
+        "text": "300",
+        "isCorrect": false
+      },
+      {
+        "text": "350",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 272,
+    "question": "În cadrul discectomiei cel mai puţin traumatizant abord este:",
+    "answers": [
+      {
+        "text": "interlaminar",
+        "isCorrect": true
+      },
+      {
+        "text": "interlaminar-interapofizar",
+        "isCorrect": false
+      },
+      {
+        "text": "laminectomie",
+        "isCorrect": false
+      },
+      {
+        "text": "hemilaminectomie",
+        "isCorrect": false
+      },
+      {
+        "text": "interlaminar bilateral",
+        "isCorrect": false
+      }
+    ]
+  }
+]
