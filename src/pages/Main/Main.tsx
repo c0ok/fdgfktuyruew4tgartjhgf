@@ -1,10 +1,10 @@
 import { useRef, useState } from 'react';
-import { Button, Container, IconLeftArrow, IconRightArrow, Input } from 'components/UI';
+import { Button, Container, IconLeftArrow, IconRightArrow, Input, Text } from 'components/UI';
 import { calcChooseMode } from 'shared/utils';
 import { shuffleArray } from 'shared/utils/shuffleArray';
 import { QuestionCard } from 'components';
 
-import some from '../../../public/some.json';
+import hematology from '../../../public/hematology.json';
 import neurology from '../../../public/neurology.json';
 import neurosurgery from '../../../public/neurosurgery.json';
 
@@ -14,18 +14,23 @@ import type { Question } from 'shared/types';
 
 const getQuestion = () => {
   switch (window.location.hash.slice(2)) {
-    case 'some':
-      return some;
+    case 'hematology':
+      return hematology;
+
+    case 'neurology':
+      return neurology;
 
     case 'neurosurgery':
       return neurosurgery;
 
-    case 'neurology':
     default:
+      window.location.hash = '#/neurology';
       return neurology;
   }
 };
 const questions = getQuestion();
+
+window.addEventListener('hashchange', () => window.location.reload());
 
 export const Main = () => {
   const [renderingQuestion, setRenderingQuestion] = useState<Question | null>(null);
@@ -103,6 +108,7 @@ export const Main = () => {
 
   return (
     <Container className={style.wrapper}>
+      <Text>Current chosen Test: <i>{window.location.hash.slice(2)}</i></Text>
       <div className={style.inputs}>
         <Input placeholder='First question number' onChange={(event) => min.current = Number(event.target.value)} />
         <Input placeholder='Last question number' onChange={(event) => max.current = Number(event.target.value)} />

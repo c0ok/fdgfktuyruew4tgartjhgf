@@ -4,6 +4,7 @@ export * from './Container';
 export * from './Heading';
 export * from './Icons';
 export * from './Input';
+export * from './Link';
 export * from './Radio';
 export * from './Spacing';
 export * from './Text';

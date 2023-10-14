@@ -1,0 +1,14 @@
+.link {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.24px;
+  text-decoration: none;
+
+  transition: 0.17s ease-in-out;
+
+  color: rgb(124, 124, 230);
+
+  &:hover {
+    color: rgb(95, 95, 214);
+  }
+}
