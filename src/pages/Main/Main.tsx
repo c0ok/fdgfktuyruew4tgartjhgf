@@ -48,14 +48,16 @@ export const Main = () => {
   };
 
   const onStartTest = () => {
-    if (min.current > max.current) {
+    const total = questions.length;
+    console.log(min.current, max.current);
+    if (min.current > max.current || min.current > total && max.current > total) {
       return;
     }
     if (min.current < 1) {
       min.current = 1;
     }
-    if (max.current > questions.length) {
-      max.current = questions.length;
+    if (max.current > total || max.current === 0) {
+      max.current = total;
     }
 
     questionIndex.current = 0;
