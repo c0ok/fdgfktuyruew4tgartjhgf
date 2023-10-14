@@ -108,10 +108,16 @@ export const Main = () => {
 
   return (
     <Container className={style.wrapper}>
-      <Text>Current chosen Test: <i>{window.location.hash.slice(2)}</i></Text>
+      <Text>Current chosen Test: {window.location.hash.slice(2)} (1-{questions.length})</Text>
       <div className={style.inputs}>
-        <Input placeholder='First question number' onChange={(event) => min.current = Number(event.target.value)} />
-        <Input placeholder='Last question number' onChange={(event) => max.current = Number(event.target.value)} />
+        <Input
+          placeholder='First question number (min: 1)'
+          onChange={(event) => min.current = Number(event.target.value)}
+        />
+        <Input
+          placeholder={`Last question number (max: ${questions.length})`}
+          onChange={(event) => max.current = Number(event.target.value)}
+        />
         <Button onClick={onStartTest}>{renderingQuestion ? 'Restart Test' : 'Start Test'}</Button>
       </div>
       {renderingQuestion && (
