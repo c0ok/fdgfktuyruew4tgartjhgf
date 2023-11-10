@@ -7,6 +7,7 @@ import { QuestionCard } from 'components';
 import hematology from '../../../public/hematology.json';
 import neurology from '../../../public/neurology.json';
 import neurosurgery from '../../../public/neurosurgery.json';
+import MBDGPKnI88YzrM from '../../../public/ji2FrFvJxpcvXU.json';
 
 import style from './index.module.scss';
 
@@ -22,6 +23,9 @@ const getQuestion = () => {
 
     case 'neurosurgery':
       return neurosurgery;
+
+    case 'sRqicsRNXJtpjq':
+      return MBDGPKnI88YzrM;
 
     default:
       window.location.hash = '#/neurology';
