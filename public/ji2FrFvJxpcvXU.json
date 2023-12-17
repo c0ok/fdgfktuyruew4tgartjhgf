@@ -1,12 +1,8 @@
 [
   {
     "number": 1,
-    "question": "",
+    "question": "Pacient cu durere oculară, şi acuitate vizuală diminuată, precipitate pe endoteliul cornean, mioză, congestie pericheratică prezintă:",
     "answers": [
-      {
-        "text": "Intrebarea nr. 1: Intrebarea1Colectia: oftalmologie rom .colMod de punctare: A1 Pacient cu durere oculară, şi acuitate vizuală diminuată, precipitate pe endoteliul cornean, mioză, congestie pericheratică prezintă:",
-        "isCorrect": false
-      },
       {
         "text": "Conjunctivită acută",
         "isCorrect": false
@@ -190,7 +186,7 @@
     "question": "Acuitatea vizuală la nou-născuţi este de:",
     "answers": [
       {
-        "text": "Cateva sutimi",
+        "text": "2) Cateva sutimi",
         "isCorrect": true
       },
       {
@@ -280,7 +276,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "O modificare a refracţiei oculare [miopizare]",
         "isCorrect": true
       },
       {
@@ -294,7 +290,7 @@
     "question": "Examinarea orbitei se face prin:",
     "answers": [
       {
-        "text": "Radiografie",
+        "text": "2) Radiografie",
         "isCorrect": true
       },
       {
@@ -320,7 +316,7 @@
     "question": "Tratamentul uveitei anterioare include:",
     "answers": [
       {
-        "text": "Dexametazona în instilaţii",
+        "text": "2) Dexametazona în instilaţii",
         "isCorrect": true
       },
       {
@@ -346,7 +342,7 @@
     "question": "Conjunctivita poate fi tratată cu toate cele ce urmează cu excepţia:",
     "answers": [
       {
-        "text": "Sol. Timolol",
+        "text": "2) Sol. Timolol",
         "isCorrect": true
       },
       {
@@ -369,7 +365,7 @@
   },
   {
     "number": 15,
-    "question": "",
+    "question": "Care terapie este cel mai puţin indicată pentru tratamentul cheratitei epiteliale dendritice cauzate de virusul herpes simplex:",
     "answers": [
       {
         "text": "Ung. Acicloviri",
@@ -398,7 +394,7 @@
     "question": "Metodele de examinare enumerate necesare în caz de plagă penetrantă oculară:",
     "answers": [
       {
-        "text": "R- grafia folosind metoda Comberg-Baltin",
+        "text": "2) R- grafia folosind metoda Comberg-Baltin",
         "isCorrect": true
       },
       {
@@ -450,7 +446,7 @@
     "question": "Care din semnele enumerate sunt caracteristice keratitelor:",
     "answers": [
       {
-        "text": "Dureri oculare",
+        "text": "2) Dureri oculare",
         "isCorrect": true
       },
       {
@@ -476,7 +472,7 @@
     "question": "Ce acuze prezintă bolnavii cu cataractă incipientă:",
     "answers": [
       {
-        "text": "Tulburări ale vederii, poliopie",
+        "text": "2) Tulburări ale vederii, poliopie",
         "isCorrect": true
       },
       {
@@ -580,7 +576,7 @@
     "question": "Keratita parenchimatoasă luetică:",
     "answers": [
       {
-        "text": "Evoluează în trei stadii",
+        "text": "2) Evoluează în trei stadii",
         "isCorrect": true
       },
       {
@@ -606,7 +602,7 @@
     "question": "Îngustarea sectorială a câmpului visual se poate întălni în:",
     "answers": [
       {
-        "text": "Glaucom primar",
+        "text": "2) Glaucom primar",
         "isCorrect": true
       },
       {
@@ -684,7 +680,7 @@
     "question": "Semnele subiective ale atacului acut de glaucom sunt:",
     "answers": [
       {
-        "text": "Durere oculară accentuată cu hemicranie",
+        "text": "2) Durere oculară accentuată cu hemicranie",
         "isCorrect": true
       },
       {
@@ -710,7 +706,7 @@
     "question": "Ambliopia se poate dezvolta în următoarele situaţii:",
     "answers": [
       {
-        "text": "Cataractă congenitală",
+        "text": "2) Cataractă congenitală",
         "isCorrect": true
       },
       {
@@ -762,7 +758,7 @@
     "question": "Corpi străini corneeni se pot manifesta prin:",
     "answers": [
       {
-        "text": "Dureri oculare, senzaţie de corp străin",
+        "text": "2) Dureri oculare, senzaţie de corp străin",
         "isCorrect": true
       },
       {
@@ -788,7 +784,7 @@
     "question": "Diagnosticul glaucomului primar cu unghi deschis se poate stabili în cazul prezenţei:",
     "answers": [
       {
-        "text": "Hipertensiunii intraoculare",
+        "text": "2) Hipertensiunii intraoculare",
         "isCorrect": true
       },
       {
@@ -814,7 +810,7 @@
     "question": "Complicaţiile plăgilor perforante ale globului ocular:",
     "answers": [
       {
-        "text": "Cataracta posttraumatică",
+        "text": "2) Cataracta posttraumatică",
         "isCorrect": true
       },
       {
@@ -840,7 +836,7 @@
     "question": "Combustia de gradul I al globului ocular se caracterizează prin:",
     "answers": [
       {
-        "text": "Hiperemia conjunctivei",
+        "text": "2) Hiperemia conjunctivei",
         "isCorrect": true
       },
       {
@@ -848,7 +844,7 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Paliditatea pronunţată a conjunctivei [deseori infiltrată cu mici puncte hemoragice]",
         "isCorrect": false
       },
       {
@@ -866,7 +862,7 @@
     "question": "Atrofia papilei nervului optic manifestă prin:",
     "answers": [
       {
-        "text": "Paliditatea papilei nervului optic",
+        "text": "2) Paliditatea papilei nervului optic",
         "isCorrect": true
       },
       {
@@ -952,8 +948,8 @@
         "isCorrect": false
       },
       {
-        "text": "",
-        "isCorrect": true
+        "text": "Meibomiita cronică [cu acumulare şi incapsulare de secret]",
+        "isCorrect": false
       },
       {
         "text": "Meibomiita acută",
@@ -1201,7 +1197,7 @@
   },
   {
     "number": 47,
-    "question": "",
+    "question": "La examinarea bolnavului lipseşte reflexul fundului ochiului, cristalinul este sur, acuitatea vizuală – 1/pr.l.c. Diagnosticul este:",
     "answers": [
       {
         "text": "Cataractă incipientă",
@@ -1256,7 +1252,7 @@
     "question": "La debutul stazei papilei nervului optic vederea:",
     "answers": [
       {
-        "text": "Nu se schimbă",
+        "text": "2) Nu se schimbă",
         "isCorrect": true
       },
       {
@@ -1324,14 +1320,14 @@
         "isCorrect": false
       },
       {
-        "text": "Mioză cu reflex fotomotor păstrat",
+        "text": "e)Mioză cu reflex fotomotor păstrat",
         "isCorrect": true
       }
     ]
   },
   {
     "number": 52,
-    "question": "",
+    "question": "Limita superioară a tensiunii intraoculare (statistic normală) măsurate cu tonometrul Maclacov de 10 gr este:",
     "answers": [
       {
         "text": "20 mm Hg",
@@ -1383,7 +1379,7 @@
   },
   {
     "number": 54,
-    "question": "",
+    "question": "Acordarea primului ajutor la policlinică sau la punctul medical în caz de plagă penetrantă oculară constă în:",
     "answers": [
       {
         "text": "Repoziţionarea tunicilor inclavate în plagă",
@@ -1464,7 +1460,7 @@
     "question": "Complicaţia posibilă a ptozei palpebrale congenitale totale:",
     "answers": [
       {
-        "text": "Ambliopia",
+        "text": "2) Ambliopia",
         "isCorrect": true
       },
       {
@@ -1516,7 +1512,7 @@
     "question": "Complicaţiile dacriocistitei cronice purulente pot fi:",
     "answers": [
       {
-        "text": "Ulcer cornean",
+        "text": "2) Ulcer cornean",
         "isCorrect": true
       },
       {
@@ -1568,7 +1564,7 @@
     "question": "Midriaticele sunt indicate in:",
     "answers": [
       {
-        "text": "Iridociclite",
+        "text": "2) Iridociclite",
         "isCorrect": true
       },
       {
@@ -1594,7 +1590,7 @@
     "question": "Anestezicele locale se administrează în:",
     "answers": [
       {
-        "text": "Tonometrie oculară",
+        "text": "2) Tonometrie oculară",
         "isCorrect": true
       },
       {
@@ -1620,7 +1616,7 @@
     "question": "În accesul acut de glaucom se administrează:",
     "answers": [
       {
-        "text": "Pilocarpina",
+        "text": "2) Pilocarpina",
         "isCorrect": true
       },
       {
@@ -1672,7 +1668,7 @@
     "question": "Prin canalul optic trece:",
     "answers": [
       {
-        "text": "Artera oftalmică",
+        "text": "2) Artera oftalmică",
         "isCorrect": true
       },
       {
@@ -1750,7 +1746,7 @@
     "question": "Aparatul lacrimal secretor cuprinde:",
     "answers": [
       {
-        "text": "Glanda lacrimală",
+        "text": "2) Glanda lacrimală",
         "isCorrect": true
       },
       {
@@ -1776,7 +1772,7 @@
     "question": "Canalul lacrimonazal se deschide in:",
     "answers": [
       {
-        "text": "Meatul nazal inferior",
+        "text": "2) Meatul nazal inferior",
         "isCorrect": true
       },
       {
@@ -1828,7 +1824,7 @@
     "question": "Fibrele de colagen corneene sunt orientate:",
     "answers": [
       {
-        "text": "Paralel suprafeţei corneei",
+        "text": "2) Paralel suprafeţei corneei",
         "isCorrect": true
       },
       {
@@ -1914,7 +1910,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Unghiul camerei anterioare şi sinusul scleral (canalul Schlemm)",
         "isCorrect": true
       },
       {
@@ -1958,7 +1954,7 @@
     "question": "Funcţia coroidei:",
     "answers": [
       {
-        "text": "",
+        "text": "Trofică (a retinei)",
         "isCorrect": true
       },
       {
@@ -2010,7 +2006,7 @@
     "question": "Membrana Bowman se află intre:",
     "answers": [
       {
-        "text": "Epiteliul şi stroma corneei",
+        "text": "2) Epiteliul şi stroma corneei",
         "isCorrect": true
       },
       {
@@ -2140,7 +2136,7 @@
     "question": "Vascularizarea corpului ciliar şi a irisului:",
     "answers": [
       {
-        "text": "Aa. ciliares posteriores longes",
+        "text": "2) Aa. ciliares posteriores longes",
         "isCorrect": true
       },
       {
@@ -2267,10 +2263,10 @@
   },
   {
     "number": 88,
-    "question": "",
+    "question": "In cazul cand acuitatea vizuala este egala cu 1,0 (vis=1,0) detaliile optotipului citit din tabelele pentru aprecierea acuităţii vizuale se văd sub unghiul de vedere egal cu:",
     "answers": [
       {
-        "text": "1 min.",
+        "text": "2) 1 min.",
         "isCorrect": true
       },
       {
@@ -2293,7 +2289,7 @@
   },
   {
     "number": 89,
-    "question": "",
+    "question": "Dacă bolnavul deosebeşte numai primul rând al optotipului de la un metru, acuitatea vizuală este egală cu:",
     "answers": [
       {
         "text": "0,1",
@@ -2322,7 +2318,7 @@
     "question": "Astenopia acomodativă mai frecvent apare la:",
     "answers": [
       {
-        "text": "Hipermetropi",
+        "text": "2) Hipermetropi",
         "isCorrect": true
       },
       {
@@ -2816,7 +2812,7 @@
     "question": "Puterea de refracţie a lentilei cu distanţa focară de 0,25m este de:",
     "answers": [
       {
-        "text": "4,0D",
+        "text": "2) 4,0D",
         "isCorrect": true
       },
       {
@@ -2868,7 +2864,7 @@
     "question": "Pacientul cu punctum remotum la 1,0 m are miopie de:",
     "answers": [
       {
-        "text": "1,0D",
+        "text": "2) 1,0D",
         "isCorrect": true
       },
       {
@@ -3102,7 +3098,7 @@
     "question": "In ambliopie de grad foarte inalt acuitatea vizuală este:",
     "answers": [
       {
-        "text": "0,04 şi mai joasă",
+        "text": "2) 0,04 şi mai joasă",
         "isCorrect": true
       },
       {
@@ -3206,7 +3202,7 @@
     "question": "Conjunctivita gonococică a adultului se manifestă:",
     "answers": [
       {
-        "text": "În primele 3-7 zile după contaminare",
+        "text": "2) În primele 3-7 zile după contaminare",
         "isCorrect": true
       },
       {
@@ -3284,7 +3280,7 @@
     "question": "Lentilele sferice divergente sunt:",
     "answers": [
       {
-        "text": "Concave",
+        "text": "2) Concave",
         "isCorrect": true
       },
       {
@@ -3336,7 +3332,7 @@
     "question": "Cataracta hipermatură se poate complica cu:",
     "answers": [
       {
-        "text": "Glaucom secundar facolitic",
+        "text": "2) Glaucom secundar facolitic",
         "isCorrect": true
       },
       {
@@ -3362,7 +3358,7 @@
     "question": "Cataractele congenitale totale se operează:",
     "answers": [
       {
-        "text": "",
+        "text": "Precoce (în primele luni după naştere)",
         "isCorrect": true
       },
       {
@@ -3678,7 +3674,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "În evoluţie se disting trei faze (de infiltraţie, de vascularizaţie şi de resorbţie)",
         "isCorrect": false
       },
       {
@@ -3838,7 +3834,7 @@
         "isCorrect": true
       },
       {
-        "text": "albuminelor",
+        "text": "Produc lichefierea (colicvare) albuminelor",
         "isCorrect": false
       },
       {
@@ -3886,7 +3882,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "iridociclită fibrinoplastică la globul congener (netraumat)",
         "isCorrect": true
       },
       {
@@ -3908,7 +3904,7 @@
     "question": "Oftalmia simpatică se va dezvolta nu mai devreme de:",
     "answers": [
       {
-        "text": "2 săptămâni după traumă",
+        "text": "2) 2 săptămâni după traumă",
         "isCorrect": true
       },
       {
@@ -4064,7 +4060,7 @@
     "question": "Ce nu e caracteristic glaucomului acut:",
     "answers": [
       {
-        "text": "",
+        "text": "Halouri colorate in jurul luminei (becului electric)",
         "isCorrect": false
       },
       {
@@ -4272,7 +4268,7 @@
     "question": "Diametrul antero-posterior al globului ocular la adult are in mediu:",
     "answers": [
       {
-        "text": "24 mm",
+        "text": "2) 24 mm",
         "isCorrect": true
       },
       {
@@ -4414,7 +4410,7 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Prezenţa senzaţiilor luminoase anormale în formă de scântei (fosfene)",
         "isCorrect": false
       },
       {
@@ -4558,7 +4554,7 @@
     "question": "Intr-o panoftalmie tratamentul chirurgical este:",
     "answers": [
       {
-        "text": "Evisceraţia",
+        "text": "2) Evisceraţia",
         "isCorrect": true
       },
       {
@@ -4584,7 +4580,7 @@
     "question": "Uveita anterioară defineşte inflamaţia:",
     "answers": [
       {
-        "text": "Irisului şi corpului ciliar",
+        "text": "2) Irisului şi corpului ciliar",
         "isCorrect": true
       },
       {
@@ -4618,11 +4614,11 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Oblic mare (superior)",
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Oblic mic (inferior)",
         "isCorrect": false
       },
       {
@@ -4644,11 +4640,11 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Oblic mare (superior)",
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Oblic mic (inferior)",
         "isCorrect": false
       },
       {
@@ -4688,7 +4684,7 @@
     "question": "Primul neuron al retinei este situat in stratul:",
     "answers": [
       {
-        "text": "Celulelor fotoreceptoare",
+        "text": "2) Celulelor fotoreceptoare",
         "isCorrect": true
       },
       {
@@ -4818,7 +4814,7 @@
     "question": "Hemeralopia este imposibilitatea adaptării la:",
     "answers": [
       {
-        "text": "Întuneric",
+        "text": "2) Întuneric",
         "isCorrect": true
       },
       {
@@ -4844,7 +4840,7 @@
     "question": "Studiul modificărilor fundului de ochi prezintă interes deosebit privind starea vaselor:",
     "answers": [
       {
-        "text": "Cerebrale",
+        "text": "2) Cerebrale",
         "isCorrect": true
       },
       {
@@ -4896,7 +4892,7 @@
     "question": "In miopie focarul principal este situat:",
     "answers": [
       {
-        "text": "Inaintea retinei",
+        "text": "2) Inaintea retinei",
         "isCorrect": true
       },
       {
@@ -4948,7 +4944,7 @@
     "question": "Factorii ce intervin in realizarea presiunii intraoculare sunt:",
     "answers": [
       {
-        "text": "Umoarea apoasă şi circulaţia sa",
+        "text": "2) Umoarea apoasă şi circulaţia sa",
         "isCorrect": true
       },
       {
@@ -5130,7 +5126,7 @@
     "question": "Etiologia ulcerului cornean serpiginos:",
     "answers": [
       {
-        "text": "Bacteriană",
+        "text": "2) Bacteriană",
         "isCorrect": true
       },
       {
@@ -5220,11 +5216,11 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Evoluţia scurtă (1-3 zile)",
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Evoluţia lungă (3-6 săptămani)",
         "isCorrect": true
       }
     ]
@@ -5234,7 +5230,7 @@
     "question": "Care din opacităţile corneene nu provoacă o diminuare accentuată a vederii:",
     "answers": [
       {
-        "text": "Nubecula",
+        "text": "2) Nubecula",
         "isCorrect": true
       },
       {
@@ -5283,7 +5279,7 @@
   },
   {
     "number": 204,
-    "question": "",
+    "question": "Îmbinarea simptoamelor de fotofobie, lacrimaţie, blefarospasm, senzaţii de corpi străini sunt caracteristice:",
     "answers": [
       {
         "text": "Cataractei",
@@ -5361,7 +5357,7 @@
   },
   {
     "number": 207,
-    "question": "",
+    "question": "La examinarea bolnavului în lumină trecătoare se determină reflex slab roz al fundului ochiului. La luminatul lateral cristalinul capată nuanţă surie. Acuitatea vizuală = 0,1 fără corecţie. Diagnosticul este:",
     "answers": [
       {
         "text": "Cataractă incipientă",
@@ -5416,7 +5412,7 @@
     "question": "Cauza glaucomului secundar postinflamator:",
     "answers": [
       {
-        "text": "Uveitele anterioare",
+        "text": "2) Uveitele anterioare",
         "isCorrect": true
       },
       {
@@ -5494,7 +5490,7 @@
     "question": "Scăderea acuităţii vizuale în uveite posterioare se datorează:",
     "answers": [
       {
-        "text": "Reacţie exudativă în corpul vitros",
+        "text": "2) Reacţie exudativă în corpul vitros",
         "isCorrect": true
       },
       {
@@ -5638,7 +5634,7 @@
     "question": "Funcţiile coroidei includ:",
     "answers": [
       {
-        "text": "Alimentarea retinei",
+        "text": "2) Alimentarea retinei",
         "isCorrect": true
       },
       {
@@ -5664,7 +5660,7 @@
     "question": "Complicaţiile ocluziei venei centrale ale retinei:",
     "answers": [
       {
-        "text": "Hemoftalm",
+        "text": "2) Hemoftalm",
         "isCorrect": true
       },
       {
@@ -5742,7 +5738,7 @@
     "question": "Cauzele scăderii treptate a AV:",
     "answers": [
       {
-        "text": "Cataracta",
+        "text": "2) Cataracta",
         "isCorrect": true
       },
       {
@@ -5794,7 +5790,7 @@
     "question": "Cauzele blefarospasmului reflex:",
     "answers": [
       {
-        "text": "Corp străin cornean",
+        "text": "2) Corp străin cornean",
         "isCorrect": true
       },
       {
@@ -5872,7 +5868,7 @@
     "question": "Semnele caracteristice in glaucom acut :",
     "answers": [
       {
-        "text": "Edem cornean",
+        "text": "2) Edem cornean",
         "isCorrect": true
       },
       {
@@ -5924,7 +5920,7 @@
     "question": "Complicaţiile uveitelor anterioare :",
     "answers": [
       {
-        "text": "Cataracta",
+        "text": "2) Cataracta",
         "isCorrect": true
       },
       {
@@ -5947,10 +5943,10 @@
   },
   {
     "number": 230,
-    "question": "",
+    "question": "Acuzele caracteristice in cataracta senilă incipientă:",
     "answers": [
       {
-        "text": "Scăderea acuităţii vizuale",
+        "text": "2) Scăderea acuităţii vizuale",
         "isCorrect": true
       },
       {
@@ -6054,7 +6050,7 @@
     "question": "Cheratita herpetică se caracterizează prin:",
     "answers": [
       {
-        "text": "Deficit de imunitate",
+        "text": "2) Deficit de imunitate",
         "isCorrect": true
       },
       {
@@ -6066,11 +6062,11 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Evoluţie îndelungată (3-6 săptămâni)",
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Evoluţie scurtă (1-3 zile)",
         "isCorrect": false
       }
     ]
@@ -6128,7 +6124,7 @@
     "question": "Metodele corecte pentru înlăturarea corpului străin parţial inclavat în straturile corneei:",
     "answers": [
       {
-        "text": "Cu ajutorul acului de unică folosinţă",
+        "text": "2) Cu ajutorul acului de unică folosinţă",
         "isCorrect": true
       },
       {
@@ -6136,7 +6132,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Cu magnetul (dacă este magnetic)",
         "isCorrect": true
       },
       {
@@ -6280,7 +6276,7 @@
     "question": "Complicaţiile dacriocistitei cronice purulente:",
     "answers": [
       {
-        "text": "Flegmon al sacului lacrimal",
+        "text": "2) Flegmon al sacului lacrimal",
         "isCorrect": true
       },
       {
@@ -6306,7 +6302,7 @@
     "question": "Cauzele cataractei complicate:",
     "answers": [
       {
-        "text": "Uveita anterioară",
+        "text": "2) Uveita anterioară",
         "isCorrect": true
       },
       {
@@ -6332,7 +6328,7 @@
     "question": "Ocluzia pupilei se manifestă prin:",
     "answers": [
       {
-        "text": "Hipertensie oculară",
+        "text": "2) Hipertensie oculară",
         "isCorrect": true
       },
       {
@@ -6436,7 +6432,7 @@
     "question": "Neurita nervului optic se manifestă prin:",
     "answers": [
       {
-        "text": "Scăderea acuităţii vizuale",
+        "text": "2) Scăderea acuităţii vizuale",
         "isCorrect": true
       },
       {
@@ -6488,7 +6484,7 @@
     "question": "Metodele de examinare ale glaucomului:",
     "answers": [
       {
-        "text": "Tonometria",
+        "text": "2) Tonometria",
         "isCorrect": true
       },
       {
@@ -6566,7 +6562,7 @@
     "question": "Manifestările glaucomului congenital:",
     "answers": [
       {
-        "text": "Mărirea dimensiunilor corneei",
+        "text": "2) Mărirea dimensiunilor corneei",
         "isCorrect": true
       },
       {
@@ -6592,7 +6588,7 @@
     "question": "Formă clinică a glaucomului primar este:",
     "answers": [
       {
-        "text": "Cu unghi inchis",
+        "text": "2) Cu unghi inchis",
         "isCorrect": true
       },
       {
@@ -6618,7 +6614,7 @@
     "question": "Grupele de medicamente hipotensive:",
     "answers": [
       {
-        "text": "Colinomimetice",
+        "text": "2) Colinomimetice",
         "isCorrect": true
       },
       {
@@ -6670,7 +6666,7 @@
     "question": "Entropionul palpebral se poate complica cu:",
     "answers": [
       {
-        "text": "Cheratită",
+        "text": "2) Cheratită",
         "isCorrect": true
       },
       {
@@ -6734,7 +6730,7 @@
         "isCorrect": false
       },
       {
-        "text": " Blefarospasm",
+        "text": "Eliminări mucoase şi purulente din punctele lacrimale la apăsare în regiunea sacului lacrimal e) Blefarospasm",
         "isCorrect": false
       }
     ]
@@ -6744,7 +6740,7 @@
     "question": "Complicaţiile dacriocistitei netratate la nou-născuţi pot fi:",
     "answers": [
       {
-        "text": "Flegmon al sacului lacrimal",
+        "text": "2) Flegmon al sacului lacrimal",
         "isCorrect": true
       },
       {
@@ -6770,7 +6766,7 @@
     "question": "Complicaţiile cataractei congenitale:",
     "answers": [
       {
-        "text": "Presbiopia",
+        "text": "2) Presbiopia",
         "isCorrect": true
       },
       {
@@ -6796,7 +6792,7 @@
     "question": "Complicaţiile miopiei maligne sunt:",
     "answers": [
       {
-        "text": "Dezlipire de retină",
+        "text": "2) Dezlipire de retină",
         "isCorrect": true
       },
       {
@@ -6822,7 +6818,7 @@
     "question": "Care preparat nu posedă efect de profilaxie a cataractelor:",
     "answers": [
       {
-        "text": "Dexamethazonul",
+        "text": "2) Dexamethazonul",
         "isCorrect": true
       },
       {
@@ -6848,7 +6844,7 @@
     "question": "Adaptarea ochiului la lumină:",
     "answers": [
       {
-        "text": "Se produce in 1-6 minute",
+        "text": "2) Se produce in 1-6 minute",
         "isCorrect": true
       },
       {
@@ -6874,7 +6870,7 @@
     "question": "Pentru determinarea acuităţii vizuale sunt necesare:",
     "answers": [
       {
-        "text": "Cameră obscură",
+        "text": "2) Cameră de examinare spaţioasă, care permite respectarea distanţei necesare între pacient şi optotip b) Cameră obscură",
         "isCorrect": true
       },
       {
@@ -6922,7 +6918,7 @@
     "question": "La ochiul hipermetrop presbiopia apare:",
     "answers": [
       {
-        "text": "Mai repede ca la miop",
+        "text": "2) Mai repede ca la miop",
         "isCorrect": true
       },
       {
@@ -6974,7 +6970,7 @@
     "question": "Peretele intern al orbitei comunică cu:",
     "answers": [
       {
-        "text": "Sinusul sfenoid",
+        "text": "2) Sinusul sfenoid",
         "isCorrect": true
       },
       {
@@ -7034,11 +7030,11 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Inflamaţiei tractului vascular (iridociclita)",
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Inflamaţiei corneei (keratita)",
         "isCorrect": true
       },
       {
@@ -7104,7 +7100,7 @@
     "question": "Ocluzia arterei centrale a retinei se caracterizează prin:",
     "answers": [
       {
-        "text": "Scăderea bruscă a acuităţii vizuale",
+        "text": "2) Scăderea bruscă a acuităţii vizuale",
         "isCorrect": true
       },
       {
@@ -7130,7 +7126,7 @@
     "question": "Tromboza venei centrale a retinei se caracterizează prin:",
     "answers": [
       {
-        "text": "Scăderea acuităţii vizuale",
+        "text": "2) Scăderea acuităţii vizuale",
         "isCorrect": true
       },
       {
@@ -7156,7 +7152,7 @@
     "question": "Semnele caracteristice ale neuritei optice retrobulbare:",
     "answers": [
       {
-        "text": "Diminuarea marcantă a vederii centrale",
+        "text": "2) Diminuarea marcantă a vederii centrale",
         "isCorrect": true
       },
       {
@@ -7172,7 +7168,7 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Discromatopsii (dereglarea vederii cromatice)",
         "isCorrect": true
       }
     ]
@@ -7182,7 +7178,7 @@
     "question": "Lezarea nervului optic (întretăerea acestuia) se va caracteriza prin:",
     "answers": [
       {
-        "text": "Cecitate al acestui ochi",
+        "text": "2) Cecitate al acestui ochi",
         "isCorrect": true
       },
       {
@@ -7234,7 +7230,7 @@
     "question": "Scăderea acuităţii vizuale în afecţiunile corneene poate fi afectată de:",
     "answers": [
       {
-        "text": "Dereglări de formă şi refracţie corneană",
+        "text": "2) Dereglări de formă şi refracţie corneană",
         "isCorrect": true
       },
       {
@@ -7286,7 +7282,7 @@
     "question": "Contraindicaţii pentru administrarea corticosteroizilor:",
     "answers": [
       {
-        "text": "Ulcer serpiginos corneean",
+        "text": "2) Ulcer serpiginos corneean",
         "isCorrect": true
       },
       {
@@ -7324,7 +7320,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Cherato-conjunctivitele flictenuloase (tbc)",
         "isCorrect": true
       },
       {
@@ -7364,7 +7360,7 @@
     "question": "Cheratita luetică se întâlneşte:",
     "answers": [
       {
-        "text": "La varsta 6-20 ani",
+        "text": "2) La varsta 6-20 ani",
         "isCorrect": true
       },
       {
@@ -7390,7 +7386,7 @@
     "question": "Fazele cheratitei luetice:",
     "answers": [
       {
-        "text": "De infiltraţie",
+        "text": "2) De infiltraţie",
         "isCorrect": true
       },
       {
@@ -7442,7 +7438,7 @@
     "question": "Formele cheratitelor endogene:",
     "answers": [
       {
-        "text": "Luetice",
+        "text": "2) Luetice",
         "isCorrect": true
       },
       {
@@ -7494,7 +7490,7 @@
     "question": "Cataracta diabetică se caracterizează prin:",
     "answers": [
       {
-        "text": "Proces bilateral",
+        "text": "2) Proces bilateral",
         "isCorrect": true
       },
       {
@@ -7546,7 +7542,7 @@
     "question": "Stadiul glaucomului se stabileşte după indicii:",
     "answers": [
       {
-        "text": "Funcţiilor vizuale (campul vizual, AV)",
+        "text": "2) Funcţiilor vizuale (campul vizual, AV)",
         "isCorrect": true
       },
       {
@@ -7554,7 +7550,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Tabloul oftalmoscopic (excavaţia discului nervului optic)",
         "isCorrect": false
       },
       {
@@ -7572,7 +7568,7 @@
     "question": "Cauzele glaucomului secundar traumatic sunt:",
     "answers": [
       {
-        "text": "Hemoragiile masive intraoculare",
+        "text": "2) Hemoragiile masive intraoculare",
         "isCorrect": true
       },
       {
@@ -7624,7 +7620,7 @@
     "question": "Distingem următoarele tipuri de cataractă:",
     "answers": [
       {
-        "text": "Congenitală",
+        "text": "2) Congenitală",
         "isCorrect": true
       },
       {
@@ -7650,7 +7646,7 @@
     "question": "Indicaţii pentru tratament cu laser în oftalmologie:",
     "answers": [
       {
-        "text": "Cataractă secundară",
+        "text": "2) Cataractă secundară",
         "isCorrect": true
       },
       {
@@ -7676,7 +7672,7 @@
     "question": "Midriaza este produsă de:",
     "answers": [
       {
-        "text": "Atropină",
+        "text": "2) Atropină",
         "isCorrect": true
       },
       {
@@ -7714,11 +7710,11 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Difuz dilimitat (contururi şterse)",
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Decolorat (pal)",
         "isCorrect": false
       }
     ]
@@ -7744,7 +7740,7 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Sinechii posterioare (iridocristaliniene)",
         "isCorrect": false
       }
     ]
@@ -7754,7 +7750,7 @@
     "question": "Nervul oculomotor inervează muşchii:",
     "answers": [
       {
-        "text": "Drept intern",
+        "text": "2) Drept intern",
         "isCorrect": true
       },
       {
@@ -7762,7 +7758,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Oblic mare (superior)",
         "isCorrect": false
       },
       {
@@ -7780,7 +7776,7 @@
     "question": "Leziunile traumatice oculare ce necesită chirurgia de urgenţă sunt:",
     "answers": [
       {
-        "text": "Plăgi oculare penetrante cu dimensiuni peste 2 mm",
+        "text": "2) Plăgi oculare penetrante cu dimensiuni peste 2 mm",
         "isCorrect": true
       },
       {
@@ -7806,7 +7802,7 @@
     "question": "Complicaţiile luxaţiei cristalinului in vitros sunt:",
     "answers": [
       {
-        "text": "Obţinerea proprietăţilor unui ochi afac",
+        "text": "2) Obţinerea proprietăţilor unui ochi afac",
         "isCorrect": true
       },
       {
@@ -7832,7 +7828,7 @@
     "question": "Diagnosticul diferenţial al cataractei senile se face cu:",
     "answers": [
       {
-        "text": "Glaucom cronic simplu",
+        "text": "2) Glaucom cronic simplu",
         "isCorrect": true
       },
       {
@@ -7858,7 +7854,7 @@
     "question": "Acuzele pacienţilor în caz de dacriocistită cronică purulentă:",
     "answers": [
       {
-        "text": "Lăcrimare",
+        "text": "2) Lăcrimare",
         "isCorrect": true
       },
       {
@@ -7962,7 +7958,7 @@
     "question": "Atrofia nervului optic se poate dezvolta în:",
     "answers": [
       {
-        "text": "În unele afecţiuni ale retinei",
+        "text": "2) În unele afecţiuni ale retinei",
         "isCorrect": true
       },
       {
@@ -8011,7 +8007,7 @@
   },
   {
     "number": 310,
-    "question": "",
+    "question": "Copil de 1 an prezintă strabism. Medicul de familie a observat absenţa reflexului pupilar roşu şi prezenţa unui reflex alb-gălbui:",
     "answers": [
       {
         "text": "Prezenţa reflexului pupilar alb-gălbui este normală la un copil de 1 an",
@@ -8152,7 +8148,7 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Poziţia vicioasă a capului (torticolis)",
         "isCorrect": true
       },
       {
@@ -8245,10 +8241,10 @@
   },
   {
     "number": 319,
-    "question": "",
+    "question": "Care din următoarele manifestări clinice şi funcţionale nu se încadrează în simptomatologia generală a conjunctivitelor:",
     "answers": [
       {
-        "text": "Scăderea acuităţii vizuale",
+        "text": "2) Scăderea acuităţii vizuale",
         "isCorrect": true
       },
       {
@@ -8300,7 +8296,7 @@
     "question": "Orgeletul reprezintă inflamaţia:",
     "answers": [
       {
-        "text": "Glandelor Zeiss şi Moll",
+        "text": "2) Glandelor Zeiss şi Moll",
         "isCorrect": true
       },
       {
@@ -8326,7 +8322,7 @@
     "question": "Şalazionul apare mai frecvent după:",
     "answers": [
       {
-        "text": "Orgelet intern",
+        "text": "2) Orgelet intern",
         "isCorrect": true
       },
       {
@@ -8378,7 +8374,7 @@
     "question": "În tratamentul ulcerului corneean cu hipopion utilizăm:",
     "answers": [
       {
-        "text": "Midriatice",
+        "text": "2) Midriatice",
         "isCorrect": true
       },
       {
@@ -8504,7 +8500,7 @@
     "question": "Cristalinul se examinează prin:",
     "answers": [
       {
-        "text": "Biomicroscopie",
+        "text": "2) Biomicroscopie",
         "isCorrect": true
       },
       {
@@ -8556,7 +8552,7 @@
     "question": "Corecţia afachiei se face cu:",
     "answers": [
       {
-        "text": "Lentile aeriene",
+        "text": "2) Lentile aeriene",
         "isCorrect": true
       },
       {
@@ -8660,7 +8656,7 @@
     "question": "În cazul suspiciunii unui corp străin intraocular, principalele examinări vor fi:",
     "answers": [
       {
-        "text": "Radiografia orbitelor în 2 proiecţii",
+        "text": "2) Radiografia orbitelor în 2 proiecţii",
         "isCorrect": true
       },
       {
@@ -8764,7 +8760,7 @@
     "question": "Vizualizarea nervului optic se realizează prin:",
     "answers": [
       {
-        "text": "Oftalmoscopie",
+        "text": "2) Oftalmoscopie",
         "isCorrect": true
       },
       {
@@ -8790,7 +8786,7 @@
     "question": "Complicaţiile iridociclitelor cronice:",
     "answers": [
       {
-        "text": "Cataracta complicată",
+        "text": "2) Cataracta complicată",
         "isCorrect": true
       },
       {
@@ -8868,7 +8864,7 @@
     "question": "Midriază de cauză oculară apare în:",
     "answers": [
       {
-        "text": "Glaucom acut",
+        "text": "2) Glaucom acut",
         "isCorrect": true
       },
       {
@@ -8943,10 +8939,10 @@
   },
   {
     "number": 346,
-    "question": "",
+    "question": "În prezenţa sinechiilor posterioare la un ochi cu uveită acută este necesară administrarea midriaticelor pentru:",
     "answers": [
       {
-        "text": "Prevenirea secluziei pupilare",
+        "text": "2) Prevenirea secluziei pupilare",
         "isCorrect": true
       },
       {
@@ -9028,8 +9024,8 @@
         "isCorrect": true
       },
       {
-        "text": "evolutive",
-        "isCorrect": false
+        "text": "Are trei stadii (grade) evolutive",
+        "isCorrect": true
       },
       {
         "text": "Se examinează cu testul în culori Worth",
@@ -9154,7 +9150,7 @@
     "question": "În tratamentul obstrucţiilor venoase retiniene se folosesc:",
     "answers": [
       {
-        "text": "Antiagregante",
+        "text": "2) Antiagregante",
         "isCorrect": true
       },
       {
@@ -9206,7 +9202,7 @@
     "question": "În tratamentul obstrucţiei arterei centrale a retinei se administrează:",
     "answers": [
       {
-        "text": "Vasodilatatoare",
+        "text": "2) Vasodilatatoare",
         "isCorrect": true
       },
       {
@@ -9232,7 +9228,7 @@
     "question": "Retinopatia diabetică simplă se caracterizează prin apariţia:",
     "answers": [
       {
-        "text": "Microanevrisme sferice simple",
+        "text": "2) Microanevrisme sferice simple",
         "isCorrect": true
       },
       {
@@ -9258,7 +9254,7 @@
     "question": "Retina optică aderă de straturile învecinate la nivelul:",
     "answers": [
       {
-        "text": "Papilei nervului optic",
+        "text": "2) Papilei nervului optic",
         "isCorrect": true
       },
       {
@@ -9310,7 +9306,7 @@
     "question": "Angiopatia retiniană hipertensivă st. II prin:",
     "answers": [
       {
-        "text": "Reflex arterial de \"cupru\"",
+        "text": "2) Reflex arterial de \"cupru\"",
         "isCorrect": true
       },
       {
@@ -9362,7 +9358,7 @@
     "question": "Lentilele sferice convergente servesc pentru corectarea:",
     "answers": [
       {
-        "text": "Hipermetropiei",
+        "text": "2) Hipermetropiei",
         "isCorrect": true
       },
       {
@@ -9388,7 +9384,7 @@
     "question": "Acomodaţia este capacitatea ochiului de a-şi modifica puterea de convergenţă când priveşte un obiect situat:",
     "answers": [
       {
-        "text": "Sub 5 m",
+        "text": "2) Sub 5 m",
         "isCorrect": true
       },
       {
@@ -9440,7 +9436,7 @@
     "question": "Presbiopia este o tulburare a acomodaţiei:",
     "answers": [
       {
-        "text": "Fiziologică",
+        "text": "2) Fiziologică",
         "isCorrect": true
       },
       {
@@ -9492,7 +9488,7 @@
     "question": "Glaucomul absolut se caracterizează prin:",
     "answers": [
       {
-        "text": "Absenţa totală a vederii",
+        "text": "2) Absenţa totală a vederii",
         "isCorrect": true
       },
       {
@@ -9518,7 +9514,7 @@
     "question": "Cauzele glaucomului secundar:",
     "answers": [
       {
-        "text": "Arsurile oculare",
+        "text": "2) Arsurile oculare",
         "isCorrect": true
       },
       {
@@ -9544,7 +9540,7 @@
     "question": "Modificările papilare în glaucomul cronic simplu evolutiv sunt:",
     "answers": [
       {
-        "text": "Excavaţie papilară",
+        "text": "2) Excavaţie papilară",
         "isCorrect": true
       },
       {
@@ -9560,7 +9556,7 @@
         "isCorrect": true
       },
       {
-        "text": "",
+        "text": "Proeminenţa papilară (edem)",
         "isCorrect": false
       }
     ]
@@ -9570,7 +9566,7 @@
     "question": "Simptomatologia obiectivă a glaucomului congenital precoce este:",
     "answers": [
       {
-        "text": "Dimensiuni mărite ale globului ocular",
+        "text": "2) Dimensiuni mărite ale globului ocular",
         "isCorrect": true
       },
       {
@@ -9622,7 +9618,7 @@
     "question": "Semnele subiective ale atacului acut de glaucom sunt:",
     "answers": [
       {
-        "text": "Durere oculară accentuată cu hemicranie",
+        "text": "2) Durere oculară accentuată cu hemicranie",
         "isCorrect": true
       },
       {
@@ -9648,7 +9644,7 @@
     "question": "Formele clinice ale glaucomului primar cronic sunt:",
     "answers": [
       {
-        "text": "Glaucom cronic simplu cu unghi deschis",
+        "text": "2) Glaucom cronic simplu cu unghi deschis",
         "isCorrect": true
       },
       {
@@ -9674,7 +9670,7 @@
     "question": "Eliminarea umorii apoase din glob se face prin:",
     "answers": [
       {
-        "text": "Trabeculul corneoscleral",
+        "text": "2) Trabeculul corneoscleral",
         "isCorrect": true
       },
       {
@@ -9700,7 +9696,7 @@
     "question": "Examinarea papilei nervului optic se face prin:",
     "answers": [
       {
-        "text": "Oftalmoscopie directă şi indirectă",
+        "text": "2) Oftalmoscopie directă şi indirectă",
         "isCorrect": true
       },
       {
@@ -9726,7 +9722,7 @@
     "question": "Indicaţiile de tratament chirurgical în glaucomul cronic simplu:",
     "answers": [
       {
-        "text": " Scleroza accentuată a vaselor retiniene",
+        "text": "2) Imposibilitatea normalizării tensiunii intraoculare prin medicaţie locală şi generală antiglaucomatoasă b) Scleroza accentuată a vaselor retiniene",
         "isCorrect": false
       },
       {
@@ -9826,7 +9822,7 @@
     "question": "Tulburările de percepţie cromatică ereditare sunt:",
     "answers": [
       {
-        "text": "Genetic determinate",
+        "text": "2) Genetic determinate",
         "isCorrect": true
       },
       {
@@ -9860,7 +9856,7 @@
         "isCorrect": false
       },
       {
-        "text": "",
+        "text": "Testul in culori (Worth)",
         "isCorrect": true
       },
       {
@@ -9904,7 +9900,7 @@
     "question": "Cataracta senilă întumescentă se manifestă prin:",
     "answers": [
       {
-        "text": "Se produce hidratarea cristalinului",
+        "text": "2) Se produce hidratarea cristalinului",
         "isCorrect": true
       },
       {
@@ -10008,7 +10004,7 @@
     "question": "Simţul cromatic poate fi determinat prin următoarele metode:",
     "answers": [
       {
-        "text": "Procedee de denumire",
+        "text": "2) Procedee de denumire",
         "isCorrect": true
       },
       {
@@ -10031,7 +10027,7 @@
   },
   {
     "number": 388,
-    "question": "",
+    "question": "Acomodaţia este capacitatea ochiului de a-şi modifica puterea de convergenţă când priveşte un obiect situat:",
     "answers": [
       {
         "text": "Sub 5 m",
@@ -10060,7 +10056,7 @@
     "question": "Angioscleroza retiniană hipertensivă este caracterizată prin:",
     "answers": [
       {
-        "text": "Reflex arterial \"de cupru\"",
+        "text": "2) Reflex arterial \"de cupru\"",
         "isCorrect": true
       },
       {
@@ -10086,7 +10082,7 @@
     "question": "Emfizemul orbito-palpebral se produce in urma:",
     "answers": [
       {
-        "text": "Plăgilor palpebrale perforante",
+        "text": "2) Plăgilor palpebrale perforante",
         "isCorrect": true
       },
       {
@@ -10129,6 +10125,500 @@
       },
       {
         "text": "Dacriocistită",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 392,
+    "question": "Corpul ciliar:",
+    "answers": [
+      {
+        "text": "Constă din pars plana şi pars plicata",
+        "isCorrect": true
+      },
+      {
+        "text": "Produce umoarea apoasă",
+        "isCorrect": true
+      },
+      {
+        "text": "Este vascularizată de arterele ciliare posterioare scurte",
+        "isCorrect": false
+      },
+      {
+        "text": "Este responsabil de acomodaţie",
+        "isCorrect": true
+      },
+      {
+        "text": "Face parte din tunica externă a globului ocular",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 393,
+    "question": "Este adevărat ca:",
+    "answers": [
+      {
+        "text": "Muşchiul oblic superior este inserat la scleră anterior de ecuator",
+        "isCorrect": false
+      },
+      {
+        "text": "Muşchiul drept extern este inervat de n. abducens",
+        "isCorrect": true
+      },
+      {
+        "text": "Muşchiul drept extern îşi are originea în regiunea aripei nici a osului sfenoid",
+        "isCorrect": false
+      },
+      {
+        "text": "Muşchiul drept superior se inseră la scleră anterior de ecuator",
+        "isCorrect": true
+      },
+      {
+        "text": "Muşchiul oblic inferior este inervat de n. trohlear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 394,
+    "question": "Care dintre afirmaţia referitoare la cristalin este  adevărată:",
+    "answers": [
+      {
+        "text": "90% din greutate este datorată apei",
+        "isCorrect": true
+      },
+      {
+        "text": "Are inervaţie senzitivă",
+        "isCorrect": false
+      },
+      {
+        "text": "Capsula posterioară este mai elastică decât cea anterioară",
+        "isCorrect": false
+      },
+      {
+        "text": "Are o putere de refracţie în repaos de 44D",
+        "isCorrect": false
+      },
+      {
+        "text": "Este o lentilă sferică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 395,
+    "question": "Nervul optic:",
+    "answers": [
+      {
+        "text": "Segmentul intraocular este cea mai scurtă porţiune a nervului optic",
+        "isCorrect": true
+      },
+      {
+        "text": "Segmentul intracanalicular este cea mai lungă porţiunea a nervului optic",
+        "isCorrect": false
+      },
+      {
+        "text": "Segmentul intracranial are cea mai variabilă lungimea",
+        "isCorrect": true
+      },
+      {
+        "text": "Segmentul intraorbital este cel mai vulnerabil la traumatismul indirect",
+        "isCorrect": false
+      },
+      {
+        "text": "Papila nervului optic este examinată prin oftalmoscopie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 396,
+    "question": "Nervul optic:",
+    "answers": [
+      {
+        "text": "Segmentul intraorbitar este cea mai lungă porţiunea a nervului optic",
+        "isCorrect": true
+      },
+      {
+        "text": "Segmentul intracanalicular este cel mai vulnerabil la traume",
+        "isCorrect": true
+      },
+      {
+        "text": "Toate segmentele cu excepţia celui intraocular sunt invăluite în lichid cefalo-rahidian",
+        "isCorrect": true
+      },
+      {
+        "text": "În regiunea chiasmei se încrucişează fibrele nazale",
+        "isCorrect": true
+      },
+      {
+        "text": "În regiunea chiasmei se încrucişează fibrele temporale",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 397,
+    "question": "Care segment a nervului optic poate fi vizualizat oftalmoscopic:",
+    "answers": [
+      {
+        "text": "intraocular",
+        "isCorrect": true
+      },
+      {
+        "text": "intracanalicular",
+        "isCorrect": false
+      },
+      {
+        "text": "intraorbitar",
+        "isCorrect": false
+      },
+      {
+        "text": "intracranian",
+        "isCorrect": false
+      },
+      {
+        "text": "toate segmentele",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 398,
+    "question": "Presiunea intraoculară:",
+    "answers": [
+      {
+        "text": "Prezintă variaţii diurne",
+        "isCorrect": true
+      },
+      {
+        "text": "Prezintă variaţii sezoniere",
+        "isCorrect": false
+      },
+      {
+        "text": "Scade cu vârsta",
+        "isCorrect": false
+      },
+      {
+        "text": "Creşte cu vârsta",
+        "isCorrect": false
+      },
+      {
+        "text": "Este afectată de anestezia generală",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 399,
+    "question": "Care din aceste preparate provoacă creşterea PIO:",
+    "answers": [
+      {
+        "text": "steroizii",
+        "isCorrect": true
+      },
+      {
+        "text": "acetazolamida",
+        "isCorrect": false
+      },
+      {
+        "text": "Vit.A",
+        "isCorrect": false
+      },
+      {
+        "text": "Tetracyclina",
+        "isCorrect": false
+      },
+      {
+        "text": "B-blocantele",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 400,
+    "question": "Conjunctivita primăvăratică",
+    "answers": [
+      {
+        "text": "Are caracter sezonier",
+        "isCorrect": true
+      },
+      {
+        "text": "Se caracterizează prin apariţia foliculelor pe conjunctiva pleoapei inferioare",
+        "isCorrect": false
+      },
+      {
+        "text": "Se caracterizează prin apariţia papilelor pe conjunctiva pleoapei superioare",
+        "isCorrect": false
+      },
+      {
+        "text": "Se asociază cu secreţii muco-purulente",
+        "isCorrect": false
+      },
+      {
+        "text": "Se asociază cu prurit, fotofobie, lacrimare, conjestie oculară",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "number": 401,
+    "question": "Miopul de 5D ajunge la presbiopie:",
+    "answers": [
+      {
+        "text": "Mai târziu ca hipermetropul",
+        "isCorrect": false
+      },
+      {
+        "text": "În acelaşi timp cu emetropul",
+        "isCorrect": false
+      },
+      {
+        "text": "Niciodată",
+        "isCorrect": true
+      },
+      {
+        "text": "La fel ca hipermetropul",
+        "isCorrect": false
+      },
+      {
+        "text": "Mai devreme ca emetropul",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 402,
+    "question": "Rolul acomodaţiei este de:",
+    "answers": [
+      {
+        "text": "A nu obosi ochiul",
+        "isCorrect": true
+      },
+      {
+        "text": "A menţine focarul principal pe retină",
+        "isCorrect": true
+      },
+      {
+        "text": "A mari curbura cristalinului",
+        "isCorrect": true
+      },
+      {
+        "text": "A menţine focarul principal după retină",
+        "isCorrect": false
+      },
+      {
+        "text": "A micşora curbura cristalinului",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 403,
+    "question": "În cazul unei exoftalmii ireductibile, unilaterale la o pacientă de 60 ani globul fiind deviat infero-nazal suspectăm:",
+    "answers": [
+      {
+        "text": "Maladia Basedow",
+        "isCorrect": false
+      },
+      {
+        "text": "Celulita orbitară",
+        "isCorrect": false
+      },
+      {
+        "text": "Tumoare a glandei lacrimale",
+        "isCorrect": true
+      },
+      {
+        "text": "Şalazion pleoapei inferioare",
+        "isCorrect": false
+      },
+      {
+        "text": "Bazalion pleoapei inferioare",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 404,
+    "question": "Care dintre colirele enumerate pot provoca hipertensiune oculară:",
+    "answers": [
+      {
+        "text": "Colire midriatice",
+        "isCorrect": true
+      },
+      {
+        "text": "Colire miotice",
+        "isCorrect": false
+      },
+      {
+        "text": "Colire corticosteroide",
+        "isCorrect": true
+      },
+      {
+        "text": "Colire antiseptice",
+        "isCorrect": false
+      },
+      {
+        "text": "Colire antibiotice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 405,
+    "question": "Examinarea câmpului vizual poate studia toate deficitele vizuale enumerate cu excepţia unuia. Care?:",
+    "answers": [
+      {
+        "text": "Retinian",
+        "isCorrect": false
+      },
+      {
+        "text": "Scleral",
+        "isCorrect": true
+      },
+      {
+        "text": "Papilar",
+        "isCorrect": false
+      },
+      {
+        "text": "Chiasmatic",
+        "isCorrect": false
+      },
+      {
+        "text": "Calcarin",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 406,
+    "question": "Care dintre examinările paraclinice enumerate ne permite confirmarea prezenţei corpului străin metalic intraocular:",
+    "answers": [
+      {
+        "text": "Ionograma",
+        "isCorrect": false
+      },
+      {
+        "text": "Angiografia fluoresceinică a fundului de ochi",
+        "isCorrect": false
+      },
+      {
+        "text": "Radiografia orbitară",
+        "isCorrect": true
+      },
+      {
+        "text": "Tonometria",
+        "isCorrect": false
+      },
+      {
+        "text": "Electroencefalograma",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 407,
+    "question": "Care dintre afecţiunile oculare enumerate nu se asociază cu dureri oculare:",
+    "answers": [
+      {
+        "text": "Glaucom acut",
+        "isCorrect": false
+      },
+      {
+        "text": "Iridociclita",
+        "isCorrect": false
+      },
+      {
+        "text": "Decolarea de retină",
+        "isCorrect": true
+      },
+      {
+        "text": "Ocluzia arterei centrale a retinei",
+        "isCorrect": true
+      },
+      {
+        "text": "Eroziune corneană posttraumatică",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 408,
+    "question": "Ectropion palpebral senil este cauzat de:",
+    "answers": [
+      {
+        "text": "O hipertonie a muşchiului ridicator a pleoapei superioare",
+        "isCorrect": false
+      },
+      {
+        "text": "O refracţie cicatricială",
+        "isCorrect": false
+      },
+      {
+        "text": "O distensie tisulară",
+        "isCorrect": true
+      },
+      {
+        "text": "O hipertonie a muşchiului orbicular",
+        "isCorrect": false
+      },
+      {
+        "text": "O hipotonie conjunctivală",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 409,
+    "question": "Care din elementele enumerate pot favoriza apariţia glaucomului acut prin închiderea unghiului:",
+    "answers": [
+      {
+        "text": "Miopia",
+        "isCorrect": false
+      },
+      {
+        "text": "Camera anterioară mică (îngustă)",
+        "isCorrect": true
+      },
+      {
+        "text": "Instilaţia Sol. Pilocarpină 1%",
+        "isCorrect": false
+      },
+      {
+        "text": "Instilaţia Sol. Atropină 1%",
+        "isCorrect": true
+      },
+      {
+        "text": "Camera anterioară profundă",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "number": 410,
+    "question": "În cazul retinopatiei diabetice tratamentul prin fotocoagulare laser are ca scop:",
+    "answers": [
+      {
+        "text": "Prevenirea apariţiei proliferaţiilor vitreoretiniene",
+        "isCorrect": true
+      },
+      {
+        "text": "Clarificarea vitrosului în caz de hemoragie",
+        "isCorrect": false
+      },
+      {
+        "text": "Micşorarea zonelor de ischemie retiniană",
+        "isCorrect": true
+      },
+      {
+        "text": "Evitarea apariţiei neuritei optice",
+        "isCorrect": false
+      },
+      {
+        "text": "Evitarea apariţiei cataractei",
         "isCorrect": false
       }
     ]
