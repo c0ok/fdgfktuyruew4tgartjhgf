@@ -1,13 +1,14 @@
-import { useRef, useState } from 'react';
+import { QuestionCard } from 'components';
 import { Button, Container, IconLeftArrow, IconRightArrow, Input, Text } from 'components/UI';
+import { useRef, useState } from 'react';
 import { calcChooseMode } from 'shared/utils';
 import { shuffleArray } from 'shared/utils/shuffleArray';
-import { QuestionCard } from 'components';
 
 import hematology from '../../../public/hematology.json';
+import MBDGPKnI88YzrM from '../../../public/ji2FrFvJxpcvXU.json';
 import neurology from '../../../public/neurology.json';
 import neurosurgery from '../../../public/neurosurgery.json';
-import MBDGPKnI88YzrM from '../../../public/ji2FrFvJxpcvXU.json';
+import pneumology from '../../../public/pneumology.json';
 
 import style from './index.module.scss';
 
@@ -23,6 +24,9 @@ const getQuestion = () => {
 
     case 'neurosurgery':
       return neurosurgery;
+
+    case 'pneumology':
+      return pneumology;
 
     case 'sRqicsRNXJtpjq':
       return MBDGPKnI88YzrM;
